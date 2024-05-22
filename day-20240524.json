@@ -1,0 +1,198 @@
+{
+	"stddate": "2024-05-24",
+	"community_time": [],
+	"days_after_this": -1,
+	"aod": "None",
+	"weekday_english": "Friday",
+	"weekdays_abbrev": [
+		"Fri",
+		"Sat",
+		"Sun",
+		"Mon"
+	],
+	"weekday_chinese": "周五",
+	"day_of_cycle": "A",
+	"today_breakfast": [
+		[
+			{
+				"en": "Shaomai",
+				"zh": "烧麦"
+			},
+			{
+				"en": "Custrd Bun/Stuffed Sticky Rice Ball",
+				"zh": "流沙包/手工粢饭团"
+			},
+			{
+				"en": "Tea Egg",
+				"zh": "茶叶蛋"
+			},
+			{
+				"en": "Shrimp with Green Vegetables Congee",
+				"zh": "青菜虾仁粥"
+			},
+			{
+				"en": "Vegetable",
+				"zh": "蔬菜"
+			}
+		],
+		[
+			{
+				"en": "Roasted Mushroom",
+				"zh": "烤香菇"
+			},
+			{
+				"en": "Baked Egg with Cheese Sausage on Toast",
+				"zh": "芝士香肠蔬菜吐司烘蛋"
+			},
+			{
+				"en": "Oatmeal",
+				"zh": "麦片粥"
+			},
+			{
+				"en": "Baked Beans",
+				"zh": "茄汁焗豆"
+			}
+		],
+		[
+			{
+				"en": "Pork and Preserved Vegetable Noodles& Bean Curd",
+				"zh": "雪菜肉丝面&素鸡"
+			}
+		],
+		[
+			{
+				"en": "Toast Selection",
+				"zh": "白吐司/全麦吐司"
+			},
+			{
+				"en": "Jam Selection (Strawberry, Orange, Butter)",
+				"zh": "草莓酱/橘子酱/小黄油"
+			},
+			{
+				"en": "Dried Soda Biscuit",
+				"zh": "卜卜米, 葡萄干, 蔓越莓干, 牛奶"
+			}
+		],
+		[
+			{
+				"en": "Fruit/Yogurt/Yakult/Milk/Juice /Soybean Milk",
+				"zh": "水果/酸奶/养乐多/牛奶/果汁/豆浆"
+			}
+		]
+	],
+	"today_lunch": [
+		[
+			{
+				"en": "Braised Pork Balls",
+				"zh": "红烧狮子头"
+			},
+			{
+				"en": "Fried Egg with Tomato",
+				"zh": "西红柿炒蛋"
+			},
+			{
+				"en": "Green Vegetables",
+				"zh": "杭白菜"
+			},
+			{
+				"en": "Green Beans",
+				"zh": "青豆"
+			},
+			{
+				"en": "Steamed Brown Rice",
+				"zh": "米饭"
+			}
+		],
+		[
+			{
+				"en": "Mexican Carne Asada",
+				"zh": "墨西哥烤牛肉"
+			},
+			{
+				"en": "Red Cabbage",
+				"zh": "红酸椰菜"
+			},
+			{
+				"en": "Mexican Beans",
+				"zh": "墨西哥焗豆"
+			},
+			{
+				"en": "Mexican Rice",
+				"zh": "墨西哥米饭"
+			}
+		],
+		[
+			{
+				"en": "Laksa",
+				"zh": "叻沙面/鹌鹑蛋"
+			}
+		],
+		[
+			{
+				"en": "Chicken Enchiladas",
+				"zh": "墨西哥鸡肉卷"
+			}
+		],
+		[
+			{
+				"en": "Vegetarian Huevos Rancheros",
+				"zh": "烤彩椒丝"
+			}
+		],
+		[
+			{
+				"en": "Elote Soup",
+				"zh": "墨西哥素玉米卷"
+			}
+		],
+		[
+			{
+				"en": "Mexican churros /Fruit/Yogurt/Yakult/Milk/Juice",
+				"zh": "墨西哥玉米浓汤"
+			}
+		]
+	],
+	"today_dinner": [
+		[],
+		[
+			{
+				"en": "Roast BBQ Pork Rib",
+				"zh": "碳烤肋排"
+			},
+			{
+				"en": "Sautéed Broccoli",
+				"zh": "西兰花"
+			},
+			{
+				"en": "Green Vegetables",
+				"zh": "杭白菜"
+			},
+			{
+				"en": "Garlic Bread",
+				"zh": "蒜香面包"
+			}
+		],
+		[
+			{
+				"en": "Noodles with Duck Breast",
+				"zh": "红烧鸭胸面/外婆菜炒蛋"
+			}
+		],
+		[],
+		[],
+		[
+			{
+				"en": "Shrimp Soup with White Gourd",
+				"zh": "冬瓜虾皮汤"
+			}
+		],
+		[
+			{
+				"en": "Strawberry Swiss Roll /Fruit/YogurtYakult/Milk/Juice",
+				"zh": "草莓瑞士卷/水果/酸奶/养乐多/牛奶/果汁"
+			}
+		]
+	],
+	"next_breakfast": null,
+	"the_week_ahead_url": "https://ykpaoschool-my.sharepoint.com/:p:/g/personal/cora_chen_ykpaoschool_cn/ES8-D2AEochFhwvz7-fL5GEBqVI9dhtYoFi3PdKTKV04Jg"
+}

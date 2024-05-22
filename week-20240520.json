@@ -5,7 +5,7 @@
 			"Academic Assembly End of Year Exams-Mr. Eddison (Auditorium)",
 			"IGCSE Exams",
 			"Dean's Forum (Auditorium)",
-			"IB Exams"
+			"Grad Week"
 		],
 		[
 			"Tutor Time",
@@ -27,8 +27,8 @@
 		]
 	],
 	"aods": [
-		"Zang Na",
 		"Duncan Weller",
+		"Zang Na",
 		"Chris Warren",
 		"Alex Aristizabal"
 	],
@@ -83,7 +83,7 @@
 					},
 					{
 						"en": "Daily Cereal with Milk",
-						"zh": "可可球,葡萄干,蔓越莓干,芝麻饼干"
+						"zh": "可可球, 葡萄干, 蔓越莓干, 芝麻饼干"
 					}
 				],
 				[
@@ -159,7 +159,7 @@
 					},
 					{
 						"en": "Daily Cereal with Yogurt",
-						"zh": "玉米片,葡萄干,蔓越莓干,酸奶"
+						"zh": "玉米片, 葡萄干, 蔓越莓干, 酸奶"
 					}
 				],
 				[
@@ -231,7 +231,7 @@
 					},
 					{
 						"en": "Daily Cereal with Milk",
-						"zh": "脆圈圈,葡萄干,蔓越莓干,牛奶"
+						"zh": "脆圈圈, 葡萄干, 蔓越莓干, 牛奶"
 					}
 				],
 				[
@@ -307,7 +307,7 @@
 					},
 					{
 						"en": "Daily Cereal with Yogurt",
-						"zh": "麦片,葡萄干,蔓越莓干,酸奶"
+						"zh": "麦片, 葡萄干, 蔓越莓干, 酸奶"
 					}
 				],
 				[
@@ -375,7 +375,7 @@
 					},
 					{
 						"en": "Dried Soda Biscuit",
-						"zh": "卜卜米,葡萄干,蔓越莓干,牛奶"
+						"zh": "卜卜米, 葡萄干, 蔓越莓干, 牛奶"
 					}
 				],
 				[
@@ -449,7 +449,7 @@
 				[
 					{
 						"en": "Hot and Sour Soup",
-						"zh": "秋葵豆泥,奶油扁豆"
+						"zh": "秋葵豆泥, 奶油扁豆"
 					}
 				],
 				[
