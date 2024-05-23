@@ -326,5 +326,17 @@
 			}
 		]
 	],
-	"the_week_ahead_url": "https://ykpaoschool-my.sharepoint.com/:p:/g/personal/cora_chen_ykpaoschool_cn/ES8-D2AEochFhwvz7-fL5GEBqVI9dhtYoFi3PdKTKV04Jg"
+	"the_week_ahead_url": "https://ykpaoschool-my.sharepoint.com/:p:/g/personal/cora_chen_ykpaoschool_cn/ES8-D2AEochFhwvz7-fL5GEBqVI9dhtYoFi3PdKTKV04Jg",
+	"snack_morning": {
+		"en": "Marla lamp",
+		"zh": "马拉盏"
+	},
+	"snack_afternoon": {
+		"en": "Pork Tacos",
+		"zh": "墨西哥猪肉卷"
+	},
+	"snack_evening": {
+		"en": "Fruit & Yoghurt",
+		"zh": "水果 & 酸奶"
+	}
 }

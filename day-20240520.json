@@ -320,5 +320,17 @@
 			}
 		]
 	],
-	"the_week_ahead_url": "https://ykpaoschool-my.sharepoint.com/:p:/g/personal/cora_chen_ykpaoschool_cn/ES8-D2AEochFhwvz7-fL5GEBqVI9dhtYoFi3PdKTKV04Jg"
+	"the_week_ahead_url": "https://ykpaoschool-my.sharepoint.com/:p:/g/personal/cora_chen_ykpaoschool_cn/ES8-D2AEochFhwvz7-fL5GEBqVI9dhtYoFi3PdKTKV04Jg",
+	"snack_morning": {
+		"en": "Ham Cheese Sandwich",
+		"zh": "火腿芝士三明治"
+	},
+	"snack_afternoon": {
+		"en": "Apple Danish",
+		"zh": "苹果丹麦酥"
+	},
+	"snack_evening": {
+		"en": "Fruit & Fruit Yoghurt",
+		"zh": "水果 & 果味酸奶"
+	}
 }

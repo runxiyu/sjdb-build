@@ -319,5 +319,17 @@
 			}
 		]
 	],
-	"the_week_ahead_url": "https://ykpaoschool-my.sharepoint.com/:p:/g/personal/cora_chen_ykpaoschool_cn/ES8-D2AEochFhwvz7-fL5GEBqVI9dhtYoFi3PdKTKV04Jg"
+	"the_week_ahead_url": "https://ykpaoschool-my.sharepoint.com/:p:/g/personal/cora_chen_ykpaoschool_cn/ES8-D2AEochFhwvz7-fL5GEBqVI9dhtYoFi3PdKTKV04Jg",
+	"snack_morning": {
+		"en": "Fried pork dumplings",
+		"zh": "猪肉煎饺"
+	},
+	"snack_afternoon": {
+		"en": "Butter Cake with Dried Fruit",
+		"zh": "英式果脯蛋糕"
+	},
+	"snack_evening": {
+		"en": "Fruit & Chocolate Soy milk",
+		"zh": "水果 & 巧克力豆奶"
+	}
 }

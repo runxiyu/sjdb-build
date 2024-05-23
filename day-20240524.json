@@ -194,5 +194,14 @@
 		]
 	],
 	"next_breakfast": null,
-	"the_week_ahead_url": "https://ykpaoschool-my.sharepoint.com/:p:/g/personal/cora_chen_ykpaoschool_cn/ES8-D2AEochFhwvz7-fL5GEBqVI9dhtYoFi3PdKTKV04Jg"
+	"the_week_ahead_url": "https://ykpaoschool-my.sharepoint.com/:p:/g/personal/cora_chen_ykpaoschool_cn/ES8-D2AEochFhwvz7-fL5GEBqVI9dhtYoFi3PdKTKV04Jg",
+	"snack_morning": {
+		"en": "ShaoMai",
+		"zh": "烧卖"
+	},
+	"snack_afternoon": {
+		"en": "Doughnuts",
+		"zh": "甜甜圈"
+	},
+	"snack_evening": null
 }
