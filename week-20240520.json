@@ -1079,5 +1079,69 @@
 				]
 			]
 		]
-	}
+	},
+	"snacks": [
+		[
+			{
+				"en": "Ham Cheese Sandwich",
+				"zh": "火腿芝士三明治"
+			},
+			{
+				"en": "Marla lamp",
+				"zh": "马拉盏"
+			},
+			{
+				"en": "Fried pork dumplings",
+				"zh": "猪肉煎饺"
+			},
+			{
+				"en": "Blueberry Muffin",
+				"zh": "蓝莓麦芬"
+			},
+			{
+				"en": "ShaoMai",
+				"zh": "烧卖"
+			}
+		],
+		[
+			{
+				"en": "Apple Danish",
+				"zh": "苹果丹麦酥"
+			},
+			{
+				"en": "Pork Tacos",
+				"zh": "墨西哥猪肉卷"
+			},
+			{
+				"en": "Butter Cake with Dried Fruit",
+				"zh": "英式果脯蛋糕"
+			},
+			{
+				"en": "Ham & Cheese Croissant",
+				"zh": "火腿芝士羊角"
+			},
+			{
+				"en": "Doughnuts",
+				"zh": "甜甜圈"
+			}
+		],
+		[
+			{
+				"en": "Fruit & Fruit Yoghurt",
+				"zh": "水果 & 果味酸奶"
+			},
+			{
+				"en": "Fruit & Yoghurt",
+				"zh": "水果 & 酸奶"
+			},
+			{
+				"en": "Fruit & Chocolate Soy milk",
+				"zh": "水果 & 巧克力豆奶"
+			},
+			{
+				"en": "Fruit & Yoghurt",
+				"zh": "水果 & 酸奶"
+			}
+		]
+	]
 }
