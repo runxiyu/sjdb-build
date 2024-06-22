@@ -1,0 +1,1159 @@
+{
+	"start_date": "2024-06-03",
+	"community_time": [
+		[
+			"End of Year Exams",
+			"IGCSE Exams",
+			"End of Year Exams"
+		],
+		[
+			"Pre-trip meeting with Service Learning Day Groups(Auditorium, Brain, Oxygen Bar, Day Student Center, S206 )",
+			"IGCSE Exams",
+			"End of Year Exams"
+		],
+		[
+			"HOHs Meet with Tutors to Decide on Character Reward Dinner Nominations",
+			"IGCSE Exams",
+			"End of Year Exams"
+		],
+		[
+			"Tutor Time",
+			"IGCSE Exams",
+			"TOK EX."
+		]
+	],
+	"aods": [
+		"Zang Na",
+		"Alex Aristizabal",
+		"Chris Warren",
+		"Alex Aristizabal"
+	],
+	"menu": {
+		"breakfast": [
+			[
+				[
+					{
+						"en": "Shaomai",
+						"zh": "三鲜烧麦"
+					},
+					{
+						"en": "Shallot Pancake",
+						"zh": "葱油饼"
+					},
+					{
+						"en": "Boiled Egg",
+						"zh": "白煮蛋"
+					},
+					{
+						"en": "Pumpkin Congee",
+						"zh": "南瓜小米粥"
+					},
+					{
+						"en": "Vegetable",
+						"zh": "蔬菜"
+					}
+				],
+				[
+					{
+						"en": "Egg, Tomato, Beef and Cheese Pancake",
+						"zh": "鸡蛋番茄肉酱芝士饼"
+					},
+					{
+						"en": "Oatmeal",
+						"zh": "麦片粥"
+					},
+					{
+						"en": "Roast Sweet Potato",
+						"zh": "烤红薯"
+					}
+				],
+				[],
+				[
+					{
+						"en": "Toast Selection",
+						"zh": "白吐司/全麦吐司"
+					},
+					{
+						"en": "Jam Selection (Strawberry, Orange, Butter)",
+						"zh": "草莓酱/橘子酱/小黄油"
+					},
+					{
+						"en": "Daily Cereal with Milk",
+						"zh": "可可球, 葡萄干, 蔓越莓干, 芝麻饼干"
+					}
+				],
+				[
+					{
+						"en": "Fruit/Yogurt/Yakult/Milk/Juice/Soybean Milk",
+						"zh": "水果/酸奶/养乐多/牛奶/果汁/豆浆"
+					}
+				]
+			],
+			[
+				[
+					{
+						"en": "Beef Patties",
+						"zh": "牛肉葱油煎饼"
+					},
+					{
+						"en": "Brown Sugar Bun",
+						"zh": "红糖馒头"
+					},
+					{
+						"en": "Pickled Turnip with Egg",
+						"zh": "萝卜干炒蛋"
+					},
+					{
+						"en": "Assorted Seafood Congee",
+						"zh": "极品粥"
+					},
+					{
+						"en": "Vegetable",
+						"zh": "蔬菜"
+					}
+				],
+				[
+					{
+						"en": "Broccoli",
+						"zh": "西兰花"
+					},
+					{
+						"en": "Sunny Side-up",
+						"zh": "太阳蛋"
+					},
+					{
+						"en": "Lyonnais sausage",
+						"zh": "里昂那肠"
+					},
+					{
+						"en": "Cereal and Coix Congee",
+						"zh": "麦片薏仁粥"
+					},
+					{
+						"en": "Rye Bread",
+						"zh": "黑麦面包"
+					}
+				],
+				[
+					{
+						"en": "Pork with Rice Noodles and Egg",
+						"zh": "鸡蛋猪肉丝炒河粉"
+					}
+				],
+				[
+					{
+						"en": "Toast Selection",
+						"zh": "白吐司/全麦吐司"
+					},
+					{
+						"en": "Jam Selection (Strawberry, Orange, Butter)",
+						"zh": "草莓酱/橘子酱/小黄油"
+					},
+					{
+						"en": "Dried Soda Biscuit",
+						"zh": "混合苏打饼干"
+					},
+					{
+						"en": "Daily Cereal with Yogurt",
+						"zh": "玉米片, 葡萄干, 蔓越莓干, 酸奶"
+					}
+				],
+				[
+					{
+						"en": "Fruit/Yogurt/Yakult/Milk/Juice/Soybean Milk",
+						"zh": "水果/酸奶/养乐多/牛奶/果汁/豆浆"
+					}
+				]
+			],
+			[
+				[
+					{
+						"en": "Dried Plum Vegetable Pancake",
+						"zh": "梅干菜饼"
+					},
+					{
+						"en": "Steamed Twisted Roll with Scallions/Shandong Pancake (home-made)",
+						"zh": "葱油花卷/山东煎饼（纯手工）"
+					},
+					{
+						"en": "Steamed Egg",
+						"zh": "蒸鸡蛋"
+					},
+					{
+						"en": "Green Bean  Congee",
+						"zh": "绿豆粥"
+					},
+					{
+						"en": "Vegetable",
+						"zh": "蔬菜"
+					}
+				],
+				[
+					{
+						"en": "Roasted Mushroom",
+						"zh": "烤香菇"
+					},
+					{
+						"en": "Benedict Egg & Hollandaise Sauce",
+						"zh": "班尼迪克蛋配培根菠菜&荷兰酱"
+					},
+					{
+						"en": "Oatmeal",
+						"zh": "麦片粥"
+					},
+					{
+						"en": "Corn",
+						"zh": "玉米棒"
+					}
+				],
+				[
+					{
+						"en": "Celery and Pork Dumplings",
+						"zh": "芹菜猪肉饺子"
+					}
+				],
+				[
+					{
+						"en": "Toast Selection",
+						"zh": "白吐司/全麦吐司"
+					},
+					{
+						"en": "Jam Selection (Strawberry, Orange, Butter)",
+						"zh": "草莓酱/橘子酱/小黄油"
+					},
+					{
+						"en": "Dried Soda Biscuit",
+						"zh": "混合苏打饼干"
+					},
+					{
+						"en": "Daily Cereal with Milk",
+						"zh": "脆圈圈, 葡萄干, 蔓越莓干, 牛奶"
+					}
+				],
+				[
+					{
+						"en": "Fruit/Yogurt/Yakult/Milk/Juice/Soybean Milk",
+						"zh": "水果/酸奶/养乐多/牛奶/果汁/豆浆"
+					}
+				]
+			],
+			[
+				[
+					{
+						"en": "Steamed Meat Dumplings",
+						"zh": "小笼包"
+					},
+					{
+						"en": "Sausage and vegetable Burritos",
+						"zh": "手工火腿蔬菜卷饼"
+					},
+					{
+						"en": "Fried Egg",
+						"zh": "外婆菜炒鸡蛋"
+					},
+					{
+						"en": "Jellied Bean Curd",
+						"zh": "豆腐花"
+					},
+					{
+						"en": "Vegetable",
+						"zh": "蔬菜"
+					}
+				],
+				[
+					{
+						"en": "Mixed Beans",
+						"zh": "烩混合豆"
+					},
+					{
+						"en": "Shakshuka",
+						"zh": "北非蛋"
+					},
+					{
+						"en": "Prague Style Ham",
+						"zh": "布拉格风味火腿"
+					},
+					{
+						"en": "Cereal and Coix Congee",
+						"zh": "麦片薏仁粥"
+					},
+					{
+						"en": "Baguette",
+						"zh": "法棍面包"
+					}
+				],
+				[
+					{
+						"en": "Stir-Fried Rice with Shredded Chicken in Soy Sauce",
+						"zh": "酱油鸡丝炒饭"
+					}
+				],
+				[
+					{
+						"en": "Toast Selection",
+						"zh": "白吐司/全麦吐司"
+					},
+					{
+						"en": "Jam Selection (Strawberry, Orange, Butter)",
+						"zh": "草莓酱/橘子酱/小黄油"
+					},
+					{
+						"en": "Dried Soda Biscuit",
+						"zh": "混合苏打饼干"
+					},
+					{
+						"en": "Daily Cereal with Yogurt",
+						"zh": "麦片, 葡萄干, 蔓越莓干, 酸奶"
+					}
+				],
+				[
+					{
+						"en": "Fruit/Yogurt/Yakult/Milk/Juice/Soybean Milk",
+						"zh": "水果/酸奶/养乐多/牛奶/果汁/豆浆"
+					}
+				]
+			],
+			[
+				[
+					{
+						"en": "Shanghai Fried Dumplings",
+						"zh": "手指锅贴"
+					},
+					{
+						"en": "Rice Cake/Rice Roll",
+						"zh": "松糕/手工粢饭团"
+					},
+					{
+						"en": "Tea Egg",
+						"zh": "茶叶蛋"
+					},
+					{
+						"en": "Chinese Yam and Jujube Congee",
+						"zh": "山药红枣粥"
+					},
+					{
+						"en": "Vegetable",
+						"zh": "蔬菜"
+					}
+				],
+				[
+					{
+						"en": "Baked Tomato",
+						"zh": "焗番茄"
+					},
+					{
+						"en": "Baked Eggs with Cheese Shrimp on Toast",
+						"zh": "芝士虾仁吐司烘蛋"
+					},
+					{
+						"en": "Oatmeal",
+						"zh": "麦片粥"
+					},
+					{
+						"en": "Baked Beans",
+						"zh": "茄汁焗豆"
+					}
+				],
+				[
+					{
+						"en": "Pork and Preserved Vegetable Noodles",
+						"zh": "雪菜肉丝面"
+					}
+				],
+				[
+					{
+						"en": "Toast Selection",
+						"zh": "白吐司/全麦吐司"
+					},
+					{
+						"en": "Jam Selection (Strawberry, Orange, Butter)",
+						"zh": "草莓酱/橘子酱/小黄油"
+					},
+					{
+						"en": "Dried Soda Biscuit",
+						"zh": "卜卜米, 葡萄干, 蔓越莓干, 牛奶"
+					}
+				],
+				[
+					{
+						"en": "Fruit/Yogurt/Yakult/Milk/Juice/Soybean Milk",
+						"zh": "水果/酸奶/养乐多/牛奶/果汁/豆浆"
+					}
+				]
+			]
+		],
+		"lunch": [
+			[
+				[
+					{
+						"en": "Sautéed Shredded Pork in Sweet Bean Sauce",
+						"zh": "京酱肉丝"
+					},
+					{
+						"en": "Organic Cauliflower with Chicken Slices",
+						"zh": "干锅鸡肉有机花菜"
+					},
+					{
+						"en": "Spinach",
+						"zh": "菠菜"
+					},
+					{
+						"en": "Green Peas",
+						"zh": "青豆"
+					},
+					{
+						"en": "Steamed Rice",
+						"zh": "米饭"
+					}
+				],
+				[
+					{
+						"en": "Chicken Cordon Bleu",
+						"zh": "蓝带鸡排"
+					},
+					{
+						"en": "Green Peas",
+						"zh": "青豆"
+					},
+					{
+						"en": "Spinach",
+						"zh": "菠菜"
+					},
+					{
+						"en": "Baked Potatoes",
+						"zh": "烤土豆"
+					}
+				],
+				[
+					{
+						"en": "Seafood Noodles",
+						"zh": "海鲜汤面/白煮蛋"
+					}
+				],
+				[
+					{
+						"en": "Penne with Basil, Tomato and  Chicken",
+						"zh": "两头配鸡肉番茄罗勒汁"
+					}
+				],
+				[
+					{
+						"en": "Fried Rice Noodle",
+						"zh": "豆芽鸡蛋炒河粉"
+					}
+				],
+				[
+					{
+						"en": "Hot and Sour Soup",
+						"zh": "酸辣汤"
+					}
+				],
+				[
+					{
+						"en": "Marbel Cake/Fruit/Yogurt/Yakult/Milk/Juice",
+						"zh": "大理石蛋糕/水果/酸奶/养乐多/牛奶/果汁"
+					}
+				]
+			],
+			[
+				[
+					{
+						"en": "Duck in Brown Sauce with Shanghai Style",
+						"zh": "本帮酱鸭"
+					},
+					{
+						"en": "YuShiang Flavor Eggplant with Shredded Pork",
+						"zh": "鱼香茄子配猪肉"
+					},
+					{
+						"en": "Cabbage",
+						"zh": "牛心菜"
+					},
+					{
+						"en": "Grilled Zucchini",
+						"zh": "烤佛手瓜"
+					},
+					{
+						"en": "Steamed Rice",
+						"zh": "米饭"
+					}
+				],
+				[
+					{
+						"en": "Grilled Fish with Cream Mushroom Sauce",
+						"zh": "扒鱼柳配奶油蘑菇汁"
+					},
+					{
+						"en": "Grilled Zucchini",
+						"zh": "烤佛手瓜"
+					},
+					{
+						"en": "Cabbage",
+						"zh": "牛心菜"
+					},
+					{
+						"en": "Baked Pumpkin",
+						"zh": "烤南瓜"
+					}
+				],
+				[
+					{
+						"en": "Noodles with Braised Pork Ribs",
+						"zh": "红烧排骨面/卤干"
+					}
+				],
+				[
+					{
+						"en": "Sausage Risotto",
+						"zh": "香肠烩饭"
+					}
+				],
+				[
+					{
+						"en": "Creamy Pumpkin Spaghetti",
+						"zh": "奶油南瓜意大利通心粉"
+					}
+				],
+				[
+					{
+						"en": "Minestrone",
+						"zh": "意大利蔬菜汤"
+					}
+				],
+				[
+					{
+						"en": "Biscuit /Fruit/Yogurt/Yakult/Milk/Juice",
+						"zh": "巧克力小饼干/水果/酸奶/养乐多/牛奶/果汁"
+					}
+				]
+			],
+			[
+				[
+					{
+						"en": "Steamed Fish with Black Bean",
+						"zh": "豆豉三丝蒸鱼块"
+					},
+					{
+						"en": "Fried Pork Slices with Vegetables",
+						"zh": "农家小炒肉"
+					},
+					{
+						"en": "Stir-fried Leaf Lettuce",
+						"zh": "油麦菜"
+					},
+					{
+						"en": "Provence Stew",
+						"zh": "普罗旺斯炖菜"
+					},
+					{
+						"en": "Quinoa Rice",
+						"zh": "三色藜麦米饭"
+					}
+				],
+				[
+					{
+						"en": "Pork Piccatta",
+						"zh": "意大利米兰炸猪排"
+					},
+					{
+						"en": "Provence Stew",
+						"zh": "普罗旺斯炖菜"
+					},
+					{
+						"en": "Stir-fried Leaf Lettuce",
+						"zh": "油麦菜"
+					},
+					{
+						"en": "Brioche",
+						"zh": "黄油面包"
+					}
+				],
+				[
+					{
+						"en": "Spiced Chicken Leg Noodles",
+						"zh": "五香鸡腿面/卤蛋"
+					}
+				],
+				[
+					{
+						"en": "Penne Amatriciana",
+						"zh": "奶油培根意面"
+					}
+				],
+				[
+					{
+						"en": "Vegetarian Dumplings",
+						"zh": "素饺子"
+					}
+				],
+				[
+					{
+						"en": "Tofu and Vegetable with Egg Soup",
+						"zh": "青菜豆腐羹"
+					}
+				],
+				[
+					{
+						"en": "Brownie/Fruit/Yogurt/Yakult/Milk/Juice",
+						"zh": "布朗尼蛋糕/水果/酸奶/养乐多/牛奶/果汁"
+					}
+				]
+			],
+			[
+				[
+					{
+						"en": "Stir-fried Chicken Wings with Chili",
+						"zh": "辣子鸡翅"
+					},
+					{
+						"en": "Fried Eggplant, Potatoes and Green Pepper with Pork Slices",
+						"zh": "地三鲜炒肉片"
+					},
+					{
+						"en": "Green Vegetables",
+						"zh": "菜心"
+					},
+					{
+						"en": "Purple Cabbage",
+						"zh": "紫甘蓝"
+					},
+					{
+						"en": "Red Sticky Rice",
+						"zh": "血糯米饭"
+					}
+				],
+				[
+					{
+						"en": "Korean Roast Streaky pork",
+						"zh": "韩式烤五花肉"
+					},
+					{
+						"en": "Purple Cabbage",
+						"zh": "紫甘蓝"
+					},
+					{
+						"en": "Green Vegetables",
+						"zh": "菜心"
+					},
+					{
+						"en": "Sautéed Potatoes and Onion",
+						"zh": "洋葱土豆"
+					}
+				],
+				[
+					{
+						"en": "Noodles with Fish and Pickled Vegetables",
+						"zh": "番茄红汤鱼面/素鸡"
+					}
+				],
+				[
+					{
+						"en": "Pepperoni Pizza/chicken nuggets",
+						"zh": "意式火腿披萨/鸡块"
+					}
+				],
+				[
+					{
+						"en": "Vegetable Curry Chickpea with Rice",
+						"zh": "咖喱蔬菜鹰嘴豆,米饭"
+					}
+				],
+				[
+					{
+						"en": "Pumpkin Soup",
+						"zh": "奶油南瓜汤"
+					}
+				],
+				[
+					{
+						"en": "Apple Crumble/Fruit/Yogurt/Yakult/Milk/Juice",
+						"zh": "烤苹果奶酥/水果/酸奶/养乐多/牛奶/果汁"
+					}
+				]
+			],
+			[
+				[
+					{
+						"en": "Steamed Pork with Rice Flour",
+						"zh": "荔浦芋头粉蒸肉"
+					},
+					{
+						"en": "Scrambled Egg with Tomato",
+						"zh": "番茄炒鸡蛋"
+					},
+					{
+						"en": "Green Vegetable",
+						"zh": "杭白菜"
+					},
+					{
+						"en": "Roasted Baby Cabbage",
+						"zh": "烤娃娃菜"
+					},
+					{
+						"en": "Steamed Brown Rice",
+						"zh": "米饭"
+					}
+				],
+				[
+					{
+						"en": "Chicken Cacciatore",
+						"zh": "意大利猎人烩鸡"
+					},
+					{
+						"en": "Roasted Baby Cabbage",
+						"zh": "烤娃娃菜"
+					},
+					{
+						"en": "Sauteed Bok Choy",
+						"zh": "杭白菜"
+					},
+					{
+						"en": "Baked Sweet Potatoes",
+						"zh": "红薯"
+					}
+				],
+				[
+					{
+						"en": "Noodles with Braised Beef",
+						"zh": "酸菜牛肉拉面（手工）/油豆腐"
+					}
+				],
+				[
+					{
+						"en": "Fried Tomato  Shrimps Vegetable Pasta",
+						"zh": "炒蕃茄虾仁蔬菜意面"
+					}
+				],
+				[
+					{
+						"en": "Zucchini Pancakes with Tomato Salsa",
+						"zh": "西葫芦煎饼配番茄沙沙"
+					}
+				],
+				[
+					{
+						"en": "Tomato and Gourd Soup",
+						"zh": "番茄冬瓜汤"
+					}
+				],
+				[
+					{
+						"en": "Chocolate puffs /Fruit/Yogurt/Yakult/Milk/Juice",
+						"zh": "巧克力馅泡芙/水果/酸奶/养乐多/牛奶/果汁"
+					}
+				]
+			]
+		],
+		"dinner": [
+			[
+				[
+					{
+						"en": "Stewed Fish Slices with Tomato Sauce",
+						"zh": "茄汁烩鱼片"
+					},
+					{
+						"en": "Pork with Chinese Cabbage",
+						"zh": "烂糊猪肉丝"
+					},
+					{
+						"en": "Green Vegetables",
+						"zh": "蓬蒿菜"
+					},
+					{
+						"en": "Roasted Mushroom",
+						"zh": "烤蘑菇"
+					},
+					{
+						"en": "Corn Rice",
+						"zh": "玉米饭"
+					}
+				],
+				[
+					{
+						"en": "Polish Apple Roasted Duck",
+						"zh": "波兰苹果烤鸭"
+					},
+					{
+						"en": "Roasted Mushroom",
+						"zh": "烤蘑菇"
+					},
+					{
+						"en": "Green Vegetables",
+						"zh": "蓬蒿菜"
+					},
+					{
+						"en": "Sliced Bread",
+						"zh": "面包片"
+					}
+				],
+				[
+					{
+						"en": "Hot Oiled Chili Noodles with Pork",
+						"zh": "猪肉油泼面/鹌鹑蛋"
+					}
+				],
+				[
+					{
+						"en": "Macaroni with Mushroom Sauce and Beef Ball",
+						"zh": "焗弯管面配蘑菇汁牛肉丸子"
+					}
+				],
+				[
+					{
+						"en": "Stir-Fried Tofu  with Rice",
+						"zh": "麻辣株肉豆腐配米饭"
+					}
+				],
+				[
+					{
+						"en": "Cream Broccoli Soup",
+						"zh": "奶油西兰花汤"
+					}
+				],
+				[
+					{
+						"en": "Yellow PeachTart/Fruit/Yogurt/Yakult/Milk/Juice",
+						"zh": "黄桃塔/水果/酸奶/牛奶/果汁"
+					}
+				]
+			],
+			[
+				[
+					{
+						"en": "Sliced Chicken",
+						"zh": "广东葱姜捞鸡"
+					},
+					{
+						"en": "Sliced Pork with Green Pepper Water Bamboo",
+						"zh": "青椒茭白猪肉片"
+					},
+					{
+						"en": "Water Spinaches",
+						"zh": "菠菜"
+					},
+					{
+						"en": "Celery",
+						"zh": "西芹"
+					},
+					{
+						"en": "Steamed Rice",
+						"zh": "米饭"
+					}
+				],
+				[
+					{
+						"en": "BBQ Pork",
+						"zh": "BBQ烤猪肉"
+					},
+					{
+						"en": "Celery",
+						"zh": "西芹"
+					},
+					{
+						"en": "Water Spinach",
+						"zh": "菠菜"
+					},
+					{
+						"en": "Mashed Potatoes",
+						"zh": "土豆泥"
+					}
+				],
+				[
+					{
+						"en": "Noodles with Fried Shrimps and Eggs",
+						"zh": "什锦虾仁面/素鸡"
+					}
+				],
+				[
+					{
+						"en": "Mexican Pork Quesadillas",
+						"zh": "墨西哥猪肉饼"
+					}
+				],
+				[
+					{
+						"en": "Spanish Omelet",
+						"zh": "西班牙土豆鸡蛋饼"
+					}
+				],
+				[
+					{
+						"en": "Nori and Egg Soup",
+						"zh": "紫菜鸡蛋汤"
+					}
+				],
+				[
+					{
+						"en": "Orange Cake/Fruit/Yogurt/Yakult/Milk/Juice",
+						"zh": "橙味蛋糕/水果/酸奶/牛奶/果汁"
+					}
+				]
+			],
+			[
+				[
+					{
+						"en": "Tofu Skin Rolls with Minced Pork",
+						"zh": "鸡汁百叶包肉（自制）"
+					},
+					{
+						"en": "Dry Pot Chiba Tofu with Chicken",
+						"zh": "干锅千叶豆腐/鸡肉"
+					},
+					{
+						"en": "Green Vegetables",
+						"zh": "青菜"
+					},
+					{
+						"en": "Roasted Eggplant",
+						"zh": "烤茄子"
+					},
+					{
+						"en": "Steamed Rice with Sweet Potato",
+						"zh": "红薯米饭"
+					}
+				],
+				[
+					{
+						"en": "Thai Style Green Curry Fish",
+						"zh": "泰式青咖喱鱼"
+					},
+					{
+						"en": "Roasted Eggplant",
+						"zh": "烤茄子"
+					},
+					{
+						"en": "Green Vegetables",
+						"zh": "青菜"
+					},
+					{
+						"en": "Prawn Cracker",
+						"zh": "龙虾片"
+					}
+				],
+				[
+					{
+						"en": "Noodles with Braised Duck Leg",
+						"zh": "酱鸭腿面/煎鸡蛋"
+					}
+				],
+				[
+					{
+						"en": "Pasta  with Tomato Sauce and Chicken",
+						"zh": "两头尖配番茄酱,鸡肉"
+					}
+				],
+				[
+					{
+						"en": "Sweet and sour Z-Rou meatballs",
+						"zh": "酸甜株肉丸"
+					}
+				],
+				[
+					{
+						"en": "Mushroom Soup",
+						"zh": "奶油蘑菇汤"
+					}
+				],
+				[
+					{
+						"en": "Sesame Cake/Fruit/Yogurt/Yakult/Milk/Juice",
+						"zh": "芝麻桃酥/水果/酸奶/牛奶/果汁"
+					}
+				]
+			],
+			[
+				[
+					{
+						"en": "Deep-Fried Shrimps with Spicy Salt",
+						"zh": "椒盐基围虾"
+					},
+					{
+						"en": "Shrimp Steamed Egg",
+						"zh": "虾仁蒸蛋"
+					},
+					{
+						"en": "Lettuce",
+						"zh": "生菜"
+					},
+					{
+						"en": "Broccoli",
+						"zh": "西兰花"
+					},
+					{
+						"en": "Steamed Rice",
+						"zh": "米饭"
+					}
+				],
+				[
+					{
+						"en": "Moroccan slow-cooked lamb",
+						"zh": "摩洛哥慢炖羊肉"
+					},
+					{
+						"en": "Broccoli",
+						"zh": "西兰花"
+					},
+					{
+						"en": "Lettuce",
+						"zh": "生菜"
+					},
+					{
+						"en": "Roasted Pumpkin",
+						"zh": "烤南瓜块"
+					}
+				],
+				[
+					{
+						"en": "Japanese Style Bork Udon Noodles",
+						"zh": "日式猪肉乌冬面/油豆腐"
+					}
+				],
+				[
+					{
+						"en": "Braised Chicken breast sandwich with Vietnamese Sauce",
+						"zh": "越南酱烧鸡胸三明治"
+					}
+				],
+				[
+					{
+						"en": "Oven Baked Tomato with Couscous",
+						"zh": "焗番茄配中东米,番茄炒蛋"
+					}
+				],
+				[
+					{
+						"en": "Beef Soup",
+						"zh": "西湖牛肉羹"
+					}
+				],
+				[
+					{
+						"en": "Strawberry Cake/Fruit/Yogurt/Yakult/Milk/Juice",
+						"zh": "草莓蛋糕 /水果/酸奶/牛奶/果汁"
+					}
+				]
+			],
+			[
+				[
+					{
+						"en": "Scallops & Vermicelli",
+						"zh": "蒜蓉粉丝扇贝"
+					},
+					{
+						"en": "Fried Egg with Tomato",
+						"zh": "番茄炒鸡蛋"
+					},
+					{
+						"en": "Sauteed Bok Choy",
+						"zh": "杭白菜"
+					},
+					{
+						"en": "Roasted Zucchini/Tomato",
+						"zh": "烤节瓜/番茄"
+					},
+					{
+						"en": "Steamed Black Rice",
+						"zh": "黑米饭"
+					}
+				],
+				[
+					{
+						"en": "Hot Dog",
+						"zh": "热狗"
+					},
+					{
+						"en": "French Fries",
+						"zh": "薯条"
+					},
+					{
+						"en": "Sauteed Bok Choy",
+						"zh": "杭白菜"
+					},
+					{
+						"en": "Roasted Zucchini/Tomato",
+						"zh": "烤节瓜/番茄"
+					}
+				],
+				[],
+				[],
+				[],
+				[
+					{
+						"en": "Tofu with  Egg Soup",
+						"zh": "鸡蛋豆腐汤"
+					}
+				],
+				[
+					{
+						"en": "Mousse Cake/Fruit/Yogurt/Yakult/Milk/Juice",
+						"zh": "慕斯蛋糕 /水果/酸奶/牛奶/果汁"
+					}
+				]
+			]
+		]
+	},
+	"snacks": [
+		[
+			{
+				"en": "Butter Croissant",
+				"zh": "羊角"
+			},
+			{
+				"en": "Custard Bun",
+				"zh": "奶黄包"
+			},
+			{
+				"en": "Chocolate Bread",
+				"zh": "巧克力面包"
+			},
+			{
+				"en": "Plain Muffin",
+				"zh": "原味麦芬"
+			},
+			{
+				"en": "Shaomai",
+				"zh": "烧麦"
+			}
+		],
+		[
+			{
+				"en": "Matcha Cake",
+				"zh": "抹茶蛋糕"
+			},
+			{
+				"en": "Seafood Pancake",
+				"zh": "海鲜饼"
+			},
+			{
+				"en": "Roasted Bread with Ham and Cheese",
+				"zh": "火腿芝士三明治"
+			},
+			{
+				"en": "Dumplings",
+				"zh": "小肉包"
+			},
+			{
+				"en": "Crispy Cake",
+				"zh": "豆沙香酥饼"
+			}
+		],
+		[
+			{
+				"en": "Fruit & Fruit Yoghurt",
+				"zh": "水果 & 果味酸奶"
+			},
+			{
+				"en": "Fruit & Yoghurt",
+				"zh": "水果 & 酸奶"
+			},
+			{
+				"en": "Fruit & Chocolate Soy Milk",
+				"zh": "水果 & 巧克力豆奶"
+			},
+			{
+				"en": "Fruit & Yoghurt",
+				"zh": "水果 & 酸奶"
+			}
+		]
+	]
+}

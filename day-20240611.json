@@ -1,0 +1,340 @@
+{
+	"stddate": "2024-06-11",
+	"community_time": [
+		[
+			"Tutor Time",
+			"EXAM",
+			"Tutor Time"
+		],
+		[
+			"Dean's Forum (Auditorium)",
+			"HMs Meet with Tutors and Tutees",
+			"Tutor Time"
+		],
+		[
+			"Tutor Time",
+			"EXAM",
+			"Tutor Time"
+		]
+	],
+	"days_after_this": 2,
+	"aod": "Zang Na",
+	"weekday_english": "Tuesday",
+	"weekdays_abbrev": [
+		"Tue",
+		"Wed",
+		"Thu",
+		"Fri",
+		"Sat",
+		"Sun",
+		"Mon"
+	],
+	"weekday_chinese": "周二",
+	"day_of_cycle": "F",
+	"today_breakfast": [
+		[
+			{
+				"en": "Preserved Vegetable and Meat Bun",
+				"zh": "梅干菜肉包"
+			},
+			{
+				"en": "Red bean Pancake",
+				"zh": "豆沙馅饼"
+			},
+			{
+				"en": "Fried Egg",
+				"zh": "小葱炒鸡蛋"
+			},
+			{
+				"en": "Pumpkin Congee",
+				"zh": "南瓜粥"
+			},
+			{
+				"en": "Vegetable",
+				"zh": "蔬菜"
+			}
+		],
+		[
+			{
+				"en": "Roasted Needle Mushroom",
+				"zh": "烤金针菇"
+			},
+			{
+				"en": "Japanese Fried Dumpling",
+				"zh": "日式煎饺"
+			},
+			{
+				"en": "Cereal and Coix Congee",
+				"zh": "麦片薏米粥"
+			},
+			{
+				"en": "Radish",
+				"zh": "日本大根"
+			}
+		],
+		[],
+		[
+			{
+				"en": "Toast Selection",
+				"zh": "白吐司/全麦吐司"
+			},
+			{
+				"en": "Jam Selection (Strawberry, Orange, Butter)",
+				"zh": "草莓酱/橘子酱/小黄油"
+			},
+			{
+				"en": "Dried Soda Biscuit",
+				"zh": "混合苏打饼干"
+			},
+			{
+				"en": "Daily Cereal with Yogurt",
+				"zh": "玉米片, 葡萄干, 蔓越莓干, 酸奶"
+			}
+		],
+		[
+			{
+				"en": "Fruit/Yogurt/Yakult/Milk/Juice/Soybean Milk",
+				"zh": "水果/酸奶/养乐多/牛奶/果汁/豆浆"
+			}
+		]
+	],
+	"today_lunch": [
+		[
+			{
+				"en": "Peking Duck",
+				"zh": "特色北京烤鸭"
+			},
+			{
+				"en": "Fried Sliced Pork with Vegetables",
+				"zh": "农家小炒肉"
+			},
+			{
+				"en": "Green Vegetables",
+				"zh": "青菜"
+			},
+			{
+				"en": "Baked Cauliflower with Cheese",
+				"zh": "芝士焗花菜"
+			},
+			{
+				"en": "Steamed Rice",
+				"zh": "米饭"
+			}
+		],
+		[
+			{
+				"en": "Grilled Basa Fish with Mojo Verde Sauce",
+				"zh": "香煎海鲈鱼配莫霍维德酱"
+			},
+			{
+				"en": "Baked Cauliflower with Cheese",
+				"zh": "芝士焗花菜"
+			},
+			{
+				"en": "Green Vegetables",
+				"zh": "青菜"
+			},
+			{
+				"en": "Baby Potatoes",
+				"zh": "黄油烤小土豆"
+			}
+		],
+		[
+			{
+				"en": "YuXiang Flavor Shredded Pork Noodles",
+				"zh": "鱼香肉丝面/卤蛋"
+			}
+		],
+		[
+			{
+				"en": "Chicken Enchiladas",
+				"zh": "墨西哥鸡肉玉米卷饼"
+			}
+		],
+		[
+			{
+				"en": "Braised Bean Curd with Spinach and Rice",
+				"zh": "素鸭配菠菜米饭"
+			}
+		],
+		[
+			{
+				"en": "Preserved Vegetable with Egg Soup",
+				"zh": "榨菜蛋汤"
+			}
+		],
+		[
+			{
+				"en": "Cake/Fruit/Yogurt/Yakult/Milk/Juice",
+				"zh": "大理石蛋糕/水果/酸奶/养乐多/牛奶/果汁"
+			}
+		]
+	],
+	"today_dinner": [
+		[
+			{
+				"en": "Shanghai Deep-fried Pork Chop with Rice Cake",
+				"zh": "炸猪排配鞋底年糕"
+			},
+			{
+				"en": "Fried Shrimp with Celery and Lily Roots",
+				"zh": "西芹百合虾仁"
+			},
+			{
+				"en": "Green Vegetables",
+				"zh": "蓬蒿菜"
+			},
+			{
+				"en": "Roasted Zucchini",
+				"zh": "烤西葫芦"
+			},
+			{
+				"en": "Steamed Rice",
+				"zh": "米饭"
+			}
+		],
+		[
+			{
+				"en": "Duck Confit",
+				"zh": "法式油封鸭腿"
+			},
+			{
+				"en": "Roasted Zucchini",
+				"zh": "烤西葫芦"
+			},
+			{
+				"en": "Green Vegetables",
+				"zh": "蓬蒿菜"
+			},
+			{
+				"en": "Butter Corn",
+				"zh": "黄油玉米"
+			},
+			{
+				"en": "Steamed Rice",
+				"zh": "米饭"
+			}
+		],
+		[
+			{
+				"en": "Deep Fried Fish Noodles",
+				"zh": "苏式爆鱼面/荷包蛋"
+			}
+		],
+		[
+			{
+				"en": "Grill Tomato and Pork Sauce and Pasta",
+				"zh": "焗意大利面配猪肉酱芝士"
+			}
+		],
+		[
+			{
+				"en": "Spanish Mushroom Cheese Roll",
+				"zh": "菠菜蘑菇芝士卷"
+			}
+		],
+		[
+			{
+				"en": "Bean Curd Soup with Shepherd's Purse",
+				"zh": "荠菜豆腐羹"
+			}
+		],
+		[
+			{
+				"en": "Chocolate Cake/Fruit/Yogurt/Yakult/Milk/Juice",
+				"zh": "巧克力蛋糕/水果/酸奶/养乐多/牛奶/果汁"
+			}
+		]
+	],
+	"next_breakfast": [
+		[
+			{
+				"en": "BBQ Pork Baozi",
+				"zh": "叉烧包"
+			},
+			{
+				"en": "Pumpkin Cake/Pancake (home-made)",
+				"zh": "南瓜饼/山东煎饼（纯手工）"
+			},
+			{
+				"en": "Tea Egg",
+				"zh": "茶叶蛋"
+			},
+			{
+				"en": "Millet Congee",
+				"zh": "小米粥"
+			},
+			{
+				"en": "Vegetable",
+				"zh": "蔬菜"
+			}
+		],
+		[
+			{
+				"en": "Roasted Mushroom",
+				"zh": "烤白蘑菇"
+			},
+			{
+				"en": "Ham with Egg and Cheese Croissant",
+				"zh": "火腿鸡蛋芝士羊角"
+			},
+			{
+				"en": "Milk Quinoa Congee",
+				"zh": "牛奶藜麦粥"
+			},
+			{
+				"en": "Brazil Black bean",
+				"zh": "巴西黑豆"
+			}
+		],
+		[
+			{
+				"en": "Shepherd's purse and pork wontons",
+				"zh": "荠菜鲜肉大馄饨"
+			}
+		],
+		[
+			{
+				"en": "Toast Selection",
+				"zh": "白吐司/全麦吐司"
+			},
+			{
+				"en": "Jam Selection (Strawberry, Orange, Butter)",
+				"zh": "草莓酱/橘子酱/小黄油"
+			},
+			{
+				"en": "Dried Soda Biscuit",
+				"zh": "混合苏打饼干"
+			},
+			{
+				"en": "Daily Cereal with Milk",
+				"zh": "脆圈圈, 葡萄干, 蔓越莓干, 牛奶"
+			}
+		],
+		[
+			{
+				"en": "Fruit/Yogurt/Yakult/Milk/Juice/Soybean Milk",
+				"zh": "水果/酸奶/养乐多/牛奶/果汁/豆浆"
+			}
+		]
+	],
+	"the_week_ahead_url": "https://ykpaoschool-my.sharepoint.com/:p:/g/personal/cora_chen_ykpaoschool_cn/ES8-D2AEochFhwvz7-fL5GEBqVI9dhtYoFi3PdKTKV04Jg",
+	"snack_morning": {
+		"en": "Chocolate waffles",
+		"zh": "巧克力华夫饼"
+	},
+	"snack_afternoon": {
+		"en": "Steamed Shrimp Dumplings",
+		"zh": "春卷"
+	},
+	"snack_evening": {
+		"en": "Fruit & Fruit Yoghurt",
+		"zh": "水果 & 果味酸奶"
+	},
+	"inspiration_type": null,
+	"inspiration_shared_by": null,
+	"inspiration_origin": null,
+	"inspiration_text": null,
+	"inspiration_image_data": null,
+	"inspiration_image_mime": null
+}

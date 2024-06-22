@@ -1,0 +1,342 @@
+{
+	"stddate": "2024-06-03",
+	"community_time": [
+		[
+			"End of Year Exams",
+			"IGCSE Exams",
+			"End of Year Exams"
+		],
+		[
+			"Pre-trip meeting with Service Learning Day Groups(Auditorium, Brain, Oxygen Bar, Day Student Center, S206 )",
+			"IGCSE Exams",
+			"End of Year Exams"
+		],
+		[
+			"HOHs Meet with Tutors to Decide on Character Reward Dinner Nominations",
+			"IGCSE Exams",
+			"End of Year Exams"
+		],
+		[
+			"Tutor Time",
+			"IGCSE Exams",
+			"TOK EX."
+		]
+	],
+	"days_after_this": 3,
+	"aod": "Zang Na",
+	"weekday_english": "Monday",
+	"weekdays_abbrev": [
+		"Mon",
+		"Tue",
+		"Wed",
+		"Thu",
+		"Fri",
+		"Sat",
+		"Sun",
+		"Mon"
+	],
+	"weekday_chinese": "周一",
+	"day_of_cycle": "A",
+	"today_breakfast": [
+		[
+			{
+				"en": "Shaomai",
+				"zh": "三鲜烧麦"
+			},
+			{
+				"en": "Shallot Pancake",
+				"zh": "葱油饼"
+			},
+			{
+				"en": "Boiled Egg",
+				"zh": "白煮蛋"
+			},
+			{
+				"en": "Pumpkin Congee",
+				"zh": "南瓜小米粥"
+			},
+			{
+				"en": "Vegetable",
+				"zh": "蔬菜"
+			}
+		],
+		[
+			{
+				"en": "Egg, Tomato, Beef and Cheese Pancake",
+				"zh": "鸡蛋番茄肉酱芝士饼"
+			},
+			{
+				"en": "Oatmeal",
+				"zh": "麦片粥"
+			},
+			{
+				"en": "Roast Sweet Potato",
+				"zh": "烤红薯"
+			}
+		],
+		[],
+		[
+			{
+				"en": "Toast Selection",
+				"zh": "白吐司/全麦吐司"
+			},
+			{
+				"en": "Jam Selection (Strawberry, Orange, Butter)",
+				"zh": "草莓酱/橘子酱/小黄油"
+			},
+			{
+				"en": "Daily Cereal with Milk",
+				"zh": "可可球, 葡萄干, 蔓越莓干, 芝麻饼干"
+			}
+		],
+		[
+			{
+				"en": "Fruit/Yogurt/Yakult/Milk/Juice/Soybean Milk",
+				"zh": "水果/酸奶/养乐多/牛奶/果汁/豆浆"
+			}
+		]
+	],
+	"today_lunch": [
+		[
+			{
+				"en": "Sautéed Shredded Pork in Sweet Bean Sauce",
+				"zh": "京酱肉丝"
+			},
+			{
+				"en": "Organic Cauliflower with Chicken Slices",
+				"zh": "干锅鸡肉有机花菜"
+			},
+			{
+				"en": "Spinach",
+				"zh": "菠菜"
+			},
+			{
+				"en": "Green Peas",
+				"zh": "青豆"
+			},
+			{
+				"en": "Steamed Rice",
+				"zh": "米饭"
+			}
+		],
+		[
+			{
+				"en": "Chicken Cordon Bleu",
+				"zh": "蓝带鸡排"
+			},
+			{
+				"en": "Green Peas",
+				"zh": "青豆"
+			},
+			{
+				"en": "Spinach",
+				"zh": "菠菜"
+			},
+			{
+				"en": "Baked Potatoes",
+				"zh": "烤土豆"
+			}
+		],
+		[
+			{
+				"en": "Seafood Noodles",
+				"zh": "海鲜汤面/白煮蛋"
+			}
+		],
+		[
+			{
+				"en": "Penne with Basil, Tomato and  Chicken",
+				"zh": "两头配鸡肉番茄罗勒汁"
+			}
+		],
+		[
+			{
+				"en": "Fried Rice Noodle",
+				"zh": "豆芽鸡蛋炒河粉"
+			}
+		],
+		[
+			{
+				"en": "Hot and Sour Soup",
+				"zh": "酸辣汤"
+			}
+		],
+		[
+			{
+				"en": "Marbel Cake/Fruit/Yogurt/Yakult/Milk/Juice",
+				"zh": "大理石蛋糕/水果/酸奶/养乐多/牛奶/果汁"
+			}
+		]
+	],
+	"today_dinner": [
+		[
+			{
+				"en": "Stewed Fish Slices with Tomato Sauce",
+				"zh": "茄汁烩鱼片"
+			},
+			{
+				"en": "Pork with Chinese Cabbage",
+				"zh": "烂糊猪肉丝"
+			},
+			{
+				"en": "Green Vegetables",
+				"zh": "蓬蒿菜"
+			},
+			{
+				"en": "Roasted Mushroom",
+				"zh": "烤蘑菇"
+			},
+			{
+				"en": "Corn Rice",
+				"zh": "玉米饭"
+			}
+		],
+		[
+			{
+				"en": "Polish Apple Roasted Duck",
+				"zh": "波兰苹果烤鸭"
+			},
+			{
+				"en": "Roasted Mushroom",
+				"zh": "烤蘑菇"
+			},
+			{
+				"en": "Green Vegetables",
+				"zh": "蓬蒿菜"
+			},
+			{
+				"en": "Sliced Bread",
+				"zh": "面包片"
+			}
+		],
+		[
+			{
+				"en": "Hot Oiled Chili Noodles with Pork",
+				"zh": "猪肉油泼面/鹌鹑蛋"
+			}
+		],
+		[
+			{
+				"en": "Macaroni with Mushroom Sauce and Beef Ball",
+				"zh": "焗弯管面配蘑菇汁牛肉丸子"
+			}
+		],
+		[
+			{
+				"en": "Stir-Fried Tofu  with Rice",
+				"zh": "麻辣株肉豆腐配米饭"
+			}
+		],
+		[
+			{
+				"en": "Cream Broccoli Soup",
+				"zh": "奶油西兰花汤"
+			}
+		],
+		[
+			{
+				"en": "Yellow PeachTart/Fruit/Yogurt/Yakult/Milk/Juice",
+				"zh": "黄桃塔/水果/酸奶/牛奶/果汁"
+			}
+		]
+	],
+	"next_breakfast": [
+		[
+			{
+				"en": "Beef Patties",
+				"zh": "牛肉葱油煎饼"
+			},
+			{
+				"en": "Brown Sugar Bun",
+				"zh": "红糖馒头"
+			},
+			{
+				"en": "Pickled Turnip with Egg",
+				"zh": "萝卜干炒蛋"
+			},
+			{
+				"en": "Assorted Seafood Congee",
+				"zh": "极品粥"
+			},
+			{
+				"en": "Vegetable",
+				"zh": "蔬菜"
+			}
+		],
+		[
+			{
+				"en": "Broccoli",
+				"zh": "西兰花"
+			},
+			{
+				"en": "Sunny Side-up",
+				"zh": "太阳蛋"
+			},
+			{
+				"en": "Lyonnais sausage",
+				"zh": "里昂那肠"
+			},
+			{
+				"en": "Cereal and Coix Congee",
+				"zh": "麦片薏仁粥"
+			},
+			{
+				"en": "Rye Bread",
+				"zh": "黑麦面包"
+			}
+		],
+		[
+			{
+				"en": "Pork with Rice Noodles and Egg",
+				"zh": "鸡蛋猪肉丝炒河粉"
+			}
+		],
+		[
+			{
+				"en": "Toast Selection",
+				"zh": "白吐司/全麦吐司"
+			},
+			{
+				"en": "Jam Selection (Strawberry, Orange, Butter)",
+				"zh": "草莓酱/橘子酱/小黄油"
+			},
+			{
+				"en": "Dried Soda Biscuit",
+				"zh": "混合苏打饼干"
+			},
+			{
+				"en": "Daily Cereal with Yogurt",
+				"zh": "玉米片, 葡萄干, 蔓越莓干, 酸奶"
+			}
+		],
+		[
+			{
+				"en": "Fruit/Yogurt/Yakult/Milk/Juice/Soybean Milk",
+				"zh": "水果/酸奶/养乐多/牛奶/果汁/豆浆"
+			}
+		]
+	],
+	"the_week_ahead_url": "https://ykpaoschool-my.sharepoint.com/:p:/g/personal/cora_chen_ykpaoschool_cn/ES8-D2AEochFhwvz7-fL5GEBqVI9dhtYoFi3PdKTKV04Jg",
+	"snack_morning": {
+		"en": "Butter Croissant",
+		"zh": "羊角"
+	},
+	"snack_afternoon": {
+		"en": "Matcha Cake",
+		"zh": "抹茶蛋糕"
+	},
+	"snack_evening": {
+		"en": "Fruit & Fruit Yoghurt",
+		"zh": "水果 & 果味酸奶"
+	},
+	"inspiration_type": null,
+	"inspiration_shared_by": null,
+	"inspiration_origin": null,
+	"inspiration_text": null,
+	"inspiration_image_data": null,
+	"inspiration_image_mime": null,
+	"on_this_day_html_en": "<p><b><a href=\"https://en.wikipedia.org/wiki/June_3\" title=\"June 3\">June 3</a></b>: <b><a href=\"https://en.wikipedia.org/wiki/Uganda_Martyrs\" title=\"Uganda Martyrs\">Martyrs Day</a></b> in Uganda;  <b><a href=\"https://en.wikipedia.org/wiki/King%27s_Official_Birthday\" title=\"King's Official Birthday\">King's Official Birthday</a></b> in New Zealand (2024); <b><a href=\"https://en.wikipedia.org/wiki/Western_Australia_Day\" title=\"Western Australia Day\">Western Australia Day</a></b> (2024)\n</p><ul><li><a href=\"https://en.wikipedia.org/wiki/1781\" title=\"1781\">1781</a> – <a href=\"https://en.wikipedia.org/wiki/American_Revolutionary_War\" title=\"American Revolutionary War\">American Revolutionary War</a>: <b><a href=\"https://en.wikipedia.org/wiki/Jack_Jouett\" title=\"Jack Jouett\">Jack Jouett</a></b> rode 40 miles (64 km) to warn <a href=\"https://en.wikipedia.org/wiki/Thomas_Jefferson\" title=\"Thomas Jefferson\">Thomas Jefferson</a> and the <a href=\"https://en.wikipedia.org/wiki/Virginia_General_Assembly\" title=\"Virginia General Assembly\">Virginia legislature</a> of British cavalry who had been sent to capture them.</li>\n<li><a href=\"https://en.wikipedia.org/wiki/1892\" title=\"1892\">1892</a> – <b><a href=\"https://en.wikipedia.org/wiki/Liverpool_F.C.\" title=\"Liverpool F.C.\">Liverpool F.C.</a></b>, one of England's most successful <a href=\"https://en.wikipedia.org/wiki/Association_football\" title=\"Association football\">football</a> clubs, was founded.</li>\n<li><a href=\"https://en.wikipedia.org/wiki/1937\" title=\"1937\">1937</a> – Half a year after <a href=\"https://en.wikipedia.org/wiki/Abdication_of_Edward_VIII\" title=\"Abdication of Edward VIII\">abdicating the British throne</a>, <b><a href=\"https://en.wikipedia.org/wiki/Edward_VIII\" title=\"Edward VIII\">Edward, Duke of Windsor</a></b>, married American socialite <b><a href=\"https://en.wikipedia.org/wiki/Wallis_Simpson\" title=\"Wallis Simpson\">Wallis Simpson</a></b> in a private ceremony in France.</li>\n<li><a href=\"https://en.wikipedia.org/wiki/1969\" title=\"1969\">1969</a> – During a <a href=\"https://en.wikipedia.org/wiki/Southeast_Asia_Treaty_Organization\" title=\"Southeast Asia Treaty Organization\">SEATO</a> exercise in the <a href=\"https://en.wikipedia.org/wiki/South_China_Sea\" title=\"South China Sea\">South China Sea</a>, <b><a href=\"https://en.wikipedia.org/wiki/Melbourne%E2%80%93Evans_collision\" title=\"Melbourne–Evans collision\">a collision</a></b> between <b><a href=\"https://en.wikipedia.org/wiki/HMAS_Melbourne_(R21)\" title=\"HMAS Melbourne (R21)\">HMAS <i>Melbourne</i></a></b> and <b><a href=\"https://en.wikipedia.org/wiki/USS_Frank_E._Evans\" title=\"USS Frank E. Evans\">USS <i>Frank E. Evans</i></a></b> resulted in the latter vessel being cut in two and the deaths of 74 personnel.</li>\n<li><a href=\"https://en.wikipedia.org/wiki/1982\" title=\"1982\">1982</a> – A failed assassination attempt was made on <b><a href=\"https://en.wikipedia.org/wiki/Shlomo_Argov\" title=\"Shlomo Argov\">Shlomo Argov</a></b>, the Israeli ambassador to the United Kingdom, which event was later used as justification for the <a href=\"https://en.wikipedia.org/wiki/1982_Lebanon_War\" title=\"1982 Lebanon War\">First Lebanon War</a>.</li></ul>\n<p><b>Births and Deaths: </b><b><a href=\"https://en.wikipedia.org/wiki/Garret_Hobart\" title=\"Garret Hobart\">Garret Hobart</a></b>  (<abbr title=\"born\">b.</abbr> 1844); <b><a href=\"https://en.wikipedia.org/wiki/Eric_A._Havelock\" title=\"Eric A. Havelock\">Eric A. Havelock</a></b>  (<abbr title=\"born\">b.</abbr> 1903); <b><a href=\"https://en.wikipedia.org/wiki/Franz_Kafka\" title=\"Franz Kafka\">Franz Kafka</a></b>  (<abbr title=\"died\">d.</abbr> 1924); <b><a href=\"https://en.wikipedia.org/wiki/Pierre_Poilievre\" title=\"Pierre Poilievre\">Pierre Poilievre</a></b> (<abbr title=\"born\">b.</abbr> 1979)</p>",
+	"on_this_day_html_zh": "<p><b><a href=\"https://zh.wikipedia.org/zh-cn/6%E6%9C%883%E6%97%A5\" title=\"6月3日\">6月3日</a>：</b>\n</p><ul><li><a href=\"https://zh.wikipedia.org/zh-cn/1621%E5%B9%B4\" title=\"1621年\">1621年</a> – <a href=\"https://zh.wikipedia.org/zh-cn/%E8%8D%B7%E8%98%AD%E5%85%B1%E5%92%8C%E5%9C%8B\" title=\"荷兰共和国\">荷兰共和国</a>仿效<a class=\"mw-redirect\" href=\"https://zh.wikipedia.org/zh-cn/%E8%8D%B7%E8%98%AD%E6%9D%B1%E5%8D%B0%E5%BA%A6%E5%85%AC%E5%8F%B8\" title=\"荷兰东印度公司\">东印度公司</a>模式而成立<b><a class=\"mw-redirect\" href=\"https://zh.wikipedia.org/zh-cn/%E8%8D%B7%E8%98%AD%E8%A5%BF%E5%8D%B0%E5%BA%A6%E5%85%AC%E5%8F%B8\" title=\"荷兰西印度公司\">西印度公司</a></b>，并特许在<a class=\"mw-redirect\" href=\"https://zh.wikipedia.org/zh-cn/%E5%8A%A0%E5%8B%92%E6%AF%94%E5%9C%B0%E5%8D%80\" title=\"加勒比地区\">加勒比地区</a>展开贸易。</li><li><a href=\"https://zh.wikipedia.org/zh-cn/1839%E5%B9%B4\" title=\"1839年\">1839年</a> – 中国<a href=\"https://zh.wikipedia.org/zh-cn/%E6%B8%85%E6%9C%9D\" title=\"清朝\">清朝</a>钦差大臣<b><a class=\"mw-redirect\" href=\"https://zh.wikipedia.org/zh-cn/%E6%9E%97%E5%89%87%E5%BE%90\" title=\"林则徐\">林则徐</a></b>在<a class=\"mw-redirect\" href=\"https://zh.wikipedia.org/zh-cn/%E8%99%8E%E9%96%80%E9%8E%AE\" title=\"虎门镇\">虎门</a>公开<a class=\"mw-redirect\" href=\"https://zh.wikipedia.org/zh-cn/%E8%99%8E%E9%96%80%E9%8A%B7%E7%85%99\" title=\"虎门销烟\">销毁</a>英国商人的1.9万箱鸦片，引发<a class=\"mw-redirect\" href=\"https://zh.wikipedia.org/zh-cn/%E7%AC%AC%E4%B8%80%E6%AC%A1%E9%B4%89%E7%89%87%E6%88%B0%E7%88%AD\" title=\"第一次鸦片战争\">第一次鸦片战争</a>。</li><li><a href=\"https://zh.wikipedia.org/zh-cn/1937%E5%B9%B4\" title=\"1937年\">1937年</a> – 已经<a href=\"https://zh.wikipedia.org/zh-cn/%E6%84%9B%E5%BE%B7%E8%8F%AF%E5%85%AB%E4%B8%96%E9%80%80%E4%BD%8D\" title=\"爱德华八世退位\">退位</a>的前英国国王<b><a class=\"mw-redirect\" href=\"https://zh.wikipedia.org/zh-cn/%E6%84%9B%E5%BE%B7%E8%8F%AF%E5%85%AB%E4%B8%96\" title=\"爱德华八世\">爱德华八世</a></b>与美国名流<a class=\"mw-redirect\" href=\"https://zh.wikipedia.org/zh-cn/%E8%8F%AF%E9%BA%97%E7%B5%B2%C2%B7%E8%BE%9B%E6%99%AE%E6%A3%AE\" title=\"华丽丝·辛普森\">沃利斯·辛普森</a>在法国<a class=\"mw-redirect\" href=\"https://zh.wikipedia.org/zh-cn/%E9%83%BD%E7%88%BE\" title=\"都尔\">图尔</a>举行婚礼。</li><li><a href=\"https://zh.wikipedia.org/zh-cn/1998%E5%B9%B4\" title=\"1998年\">1998年</a> – 德国一部从<a href=\"https://zh.wikipedia.org/zh-cn/%E6%85%95%E5%B0%BC%E9%BB%91\" title=\"慕尼黑\">慕尼黑</a>驶往<a class=\"mw-redirect\" href=\"https://zh.wikipedia.org/zh-cn/%E6%BC%A2%E5%A0%A1\" title=\"汉堡\">汉堡</a>的<a class=\"mw-redirect\" href=\"https://zh.wikipedia.org/zh-cn/ICE%E5%88%97%E8%BB%8A\" title=\"ICE列车\">城际快车</a>在<a class=\"mw-redirect\" href=\"https://zh.wikipedia.org/zh-cn/%E4%B8%8B%E8%96%A9%E5%85%8B%E6%A3%AE\" title=\"下萨克森\">下萨克森</a>发生<b><a href=\"https://zh.wikipedia.org/zh-cn/%E8%89%BE%E9%9B%AA%E5%BE%B7%E5%88%97%E8%BB%8A%E5%87%BA%E8%BB%8C%E4%BA%8B%E6%95%85\" title=\"艾雪德列车出轨事故\">出轨事故</a></b>，造成101人死亡。</li><li><a href=\"https://zh.wikipedia.org/zh-cn/2006%E5%B9%B4\" title=\"2006年\">2006年</a> – <a href=\"https://zh.wikipedia.org/zh-cn/%E8%92%99%E7%89%B9%E5%85%A7%E5%93%A5%E7%BE%85%E5%9C%8B%E6%9C%83\" title=\"黑山国会\">黑山国会</a>宣布依照<a class=\"mw-redirect\" href=\"https://zh.wikipedia.org/zh-cn/2006%E5%B9%B4%E8%92%99%E7%89%B9%E5%85%A7%E5%93%A5%E7%BE%85%E7%8D%A8%E7%AB%8B%E5%85%AC%E6%8A%95\" title=\"2006年黑山独立公投\">公投结果</a>而<b><a href=\"https://zh.wikipedia.org/zh-cn/%E8%92%99%E7%89%B9%E5%85%A7%E5%93%A5%E7%BE%85\" title=\"黑山\">正式独立</a></b>，<a href=\"https://zh.wikipedia.org/zh-cn/%E5%A1%9E%E7%88%BE%E7%B6%AD%E4%BA%9E%E8%88%87%E8%92%99%E7%89%B9%E5%85%A7%E5%93%A5%E7%BE%85\" title=\"塞尔维亚和黑山\">塞尔维亚和黑山</a>自此解体。</li></ul>",
+	"in_the_news_html_en": "<ul><li>American <a href=\"https://en.wikipedia.org/wiki/Baseball\" title=\"Baseball\">baseball</a> player <b><a href=\"https://en.wikipedia.org/wiki/Willie_Mays\" title=\"Willie Mays\">Willie Mays</a></b> dies at the <span class=\"nowrap\">age of 93</span>.</li>\n<li><b><a href=\"https://en.wikipedia.org/wiki/2024_Mangaf_building_fire\" title=\"2024 Mangaf building fire\">A fire</a></b> in a residential building in <a href=\"https://en.wikipedia.org/wiki/Mangaf\" title=\"Mangaf\">Mangaf</a>, south of <a href=\"https://en.wikipedia.org/wiki/Kuwait_City\" title=\"Kuwait City\">Kuwait City</a>, kills fifty people.</li>\n<li><b><a href=\"https://en.wikipedia.org/wiki/2024_Chikangawa_Dornier_228_crash\" title=\"2024 Chikangawa Dornier 228 crash\">A plane crash</a></b> near <a href=\"https://en.wikipedia.org/wiki/Chikangawa\" title=\"Chikangawa\">Chikangawa</a>, Malawi, kills nine people, including Vice President <a href=\"https://en.wikipedia.org/wiki/Saulos_Chilima\" title=\"Saulos Chilima\">Saulos Chilima</a>.</li>\n<li>In <a href=\"https://en.wikipedia.org/wiki/Tennis\" title=\"Tennis\">tennis</a>, <a href=\"https://en.wikipedia.org/wiki/Iga_%C5%9Awi%C4%85tek\" title=\"Iga Świątek\">Iga Świątek</a> wins <a href=\"https://en.wikipedia.org/wiki/2024_French_Open_%E2%80%93_Women%27s_singles\" title=\"2024 French Open – Women's singles\">the women's singles</a> and <a href=\"https://en.wikipedia.org/wiki/Carlos_Alcaraz\" title=\"Carlos Alcaraz\">Carlos Alcaraz</a> wins <a href=\"https://en.wikipedia.org/wiki/2024_French_Open_%E2%80%93_Men%27s_singles\" title=\"2024 French Open – Men's singles\">the men's singles</a> titles at <b><a href=\"https://en.wikipedia.org/wiki/2024_French_Open\" title=\"2024 French Open\">the French Open</a></b>.</li></ul><p><b>Ongoing: </b><a href=\"https://en.wikipedia.org/wiki/Israel%E2%80%93Hamas_war\" title=\"Israel–Hamas war\">Israel–Hamas war</a>; <a href=\"https://en.wikipedia.org/wiki/Russian_invasion_of_Ukraine\" title=\"Russian invasion of Ukraine\">Russian invasion of Ukraine</a>; <a href=\"https://en.wikipedia.org/wiki/Sudanese_civil_war_(2023%E2%80%93present)\" title=\"Sudanese civil war (2023–present)\">Sudanese civil war</a>\n<br><b>Recent deaths: </b><a href=\"https://en.wikipedia.org/wiki/%C3%89ric_Tappy\" title=\"Éric Tappy\">Éric Tappy</a>; <a href=\"https://en.wikipedia.org/wiki/Mike_Downey_(columnist)\" title=\"Mike Downey (columnist)\">Mike Downey</a>; <a href=\"https://en.wikipedia.org/wiki/Siri_Kannangara\" title=\"Siri Kannangara\">Siri Kannangara</a>; <a href=\"https://en.wikipedia.org/wiki/Brad_Dusek\" title=\"Brad Dusek\">Brad Dusek</a>; <a href=\"https://en.wikipedia.org/wiki/Matija_Sarkic\" title=\"Matija Sarkic\">Matija Sarkic</a>; <a href=\"https://en.wikipedia.org/wiki/Neil_Goldschmidt\" title=\"Neil Goldschmidt\">Neil Goldschmidt</a></p>",
+	"in_the_news_html_zh": "<ul><li><b><a href=\"https://zh.wikipedia.org/zh-cn/2024%E5%B9%B46%E6%9C%88%E7%83%8F%E5%85%8B%E8%98%AD%E5%92%8C%E5%B9%B3%E5%B3%B0%E6%9C%83\" title=\"2024年6月乌克兰和平峰会\">乌克兰和平峰会</a></b>于<a href=\"https://zh.wikipedia.org/zh-cn/%E7%91%9E%E5%A3%AB\" title=\"瑞士\">瑞士</a><a href=\"https://zh.wikipedia.org/zh-cn/%E4%B8%8B%E7%93%A6%E7%88%BE%E7%99%BB%E5%B7%9E\" title=\"下瓦尔登州\">下瓦尔登州</a><a href=\"https://zh.wikipedia.org/zh-cn/%E6%AF%94%E5%B0%94%E6%A0%B9%E5%B1%B1\" title=\"比尔根山\">比尔根山</a>的布尔根施托克度假村举行。</li>\n<li><b><a href=\"https://zh.wikipedia.org/zh-cn/%E7%AC%AC50%E5%B1%86%E4%B8%83%E5%A4%A7%E5%B7%A5%E6%A5%AD%E5%9C%8B%E7%B5%84%E7%B9%94%E6%9C%83%E8%AD%B0\" title=\"第50届七大工业国组织会议\">第50届七国集团会议</a></b>于意大利<a href=\"https://zh.wikipedia.org/zh-cn/%E6%99%AE%E5%88%A9%E4%BA%9A%E5%A4%A7%E5%8C%BA\" title=\"普利亚大区\">普利亚大区</a><a href=\"https://zh.wikipedia.org/zh-cn/%E6%B3%95%E8%90%A8%E8%AF%BA\" title=\"法萨诺\">法萨诺</a>举行。</li>\n<li>在<a class=\"mw-redirect\" href=\"https://zh.wikipedia.org/zh-cn/%E6%B0%91%E4%B8%BB%E8%81%AF%E7%9B%9F_(%E5%8D%97%E9%9D%9E)\" title=\"民主联盟 (南非)\">民主联盟</a>、<a class=\"mw-redirect\" href=\"https://zh.wikipedia.org/zh-cn/%E5%9B%A0%E5%8D%A1%E5%A1%94%E8%87%AA%E7%94%B1%E9%BB%A8\" title=\"因卡塔自由党\">因卡塔自由党</a>支持下，<b><a href=\"https://zh.wikipedia.org/zh-cn/%E8%A5%BF%E9%87%8C%E7%88%BE%C2%B7%E6%8B%89%E9%A6%AC%E7%A6%8F%E8%96%A9\" title=\"西里尔·拉马福萨\">西里尔·拉马福萨</a></b>成功连任<a href=\"https://zh.wikipedia.org/zh-cn/%E5%8D%97%E9%9D%9E\" title=\"南非\">南非</a><a class=\"mw-redirect\" href=\"https://zh.wikipedia.org/zh-cn/%E5%8D%97%E9%9D%9E%E7%B8%BD%E7%B5%B1\" title=\"南非总统\">总统</a>。</li>\n<li><a class=\"mw-redirect\" href=\"https://zh.wikipedia.org/zh-cn/%E9%A6%AC%E6%8B%89%E5%A8%81\" title=\"马拉维\">马拉维</a>副总统<a href=\"https://zh.wikipedia.org/zh-cn/%E7%B4%A2%E7%BD%97%E6%96%AF%C2%B7%E5%A5%87%E5%88%A9%E7%8E%9B\" title=\"索罗斯·奇利玛\">索罗斯·奇利玛</a>乘坐的马拉维空军飞机在奇坎加瓦森林保护区附近<b><a href=\"https://zh.wikipedia.org/zh-cn/2024%E5%B9%B4%E5%A5%87%E5%9D%8E%E5%8A%A0%E7%93%A6%E5%A4%9A%E5%B0%BC%E7%88%BE228%E5%A2%9C%E6%AF%80%E4%BA%8B%E6%95%85\" title=\"2024年奇坎加瓦多尼尔228坠毁事故\">坠毁</a></b>，机上10人全部身亡。</li>\n<li><a href=\"https://zh.wikipedia.org/zh-cn/%E6%96%B0%E5%BC%97%E6%8B%89%E8%8A%92%E8%81%AF%E7%9B%9F\" title=\"新弗拉芒联盟\">新弗拉芒联盟</a>在比利时<b><a href=\"https://zh.wikipedia.org/zh-cn/2024%E5%B9%B4%E6%AF%94%E5%88%A9%E6%97%B6%E8%81%94%E9%82%A6%E9%80%89%E4%B8%BE\" title=\"2024年比利时联邦选举\">众议院选举</a></b>中取得最多席次。</li></ul><p><b>正在发生：</b><a href=\"https://zh.wikipedia.org/zh-cn/%E4%BF%84%E7%BE%85%E6%96%AF%E5%85%A5%E4%BE%B5%E7%83%8F%E5%85%8B%E8%98%AD\" title=\"俄罗斯入侵乌克兰\">俄罗斯入侵乌克兰</a>；<a href=\"https://zh.wikipedia.org/zh-cn/%E4%BB%A5%E8%89%B2%E5%88%97%E2%80%94%E5%93%88%E9%A6%AC%E6%96%AF%E6%88%B0%E7%88%AD\" title=\"以色列—哈马斯战争\">以哈战争</a>；<a href=\"https://zh.wikipedia.org/zh-cn/2023%E5%B9%B4%E7%B4%85%E6%B5%B7%E5%8D%B1%E6%A9%9F\" title=\"2023年红海危机\">红海危机</a><br><b>最近逝世：</b><a href=\"https://zh.wikipedia.org/zh-cn/%E8%91%89%E6%83%A0%E5%BA%B7\" title=\"叶惠康\">叶惠康</a>；<a href=\"https://zh.wikipedia.org/zh-cn/%E5%B0%BC%E5%B0%94%C2%B7%E6%88%88%E5%B0%94%E5%BE%B7%E6%96%BD%E5%AF%86%E7%89%B9\" title=\"尼尔·戈尔德施密特\">尼尔·戈尔德施密特</a>；<a href=\"https://zh.wikipedia.org/zh-cn/%E6%9D%B0%E9%87%8C%C2%B7%E9%9F%A6%E6%96%AF%E7%89%B9\" title=\"杰里·韦斯特\">杰里·韦斯特</a>；<a href=\"https://zh.wikipedia.org/zh-cn/%E7%8E%8B%E6%B0%B8%E5%BF%97\" title=\"王永志\">王永志</a>；<a href=\"https://zh.wikipedia.org/zh-cn/%E7%B4%A2%E7%BD%97%E6%96%AF%C2%B7%E5%A5%87%E5%88%A9%E7%8E%9B\" title=\"索罗斯·奇利玛\">索罗斯·奇利玛</a></p>"
+}
