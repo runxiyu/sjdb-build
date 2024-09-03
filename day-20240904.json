@@ -1,0 +1,349 @@
+{
+	"stddate": "2024-09-04",
+	"community_time": [
+		[
+			"Open Session for the Tutor to plan an activity based on Pulse Data or teacher observation.",
+			"Year 10 Comprehensive Quality Evaluation (Auditorium)",
+			"Tutor Time - Tutees share CAS portfolios with advisors",
+			"Tutor Time - Tutees update CAS portfolios"
+		],
+		[
+			"CCA Sign Up",
+			"CCA Sign Up",
+			"CCA Sign Up",
+			"CCA Sign Up"
+		]
+	],
+	"days_after_this": 1,
+	"aod": "Chris Warren/Alex Aristizabal",
+	"weekday_english": "Wednesday",
+	"weekdays_abbrev": [
+		"Wed",
+		"Thu",
+		"Fri",
+		"Sat",
+		"Sun",
+		"Mon"
+	],
+	"weekday_chinese": "周三",
+	"day_of_cycle": "SA",
+	"today_breakfast": [
+		[
+			{
+				"en": "Meat Bun",
+				"zh": "鲜肉包"
+			},
+			{
+				"en": "Steamed Bun/Shandong Pancake (home-made)",
+				"zh": "花卷/山东煎饼（纯手工）"
+			},
+			{
+				"en": "Fried Egg with Xiangxi grandma's Dishes",
+				"zh": "外婆菜炒鸡蛋"
+			},
+			{
+				"en": "Chicken with Egg Congee",
+				"zh": "鸡肉蛋滑粥"
+			},
+			{
+				"en": "Vegetable",
+				"zh": "蔬菜"
+			}
+		],
+		[
+			{
+				"en": "Pan-Fry Cowpea",
+				"zh": "扒豇豆"
+			},
+			{
+				"en": "Benedict Egg & Hollandaise Sauce",
+				"zh": "班尼迪克蛋配培根菠菜&荷兰酱"
+			},
+			{
+				"en": "Oatmeal",
+				"zh": "麦片粥"
+			},
+			{
+				"en": "Lipu Taro",
+				"zh": "荔浦芋头"
+			}
+		],
+		[
+			{
+				"en": "Wontons with Sesame Sauce",
+				"zh": "麻酱馄饨"
+			}
+		],
+		[
+			{
+				"en": "Toast Selection",
+				"zh": "混合吐司"
+			},
+			{
+				"en": "Jam Selection",
+				"zh": "果酱"
+			},
+			{
+				"en": "Dried Soda Biscuit",
+				"zh": "混合苏打饼干"
+			},
+			{
+				"en": "Daily Cereal with Milk",
+				"zh": "可可球, 玉米片, 葡萄干, 蔓越莓干, 牛奶"
+			}
+		],
+		[
+			{
+				"en": "Fruit/Yogurt/Yakult/Milk/Juice/Soybean Milk",
+				"zh": "水果/酸奶/养乐多/牛奶/果汁/豆浆"
+			}
+		]
+	],
+	"today_lunch": [
+		[
+			{
+				"en": "Special Xinjiang Chicken",
+				"zh": "新疆大盘鸡"
+			},
+			{
+				"en": "Stewed egg cake",
+				"zh": "农家高汤火腿烩蛋饼"
+			},
+			{
+				"en": "Green Vegetables",
+				"zh": "茼蒿菜"
+			},
+			{
+				"en": "Roasted Baby Cabbage",
+				"zh": "烤娃娃菜"
+			},
+			{
+				"en": "Grains Rice",
+				"zh": "杂粮米饭"
+			}
+		],
+		[
+			{
+				"en": "Romanian Roasted Duck Leg",
+				"zh": "罗马尼亚烤鸭腿"
+			},
+			{
+				"en": "Green Vegetables",
+				"zh": "茼蒿菜"
+			},
+			{
+				"en": "Roasted Baby Cabbage",
+				"zh": "烤娃娃菜"
+			},
+			{
+				"en": "Baked Pumpkin",
+				"zh": "烤南瓜"
+			}
+		],
+		[
+			{
+				"en": "Xinjiang Hand-pulled Noodles with Mu shu Pork",
+				"zh": "拉条子配木须肉"
+			}
+		],
+		[
+			{
+				"en": "Beef Cannelloni",
+				"zh": "牛肉芝士卷"
+			},
+			{
+				"en": "Roasted Baby Cabbage",
+				"zh": "烤娃娃菜"
+			}
+		],
+		[
+			{
+				"en": "Baked cheese zucchini with Z-Rou stuffing and roasted pumpkin",
+				"zh": "植物肉节瓜船配烤南瓜"
+			}
+		],
+		[
+			{
+				"en": "Tomato and White Gourd Soup",
+				"zh": "番茄冬瓜汤"
+			}
+		],
+		[
+			{
+				"en": "Biscuit /Fruit/Yogurt/Yakult/Milk/Juice",
+				"zh": "曲奇饼干/水果/酸奶/养乐多/牛奶/果汁"
+			}
+		]
+	],
+	"today_dinner": [
+		[
+			{
+				"en": "Fried Shrimps with Fishman Style",
+				"zh": "避风塘炒虾"
+			},
+			{
+				"en": "Fried Pork with Corn and Bell Pepper",
+				"zh": "五彩黄金猪肉丁"
+			},
+			{
+				"en": "Green Vegetables",
+				"zh": "青菜"
+			},
+			{
+				"en": "Grilled Eggplant",
+				"zh": "烤茄子"
+			},
+			{
+				"en": "Steamed Rice",
+				"zh": "米饭"
+			}
+		],
+		[
+			{
+				"en": "Fragrant Roast Spring Chicken",
+				"zh": "香烤春鸡"
+			},
+			{
+				"en": "Grilled Eggplant",
+				"zh": "烤茄子"
+			},
+			{
+				"en": "Green Vegetables",
+				"zh": "青菜"
+			},
+			{
+				"en": "Baked Purple Sweet Potato",
+				"zh": "香烤红薯块"
+			}
+		],
+		[
+			{
+				"en": "Stir-fried Shredded Pork with Cane Shoots",
+				"zh": "茭白猪肉丝面"
+			}
+		],
+		[
+			{
+				"en": "Fried Pasta with Sausage",
+				"zh": "炒意面配香肠"
+			}
+		],
+		[
+			{
+				"en": "Sweet and Sour Lotus Root and Mixed Grains",
+				"zh": "糖醋藕夹配杂粮饭"
+			}
+		],
+		[
+			{
+				"en": "Mushroom Soup",
+				"zh": "奶油蘑菇汤"
+			}
+		],
+		[
+			{
+				"en": "Carrot Cake /Fruit/Yogurt/Yakult/Milk/Juice",
+				"zh": "胡萝卜蛋糕/水果/酸奶/养乐多/牛奶/果汁"
+			}
+		]
+	],
+	"next_breakfast": [
+		[
+			{
+				"en": "Radish Pork Pastry",
+				"zh": "萝卜丝猪肉饼"
+			},
+			{
+				"en": "Sticky Rice Cake",
+				"zh": "松糕"
+			},
+			{
+				"en": "Stir-fried Egg",
+				"zh": "小葱炒鸡蛋"
+			},
+			{
+				"en": "Pumpkin with Tremella Congee",
+				"zh": "南瓜银耳红枣粥"
+			},
+			{
+				"en": "Vegetable",
+				"zh": "蔬菜"
+			}
+		],
+		[
+			{
+				"en": "Mixed Beans",
+				"zh": "烩混合豆"
+			},
+			{
+				"en": "Shakshuka",
+				"zh": "北非蛋"
+			},
+			{
+				"en": "Prague Style Ham",
+				"zh": "布拉格风味火腿"
+			},
+			{
+				"en": "Cereal and Coix Congee",
+				"zh": "麦片薏仁粥"
+			},
+			{
+				"en": "Baguette",
+				"zh": "法棍面包"
+			}
+		],
+		[
+			{
+				"en": "Beef Fried Rice",
+				"zh": "上海酱油牛肉丝炒饭"
+			}
+		],
+		[
+			{
+				"en": "Toast Selection",
+				"zh": "混合吐司"
+			},
+			{
+				"en": "Jam Selection",
+				"zh": "果酱"
+			},
+			{
+				"en": "Dried Soda Biscuit",
+				"zh": "混合苏打饼干"
+			},
+			{
+				"en": "Daily Cereal with Yogurt",
+				"zh": "玉米片, 可可球, 葡萄干, 蔓越莓干, 酸奶"
+			}
+		],
+		[
+			{
+				"en": "Fruit/Yogurt/Yakult/Milk/Juice/Soybean Milk",
+				"zh": "水果/酸奶/养乐多/牛奶/果汁/豆浆"
+			}
+		]
+	],
+	"the_week_ahead_url": "https://ykpaoschool-my.sharepoint.com/:p:/g/personal/cora_chen_ykpaoschool_cn/ES8-D2AEochFhwvz7-fL5GEBqVI9dhtYoFi3PdKTKV04Jg",
+	"snack_morning": {
+		"en": "Fried Pork Dumplings",
+		"zh": "猪肉煎饺"
+	},
+	"snack_afternoon": {
+		"en": "Butter Cake with Dried Fruit",
+		"zh": "英式果脯蛋糕"
+	},
+	"snack_evening": {
+		"en": "Fruit & Chocolate Soy milk",
+		"zh": "水果 & 巧克力豆奶"
+	},
+	"inspiration_type": null,
+	"inspiration_shared_by": null,
+	"inspiration_origin": null,
+	"inspiration_text": null,
+	"inspiration_image_data": null,
+	"inspiration_image_mime": null,
+	"on_this_day_html_en": "<p><b><a href=\"https://en.wikipedia.org/wiki/September_4\" title=\"September 4\">September 4</a></b>\n</p><ul><li><a href=\"https://en.wikipedia.org/wiki/476\" title=\"476\">476</a> – <a href=\"https://en.wikipedia.org/wiki/Germanic_peoples\" title=\"Germanic peoples\">Germanic</a> leader <b><a href=\"https://en.wikipedia.org/wiki/Odoacer\" title=\"Odoacer\">Odoacer</a></b> captured <a href=\"https://en.wikipedia.org/wiki/Ravenna\" title=\"Ravenna\">Ravenna</a> and deposed Emperor <a href=\"https://en.wikipedia.org/wiki/Romulus_Augustulus\" title=\"Romulus Augustulus\">Romulus Augustus</a>, marking the <b><a href=\"https://en.wikipedia.org/wiki/Fall_of_the_Western_Roman_Empire\" title=\"Fall of the Western Roman Empire\">fall of the Western Roman Empire</a></b>.</li>\n<li><a href=\"https://en.wikipedia.org/wiki/1800\" title=\"1800\">1800</a> – <a href=\"https://en.wikipedia.org/wiki/French_Revolutionary_Wars\" title=\"French Revolutionary Wars\">French Revolutionary Wars</a>: Facing starvation and a death rate of 100 soldiers per day, the French garrison in Malta surrendered to British forces, ending <b><a href=\"https://en.wikipedia.org/wiki/Siege_of_Malta_(1798%E2%80%931800)\" title=\"Siege of Malta (1798–1800)\">a two-year siege</a></b>.</li>\n<li><a href=\"https://en.wikipedia.org/wiki/1843\" title=\"1843\">1843</a> – The state wedding of <b><a href=\"https://en.wikipedia.org/wiki/Teresa_Cristina_of_the_Two_Sicilies\" title=\"Teresa Cristina of the Two Sicilies\">Teresa Cristina of the Two Sicilies</a></b> and Emperor <a href=\"https://en.wikipedia.org/wiki/Pedro_II_of_Brazil\" title=\"Pedro II of Brazil\">Pedro II of Brazil</a> took place at the <a href=\"https://en.wikipedia.org/wiki/Old_Cathedral_of_Rio_de_Janeiro\" title=\"Old Cathedral of Rio de Janeiro\">Cathedral of Rio de Janeiro</a>.</li>\n<li><a href=\"https://en.wikipedia.org/wiki/1977\" title=\"1977\">1977</a> – The <b><a href=\"https://en.wikipedia.org/wiki/Golden_Dragon_massacre\" title=\"Golden Dragon massacre\">Golden Dragon massacre</a></b> took place in <a href=\"https://en.wikipedia.org/wiki/Chinatown,_San_Francisco\" title=\"Chinatown, San Francisco\">Chinatown, San Francisco</a>, leaving five dead and spurring police to end Chinese gang violence in the city.</li>\n<li><a href=\"https://en.wikipedia.org/wiki/2010\" title=\"2010\">2010</a> – <b><a href=\"https://en.wikipedia.org/wiki/2010_Canterbury_earthquake\" title=\"2010 Canterbury earthquake\">A magnitude-7.1 earthquake</a></b> struck the <a href=\"https://en.wikipedia.org/wiki/Canterbury_Region\" title=\"Canterbury Region\">Canterbury Region</a> of New Zealand, causing two deaths and up to <a href=\"https://en.wikipedia.org/wiki/New_Zealand_dollar\" title=\"New Zealand dollar\">NZ$</a>40 billion in damages.</li></ul>\n<p><b>Births and Deaths: </b><b><a href=\"https://en.wikipedia.org/wiki/Maria_of_Castile\" title=\"Maria of Castile\">Maria of Castile</a></b>  (<abbr title=\"died\">d.</abbr> 1458); <b><a href=\"https://en.wikipedia.org/wiki/Robert_Dudley,_1st_Earl_of_Leicester\" title=\"Robert Dudley, 1st Earl of Leicester\">Robert Dudley, 1st Earl of Leicester</a></b>  (<abbr title=\"died\">d.</abbr> 1588); <b><a href=\"https://en.wikipedia.org/wiki/Konstantin_Kalser\" title=\"Konstantin Kalser\">Konstantin Kalser</a></b>  (<abbr title=\"born\">b.</abbr> 1920); <b><a href=\"https://en.wikipedia.org/wiki/Yoani_S%C3%A1nchez\" title=\"Yoani Sánchez\">Yoani Sánchez</a></b>  (<abbr title=\"born\">b.</abbr> 1975)</p>",
+	"on_this_day_html_zh": "<p><b><a href=\"https://zh.wikipedia.org/zh-cn/9%E6%9C%884%E6%97%A5\" title=\"9月4日\">9月4日</a>：</b>\n</p><ul><li><a href=\"https://zh.wikipedia.org/zh-cn/476%E5%B9%B4\" title=\"476年\">476年</a> – 日耳曼人将军<a href=\"https://zh.wikipedia.org/zh-cn/%E5%A5%A7%E5%A4%9A%E4%BA%9E%E5%A1%9E\" title=\"奥多亚塞\">奥多亚塞</a>占领<a href=\"https://zh.wikipedia.org/zh-cn/%E8%A5%BF%E7%BE%85%E9%A6%AC%E5%B8%9D%E5%9C%8B\" title=\"西罗马帝国\">西罗马帝国</a><a href=\"https://zh.wikipedia.org/zh-cn/%E6%8B%89%E6%96%87%E7%B4%8D\" title=\"拉文纳\">拉韦纳</a>，并<b><a href=\"https://zh.wikipedia.org/zh-cn/%E7%BD%97%E9%A9%AC%E5%B8%9D%E5%9B%BD%E7%9A%84%E8%A1%B0%E8%90%BD\" title=\"罗马帝国的衰落\">废黜</a></b>西罗马帝国皇帝<a class=\"mw-redirect\" href=\"https://zh.wikipedia.org/zh-cn/%E7%BE%85%E6%85%95%E8%B7%AF%E6%96%AF%C2%B7%E5%A5%A7%E5%8F%A4%E6%96%AF%E9%83%BD\" title=\"罗慕路斯·奥古斯都\">罗慕路斯·奥古斯都</a>。</li><li><a href=\"https://zh.wikipedia.org/zh-cn/1781%E5%B9%B4\" title=\"1781年\">1781年</a> – <a href=\"https://zh.wikipedia.org/zh-cn/%E8%A5%BF%E7%8F%AD%E7%89%99%E7%BE%8E%E6%B4%B2%E6%AE%96%E6%B0%91%E5%9C%B0\" title=\"西班牙美洲殖民地\">西班牙美洲殖民地</a>的移民在<a href=\"https://zh.wikipedia.org/zh-cn/%E4%B8%8A%E5%8A%A0%E5%88%A9%E7%A6%8F%E5%B0%BC%E4%BA%9E%E7%9C%81\" title=\"上加利福尼亚省\">上加利福尼亚省</a>建立新城镇，后来发展成为美国第二大城<b><a class=\"mw-redirect\" href=\"https://zh.wikipedia.org/zh-cn/%E6%B4%9B%E6%9D%89%E7%A3%AF\" title=\"洛杉矶\">洛杉矶</a></b>。</li><li><a href=\"https://zh.wikipedia.org/zh-cn/1870%E5%B9%B4\" title=\"1870年\">1870年</a> – 法国<a href=\"https://zh.wikipedia.org/zh-cn/%E5%B7%B4%E9%BB%8E\" title=\"巴黎\">巴黎</a>的民众发起革命废黜<a href=\"https://zh.wikipedia.org/zh-cn/%E6%B3%95%E8%98%AD%E8%A5%BF%E7%AC%AC%E4%BA%8C%E5%B8%9D%E5%9C%8B\" title=\"法兰西第二帝国\">法兰西第二帝国</a>皇帝<a class=\"mw-redirect\" href=\"https://zh.wikipedia.org/zh-cn/%E6%8B%BF%E7%A0%B4%E5%B4%99%E4%B8%89%E4%B8%96\" title=\"拿破仑三世\">拿破仑三世</a>，并成立<b><a class=\"mw-redirect\" href=\"https://zh.wikipedia.org/zh-cn/%E6%B3%95%E8%98%AD%E8%A5%BF%E7%AC%AC%E4%B8%89%E5%85%B1%E5%92%8C%E5%9C%8B\" title=\"法兰西第三共和国\">法兰西第三共和国</a></b>。</li><li><a href=\"https://zh.wikipedia.org/zh-cn/1998%E5%B9%B4\" title=\"1998年\">1998年</a> – <a class=\"mw-redirect\" href=\"https://zh.wikipedia.org/zh-cn/%E8%B3%B4%E5%88%A9%C2%B7%E4%BD%A9%E5%90%89\" title=\"赖利·佩吉\">拉里·佩奇</a>和<a class=\"mw-redirect\" href=\"https://zh.wikipedia.org/zh-cn/%E8%AC%9D%E7%88%BE%E8%93%8B%C2%B7%E5%B8%83%E6%9E%97\" title=\"谢尔盖·布林\">谢尔盖·布林</a>在美国<a class=\"mw-redirect\" href=\"https://zh.wikipedia.org/zh-cn/%E5%8A%A0%E5%88%A9%E7%A6%8F%E5%B0%BC%E4%BA%9E%E5%B7%9E\" title=\"加利福尼亚州\">加利福尼亚州</a><a href=\"https://zh.wikipedia.org/zh-cn/%E9%97%A8%E6%B4%9B%E5%B8%95%E5%85%8B_(%E5%8A%A0%E5%88%A9%E7%A6%8F%E5%B0%BC%E4%BA%9A%E5%B7%9E)\" title=\"门洛帕克 (加利福尼亚州)\">门洛帕克</a>成立开发<a href=\"https://zh.wikipedia.org/zh-cn/%E6%90%9C%E5%B0%8B%E5%BC%95%E6%93%8E%E6%9C%80%E4%BD%B3%E5%8C%96\" title=\"搜索引擎最佳化\">搜索引擎</a>的<b><a href=\"https://zh.wikipedia.org/zh-cn/Google\" title=\"Google\">Google</a></b>公司。</li><li><a href=\"https://zh.wikipedia.org/zh-cn/2010%E5%B9%B4\" title=\"2010年\">2010年</a> – 新西兰<a href=\"https://zh.wikipedia.org/zh-cn/%E5%8D%97%E5%B3%B6_(%E6%96%B0%E8%A5%BF%E8%98%AD)\" title=\"南岛 (新西兰)\">南岛</a>最大城市<a href=\"https://zh.wikipedia.org/zh-cn/%E5%9F%BA%E7%9D%A3%E5%9F%8E\" title=\"基督城\">克赖斯特彻奇</a>发生<a class=\"mw-redirect\" href=\"https://zh.wikipedia.org/zh-cn/%E8%8A%AE%E6%B0%8F%E5%9C%B0%E9%9C%87%E8%A6%8F%E6%A8%A1\" title=\"里氏地震规模\">里氏震级</a>7.1级的<b><a href=\"https://zh.wikipedia.org/zh-cn/2010%E5%B9%B4%E5%9D%8E%E7%89%B9%E4%BC%AF%E9%9B%B7%E5%9C%B0%E9%9C%87\" title=\"2010年坎特伯雷地震\">地震</a></b>，造成约3.5亿新西兰元的经济损失。</li></ul>",
+	"in_the_news_html_en": "",
+	"in_the_news_html_zh": ""
+}
