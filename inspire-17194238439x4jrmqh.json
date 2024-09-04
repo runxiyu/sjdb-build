@@ -6,17 +6,6 @@
 	"text": "",
 	"file": "hold_the_math_please.8vse7kvw.webp",
 	"sub": "17194238439x4jrmqh.json",
-	"used": false,
-	"approved": false
-}
-{
-	"type": "media",
-	"origin": "https://www.reddit.com/r/ProgrammerHumor/comments/p0fa6g/hold_the_math_please/",
-	"uname": "Albert Tan \u8c2d\u4e91\u6f6e",
-	"ts": "1719423843",
-	"text": "",
-	"file": "hold_the_math_please.8vse7kvw.webp",
-	"sub": "17194238439x4jrmqh.json",
-	"used": false,
+	"used": true,
 	"approved": true
 }
