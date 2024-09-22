@@ -1,0 +1,11 @@
+#!/usr/bin/env bash
+
+set -xeu
+
+build_home="${BASH_SOURCE[0]%/*}"
+
+cd "${build_home}"
+
+git add .
+git commit -m "Auto commit"
+git remote | xargs -L1 git push --all --verbose
