@@ -1,0 +1,454 @@
+
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta content="width=device-width, initial-scale=1" name="viewport" />
+<style>
+	/* @font-face { font-family: Inter; font-weight: 400; src: url("https://albertttan.github.io/daily-bulletin/files/Inter-Regular.ttf") format("truetype"); }
+	@font-face { font-family: Inter; font-weight: 700; src: url("https://albertttan.github.io/daily-bulletin/files/Inter-Bold.ttf") format("truetype"); }
+	@font-face { font-family: "Noto Sans SC"; font-weight: 400; src: url("https://albertttan.github.io/daily-bulletin/files/NotoSansSC-Regular.otf") format("opentype"); }
+	@font-face { font-family: "Noto Sans SC"; font-weight: 700; src: url("https://albertttan.github.io/daily-bulletin/files/NotoSansSC-Bold.otf") format("opentype"); } */
+	html { font-family: "Arial", "Noto Sans SC", sans-serif; }
+	body { max-width: 60rem; margin: auto; padding: 1rem; }
+	header { margin-top: 1rem; text-align: center; margin-bottom: 1.5rem; }
+	h2 { padding-top: 1.2rem; }
+	h3, h4, h5, h6 { padding-top: 0.8rem; }
+	span.location { text-decoration: underline; }
+	time { text-decoration: underline; }
+	a:link, a:visited, a:hover, a:active { color: #791a9c; }
+	table { width: 100%; border-collapse: collapse; border: 2px solid rgb(180, 180, 180); font-size: 90%; }
+	caption { margin: 1ex 1em; font-weight: bold; font-size: 105%; }
+	/* tr.today { background-color: rgb(210, 221, 247); } */
+	tr.today { background-color: #e7d2ec; }
+	tr.not-today { color: rgb(150, 150, 150); }
+	td, th { border: 1px solid rgb(150, 150, 150); padding: 0.4rem; }
+	table#community_time td { text-align: center;}
+	td { min-width: 4.8rem; vertical-align: top; }
+	table#menu { min-width: 55em; } /* I think the mail clients will just resize the table */
+	table#menu ul { padding-left: 1.2em; }
+	th { color: black; background-color: rgb(240, 240, 240); }
+	th, .wtitle { font-weight: bold; }
+	blockquote { position: relative; margin-left: 40px; }
+	blockquote::before { content: ""; position: absolute; left: -14px; top: 0px; bottom: 0px; width: 2px; background-color: rgb(180, 180, 180); }
+	pre { background-color: rgb(240, 240, 240); padding: 10px; }
+	code, kbd, var { font-family: monospace; font-size: smaller; background-color: rgb(240, 240, 240); }
+	cite { font-size: 90%; font-style: italic; color: rgb(150, 150, 150); }
+	p.ps { font-size: 90%; color: rgb(150, 150, 150); }
+	.ps { color: rgb(150, 150, 150); }
+	.serif, math { font-family: serif; }
+	img { max-width: 100%; max-height: 60rem; }
+	img.embed { width: 40%; float: right; margin-left: 10px; margin-bottom: 10px; }
+	hr { border: 1px solid rgb(150, 150, 150); }
+	footer { padding-top: 1rem; text-align: center; }
+	.wtitle + ul { margin-top: 0rem; }
+</style>
+</head>
+<body dir="auto">
+<title>Daily Bulletin 2024-09-24</title>
+<header>
+	<h1>Daily Bulletin 每日公告</h1>
+	<p><time datetime="2024-09-24">2024-09-24</time>, Tuesday, Day C</p>
+	<p style="font-weight: bold; color: #AA0000;">
+	Internal beta testing edition
+	</p>
+</header>
+<article>
+	<p>
+	Happy Tuesday! Thank you for supporting the Daily Bulletin. Please note that this is supplementary to <a href="https://ykpaoschool-my.sharepoint.com/:p:/g/personal/cora_chen_ykpaoschool_cn/ES8-D2AEochFhwvz7-fL5GEBqVI9dhtYoFi3PdKTKV04Jg">The Week Ahead</a> and is not an official source of information, and the Daily Bulletin staff accept no liability for the accuracy or validity. Please fill in the respective forms to <a href="https://ykps.runxiyu.org/sjdb/submit">share inspirations</a> or <a href="https://ykps.runxiyu.org/sjdb/unsub">unsubscribe</a>.
+	<br />
+	周二快乐！感谢您支持每日公告。请注意，每日公告只是<a href="https://ykpaoschool-my.sharepoint.com/:p:/g/personal/cora_chen_ykpaoschool_cn/ES8-D2AEochFhwvz7-fL5GEBqVI9dhtYoFi3PdKTKV04Jg">每周展望</a>的补充，并不代表官方信息。我们不对信息的准确性和有效性承担责任。请填写相应表格以<a href="https://ykps.runxiyu.org/sjdb/submit">分享灵感</a>或<a href="https://ykps.runxiyu.org/sjdb/unsub">退订</a>。
+	</p>
+
+	<h2>Daily Bulletin Project Info 每日公告项目信息</h2>
+	<p>
+	The Daily Bulletin project has returned. Last year, it was maintained by <a href="https://albertttan.github.io">Albert Tan</a>, who departed the school. The bulletin is now maintained by <a href="https://runxiyu.org">Runxi Yu</a> with the <a href="https://git.runxiyu.org/ykps/sjdb-src.git/about">automated build system</a> (<a href="https://github.com/runxiyu/sjdb-src">GitHub</a>).
+	</p>
+	<p>
+	Note: This version of the Daily Bulletin is still in beta. Importantly, this version <em>has not been approved officially</em> by the school administration, and is unfit for wider distribution. Only a number of people who the maintainer is sufficiently familiar with are receiving the bulletins currently.
+	</p>
+
+	
+	<h2>Community Time 午休时间</h2>
+	<table id="community_time">
+		
+		<colgroup><col style="width: 5%"><col style="width: 23.75%"><col style="width: 23.75%"><col style="width: 23.75%"><col style="width: 23.75%"></colgroup>
+		<thead>
+			<tr>
+				<th scope="col">Day</th>
+				<th scope="col">Y9</th>
+				<th scope="col">Y10</th>
+				<th scope="col">Y11</th>
+				<th scope="col">Y12</th>
+			</tr>
+		</thead>
+		<tbody>
+			<tr class="today">
+				<th scope="row">Tue</th>
+				
+					<td colspan="4">Tutor Time</td>
+				
+			</tr>
+			
+				<tr class="not-today">
+					<th scope="row">Wed</th>
+					
+						<td colspan="1">Watch Student Council Videos from other Year Groups</td>
+						<td colspan="1">Dean’s Forum (Auditorium)</td>
+						<td colspan="1">Tutees update CAS portfolios with advisors</td>
+						<td colspan="1">HoH Tutor Time (inc. Tutees &amp; Tutors)</td>
+					
+				</tr>
+			
+				<tr class="not-today">
+					<th scope="row">Thu</th>
+					
+						<td colspan="4">Watch Student Council Videos in your Year Group</td>
+					
+				</tr>
+			
+		</tbody>
+		
+	</table>
+	
+	<h2>Delicious Dinings 今日佳肴</h2>
+	<table id="menu">
+		<colgroup>
+			<col style="width: 5%">
+			<col style="width: 31.667%;">
+			<col style="width: 31.667%;">
+			<col style="width: 31.667%; border-left: 2px solid rgb(180, 180, 180);">
+		</colgroup>
+		
+		<tbody>
+			<tr class="today">
+				<th scope="row">Tue<br/>Brkfst</th>
+				<td>
+					
+					<span class="wtitle">Piccola Italia</span>
+					<ul>
+						
+						<li>Toast Selection
+混合吐司</li>
+						
+						<li>Jam Selection
+果酱</li>
+						
+						<li>Dried Soda Biscuit
+混合苏打饼干</li>
+						
+						<li>Daily Cereal with Yougurt
+玉米片，葡萄干，蔓越莓干，酸奶</li>
+						
+					</ul>
+					
+					
+					<span class="wtitle">Eat Global</span>
+					<ul>
+						
+						<li>Tomato &amp; Cheese Omelet
+番茄洋葱芝士炒鸡蛋</li>
+						
+						<li>Taro
+香芋</li>
+						
+						<li>Pork Sausage
+煎猪肉早餐肠</li>
+						
+						<li>Oatmeal
+麦片粥</li>
+						
+						<li>Pancake
+西式煎饼配枫糖浆</li>
+						
+					</ul>
+					
+				</td>
+				<td>
+					
+					<span class="wtitle">Revolution Noodle</span>
+					<ul>
+						
+						<li>Rice with Fried Ham and Scrambled Egg
+雪菜滑蛋火腿炒饭</li>
+						
+					</ul>
+					
+					
+					<span class="wtitle">Taste of Asia</span>
+					<ul>
+						
+						<li>Pork Patties
+腊汁肉饼</li>
+						
+						<li>Beef Shao Mai
+牛肉烧麦</li>
+						
+						<li>Steamed Egg
+蒸鸡蛋</li>
+						
+						<li>Minced Pork Congee
+皮蛋瘦肉粥</li>
+						
+						<li>Vegetable
+蔬菜</li>
+						
+					</ul>
+					
+				</td>
+				<td>
+					
+					<span class="wtitle">Self Pick-up</span>
+					<ul>
+						
+						<li>Boiled Egg
+白煮蛋</li>
+						
+					</ul>
+					
+					
+					<span class="wtitle">Fruit/Drink</span>
+					<ul>
+						
+						<li>Fruit/Yogurt/Yakult/Milk/Juice/Soybean Milk
+水果/酸奶/养乐多/牛奶/果汁/豆浆</li>
+						
+					</ul>
+					
+				</td>
+			</tr>
+			<tr class="today">
+				<th scope="row">Tue<br/>Lunch</th>
+				<td>
+					
+					<span class="wtitle">Piccola Italia</span>
+					<ul>
+						
+						<li>Beef Lasagna 
+牛肉千层面</li>
+						
+					</ul>
+					
+					
+					<span class="wtitle">Eat Global</span>
+					<ul>
+						
+						<li>Maple roast chicken whole wings
+枫糖烤鸡全翅</li>
+						
+						<li>Mini Carrots
+迷你胡萝卜</li>
+						
+						<li>Cabbage
+牛心菜</li>
+						
+						<li>Baked Pumpkin
+烤南瓜</li>
+						
+					</ul>
+					
+				</td>
+				<td>
+					
+					<span class="wtitle">Revolution Noodle</span>
+					<ul>
+						
+						<li>Sichuan Style Stew Pork Noodles
+回锅肉面/百叶结</li>
+						
+					</ul>
+					
+					
+					<span class="wtitle">Taste of Asia</span>
+					<ul>
+						
+						<li>Braised Shrimp Balls
+什锦烩手工虾滑</li>
+						
+						<li>Fried Minced Chicken with Kale and Asparagus
+鸡丝橄榄莴笋丝</li>
+						
+						<li>Cabbage
+牛心菜</li>
+						
+						<li>Carrots
+胡萝卜</li>
+						
+						<li>Red Sticky Rice
+血糯米饭</li>
+						
+					</ul>
+					
+				</td>
+				<td>
+					
+					<span class="wtitle">Vegetarian</span>
+					<ul>
+						
+						<li>Braised Bean Curd with spinach and Rice
+素鸭配菠菜米饭</li>
+						
+					</ul>
+					
+					
+					<span class="wtitle">Daily Soup</span>
+					<ul>
+						
+						<li>Broccoli Soup
+奶油西兰花汤</li>
+						
+					</ul>
+					
+					
+					<span class="wtitle">Dessert/Fruit/Drink</span>
+					<ul>
+						
+						<li>Biscuit/Fruit/Yogurt/
+Yakult/Milk/Juice
+黄油巧克力饼干/水果/酸奶/养乐多/牛奶/果汁</li>
+						
+					</ul>
+					
+				</td>
+			</tr>
+			<tr class="today">
+				<th scope="row">Tue<br/>Dinner</th>
+				<td>
+					
+					<span class="wtitle">Piccola Italia</span>
+					<ul>
+						
+						<li>Salami Pizza
+萨拉米芝士披萨</li>
+						
+					</ul>
+					
+					
+					<span class="wtitle">Eat Global</span>
+					<ul>
+						
+						<li>Deep-Fried Fish
+英式炸鱼</li>
+						
+						<li>Purple Cabbage
+紫甘蓝</li>
+						
+						<li>Canola
+油麦菜</li>
+						
+						<li>French fries
+薯条</li>
+						
+						<li>Corn Rice
+玉米饭</li>
+						
+					</ul>
+					
+				</td>
+				<td>
+					
+					<span class="wtitle">Revolution Noodle</span>
+					<ul>
+						
+						<li>Braised Duck Noodles
+酱鸭面/卤干</li>
+						
+					</ul>
+					
+					
+					<span class="wtitle">Taste of Asia</span>
+					<ul>
+						
+						<li>Braised Chicken
+黄焖鸡</li>
+						
+						<li>Muxu Pork
+木须肉</li>
+						
+						<li>Canola
+油麦菜</li>
+						
+						<li>Purple Cabbage
+紫甘蓝</li>
+						
+						<li>Corn Rice
+玉米饭</li>
+						
+					</ul>
+					
+				</td>
+				<td>
+					
+					<span class="wtitle">Vegetarian</span>
+					<ul>
+						
+						<li>Vegetarian spicy tofu&amp; Fried Rice with Chive
+麻辣豆腐（株肉沫）配小葱炒饭</li>
+						
+					</ul>
+					
+					
+					<span class="wtitle">Daily Soup</span>
+					<ul>
+						
+						<li>Chicken Tortilla Soup
+鸡肉饼皮汤</li>
+						
+					</ul>
+					
+					
+					<span class="wtitle">Dessert/Fruit/Drink</span>
+					<ul>
+						
+						<li>Bread and peach Pudding
+/Fruit/Yogurt/Yakult/Milk/Juice
+面包黄桃布丁/水果/酸奶/养乐多/牛奶/果汁</li>
+						
+					</ul>
+					
+				</td>
+			</tr>
+		</tbody>
+	</table>
+	
+	<p class="ps">I am aware that the menu currently looks a bit ugly; I am not experienced in webpage layout at all. HTML/CSS experts wanted!</p>
+
+	<h2>Daily Inspiration 每日灵感</h2>
+	
+	<p>
+	Unfortunately, there is no inspiration today.
+	Please feel free to <a href="https://ykps.runxiyu.org/sjdb/submit">submit one</a>.
+	</p>
+	
+
+	
+	
+	
+
+	
+	
+	
+
+	<h2>Regular Notices 常规通知</h2>
+	<ul>
+		<li>
+			<a href="https://forms.office.com/pages/responsepage.aspx?id=bNLT3ZexAE2jLR_9hMDClUPg4MiMFbZFh1B1P68pV6lUMUJHUjk2NEI1MU1ROTRFNjRQQ1NVSE5RSi4u">Student Council Suggestion Box</a>
+		</li>
+		<li>
+			Emergency phone: <a href="tel:+8618221990830">182 2199 0830</a>
+		</li>
+		<li>
+			AOD: Duncan Weller
+		</li>
+	</ul>
+	<p class="ps" style="font-weight: bold;">Disclaimer: Please check The Week Ahead for official information.</p>
+</article>
+<footer>
+	<p>
+	<a href="https://ykps.runxiyu.org/sjdb/">Home Page</a>
+	
+	·
+	<a href="mailto:s22537@stu.ykpaoschool.cn">Contact</a>
+	</p>
+</footer>
+</body>
+</html>
