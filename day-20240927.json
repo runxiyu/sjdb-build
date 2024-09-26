@@ -1,0 +1,88 @@
+{
+	"stddate": "2024-09-27",
+	"community_time": [],
+	"days_after_this": -1,
+	"aod": "None",
+	"weekday_english": "Friday",
+	"weekdays_abbrev": [
+		"Fri",
+		"Sat",
+		"Sun",
+		"Mon"
+	],
+	"weekday_chinese": "周五",
+	"day_of_cycle": "F",
+	"today_breakfast": {
+		"Taste of Asia": [
+			"Steamed Rice Rolls\n广式虾仁肠粉",
+			"Smashed Bean Bun/Rice Roll (home-made)\n豆沙包/ 上海手工滋饭团",
+			"Deep-fried Boiled Egg\n虎皮鸡蛋",
+			"Sweet Potato Congee\n红薯粥",
+			"Vegetable\n蔬菜"
+		],
+		"Eat Global": [
+			"Bake the Broccoli\n烤西兰花",
+			"Chicken & Cheese Panini\n鸡肉芝士三明治",
+			"Cereal and Coix Congee\n麦片小米粥",
+			"Brazil Black bean\n巴西黑豆"
+		],
+		"Revolution Noodle": [
+			"Noodle with Scallion & Shredded Pork\n葱油拌面（猪肉丝）"
+		],
+		"Piccola Italia": [
+			"Toast Selection\n混合吐司",
+			"Jam Selection\n果酱",
+			"Dried Soda Biscuit\n混合苏打饼干",
+			"Daily Cereal with Milk\n卜卜米，葡萄干，蔓越莓干，牛奶"
+		],
+		"Self Pick-up": [
+			"Boiled Egg\n白煮蛋"
+		],
+		"Fruit/Drink": [
+			"Fruit/Yogurt/Yakult/Milk/Juice/Soybean Milk\n水果/酸奶/养乐多/牛奶/果汁/豆浆"
+		]
+	},
+	"today_lunch": {
+		"Taste of Asia": [
+			"Braised Pork with Rice Fragrance\n稻香扎肉",
+			"Braised Tofu and Chicken\n农家鸡片豆腐煲",
+			"Spinach\n菠菜",
+			"Roasted Eggplant and Bell Pepper\n炭烤茄子配甜椒",
+			"Quinoa Rice\n三色藜麦米饭"
+		],
+		"Eat Global": [
+			"Korean Beef bibimbap\n韩式牛肉拌饭"
+		],
+		"Revolution Noodle": [
+			"Seafood Noodles\n海鲜面/白煮蛋"
+		],
+		"Piccola Italia": [
+			"Tomato Parmesan Chicken Steak with Spaghetti\n番茄帕玛森鸡排配意面"
+		],
+		"Vegetarian": [
+			"Falafel & Pita Bread\n法拉法，皮塔面包"
+		],
+		"Daily Soup": [
+			"Seaweed Soup with Egg and Pork\n紫菜肉丝蛋汤"
+		],
+		"Dessert/Fruit/Drink": [
+			"Brownie /Fruit/Yogurt/\nYakult/Milk/Juice\n布朗尼 /水果/酸奶/养乐多/牛奶/果汁"
+		]
+	},
+	"today_dinner": null,
+	"next_breakfast": null,
+	"the_week_ahead_url": "https://ykpaoschool-my.sharepoint.com/:p:/g/personal/cora_chen_ykpaoschool_cn/ES8-D2AEochFhwvz7-fL5GEBqVI9dhtYoFi3PdKTKV04Jg",
+	"snack_morning": null,
+	"snack_afternoon": null,
+	"snack_evening": null,
+	"inspiration_type": null,
+	"inspiration_shared_by": null,
+	"inspiration_origin": null,
+	"inspiration_text": null,
+	"inspiration_image_data": null,
+	"inspiration_image_mime": null,
+	"on_this_day_html_en": null,
+	"on_this_day_html_zh": null,
+	"in_the_news_html_en": null,
+	"in_the_news_html_zh": null
+}
