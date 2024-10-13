@@ -1,0 +1,92 @@
+{
+	"stddate": "2024-10-11",
+	"community_time": [],
+	"days_after_this": -1,
+	"aod": "None",
+	"weekday_english": "Friday",
+	"weekdays_abbrev": [
+		"Fri",
+		"Sat",
+		"Sun",
+		"Mon"
+	],
+	"weekday_chinese": "周五",
+	"day_of_cycle": "E",
+	"today_breakfast": {
+		"Taste of Asia": [
+			"Seafood pancake\n海鲜饼",
+			"Fried glutinous rice ball with sesame/Stuffed Sticky Rice Ball\n麻球/手工粢饭团",
+			"Tea Egg\n茶叶蛋",
+			"Shrimp with green vegetables Congee\n青菜虾仁粥",
+			"Vegetable\n蔬菜"
+		],
+		"Eat Global": [
+			"Roasted Mushroom\n烤香菇",
+			"Baked eggs with cheese sausage on toast\n芝士香肠蔬菜吐司烘蛋",
+			"Oatmeal\n麦片粥",
+			"Baked Beans\n茄汁焗豆"
+		],
+		"Revolution Noodle": [
+			"Pork and Preserved Vegetable Noodles& Bean Curd\n雪菜肉丝面&素鸡"
+		],
+		"Piccola Italia": [
+			"Toast Selection\n混合吐司",
+			"Jam Selection\n果酱",
+			"Dried Soda Biscuit\n混合苏打饼干",
+			"Daily Cereal with Milk\n可可球，玉米片，葡萄干，蔓越莓干，牛奶"
+		],
+		"Self Pick-up": [
+			"Boiled Egg\n白煮蛋"
+		],
+		"Fruit/Drink": [
+			"Fruit/Yogurt/Yakult/Milk/Juice/Soybean Milk\n水果/酸奶/养乐多/牛奶/果汁/豆浆"
+		]
+	},
+	"today_lunch": {
+		"Taste of Asia": [
+			"Braised Pork Balls\n红烧马蹄狮子头",
+			"Fried Egg with Tomato\n西红柿炒蛋",
+			"Green Vegetables\n杭白菜",
+			"Green Beans\n青豆",
+			"Steamed Brown Rice\n米饭"
+		],
+		"Eat Global": [
+			"Mexican Carne Asada\n墨西哥烤牛肉",
+			"Red Cabbages\n红酸椰菜",
+			"Mexican baked beans\n墨西哥焗豆",
+			"Mexican rice\n墨西哥米饭"
+		],
+		"Revolution Noodle": [
+			"Laksa\n叻沙面/鹌鹑蛋"
+		],
+		"Piccola Italia": [
+			"Han Chesse Sandwich\n火腿芝士三明治",
+			"Chicken Nuggets\n鸡块"
+		],
+		"Vegetarian": [
+			"Vegetarian Huevos Rancheros\n墨西哥素玉米卷"
+		],
+		"Daily Soup": [
+			"Elote soup\n墨西哥玉米浓汤"
+		],
+		"Dessert/Fruit/Drink": [
+			"Mexican Churros /Fruit/Yogurt/Yakult/Milk/Juice\n墨西哥吉事果/水果/酸奶/养乐多/牛奶/果汁"
+		]
+	},
+	"today_dinner": null,
+	"next_breakfast": null,
+	"the_week_ahead_url": "https://ykpaoschool-my.sharepoint.com/:p:/g/personal/cora_chen_ykpaoschool_cn/ES8-D2AEochFhwvz7-fL5GEBqVI9dhtYoFi3PdKTKV04Jg",
+	"snack_morning": null,
+	"snack_afternoon": null,
+	"snack_evening": null,
+	"inspiration_type": null,
+	"inspiration_shared_by": null,
+	"inspiration_origin": null,
+	"inspiration_text": null,
+	"inspiration_image_data": null,
+	"inspiration_image_mime": null,
+	"on_this_day_html_en": null,
+	"on_this_day_html_zh": null,
+	"in_the_news_html_en": null,
+	"in_the_news_html_zh": null
+}
