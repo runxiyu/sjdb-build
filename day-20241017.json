@@ -1,0 +1,159 @@
+{
+	"stddate": "2024-10-17",
+	"community_time": [
+		[
+			"Follow-up day: 1. Reflect on the week's events; 2. Complete an activity addressing issues highlighted by Pulse or teacher observation.",
+			"Follow-up day: 1. Reflect on the week's events; 2. Complete an activity addressing issues highlighted by Pulse or teacher observation.",
+			"Follow-up day: 1. Reflect on the week's events; 2. Complete an activity addressing issues highlighted by Pulse or teacher observation.",
+			"Follow-up day: 1. Reflect on the week's events; 2. Complete an activity addressing issues highlighted by Pulse or teacher observation."
+		]
+	],
+	"days_after_this": 0,
+	"aod": "James Ogram",
+	"weekday_english": "Thursday",
+	"weekdays_abbrev": [
+		"Thu",
+		"Fri",
+		"Sat",
+		"Sun",
+		"Mon"
+	],
+	"weekday_chinese": "周四",
+	"day_of_cycle": "C",
+	"today_breakfast": {
+		"Taste of Asia": [
+			"Marinated Meat in Baked Bun\n陕西肉夹馍",
+			"Sticky Rice Cake\n松糕",
+			"Fried Egg\n小葱炒鸡蛋",
+			"Mushroom and Fish Congee\n香菇鱼片粥",
+			"Vegetable\n蔬菜"
+		],
+		"Eat Global": [
+			"Fried Eggs Over Easy\n双面煎嫩蛋",
+			"Purple Potato\n紫薯",
+			"Spain Sausage\n香煎西班牙香肠",
+			"Cereal and Coix Congee\n麦片薏仁粥",
+			"Pancake\n西式煎饼"
+		],
+		"Revolution Noodle": [
+			"Fried Rice with Shanghai Style\n上海酱油鸡丝蛋炒饭"
+		],
+		"Piccola Italia": [
+			"Toast Selection\n全麦吐司",
+			"Jam Selection\n果酱",
+			"Dried Soda Biscuit\n混合苏打饼干",
+			"Daily Cereal with Yougurt\n麦片，葡萄干，蔓越莓干，酸奶"
+		],
+		"Self Pick-up": [
+			"Boiled Egg\n白煮蛋"
+		],
+		"Fruit/Drink": [
+			"Fruit/Yogurt/Yakult/Milk/Juice/Soybean Milk\n水果/酸奶/养乐多/牛奶/果汁/豆浆"
+		]
+	},
+	"today_lunch": {
+		"Taste of Asia": [
+			"Roast Whole Chicken\n火焰山烤鸡",
+			"Pork with Spicy Tofu\n麻辣豆腐（猪肉）",
+			"Canola\n油麦菜",
+			"Roasted Tomato and Asparagus\n烤番茄芦笋",
+			"Steamed Rice\n米饭"
+		],
+		"Eat Global": [
+			"Fried Fish Fillet\nwith Cheese Tar-tar Sauce\n芝士煎鱼排配塔塔汁",
+			"Roasted Tomato and Asparagus\n烤番茄芦笋",
+			"Canola\n油麦菜",
+			"Cream Cheese potato chips\n奶油芝士土豆片"
+		],
+		"Revolution Noodle": [
+			"Noodles with Duck and Mushrooms\n特色鸭丝香菇红枣面/素鸡"
+		],
+		"Piccola Italia": [
+			"Cuttlefish Beef Burger & Fries\n黑悟空牛肉汉堡配金箍棒脆薯"
+		],
+		"Vegetarian": [
+			"Korean Rice Cake with Vegetables\n韩式年糕"
+		],
+		"Daily Soup": [
+			"Glutinous Rice Ball Soup with Bean Paste\n三味真火仙丹"
+		],
+		"Dessert/Fruit/Drink": [
+			"Osmanthus cake/Fruit/Yogurt/\nYakult/Milk/Juice\n玄奘福果（桂花糕）/水果/酸奶/养乐多/牛奶/果汁"
+		]
+	},
+	"today_dinner": {
+		"Taste of Asia": [
+			"Teriyaki Fish Balls\n照烧手工鱼丸",
+			"Shredded Pork with Tree Mushroom and Pepper\n茶树菇尖椒肉丝",
+			"Lettuce\n生菜",
+			"Grilled Peppers\n煎甜椒",
+			"Steamed Rice\n米饭"
+		],
+		"Eat Global": [
+			"Potato and Sausage Casserole\n爱尔兰土豆香肠砂锅",
+			"Grilled Peppers\n煎甜椒",
+			"Lettuce\n生菜",
+			"Baguette slices\n大蒜面包片"
+		],
+		"Revolution Noodle": [
+			"Pork Dumplings\n抄手/煎鸡蛋"
+		],
+		"Piccola Italia": [
+			"Baked Pasta with Chicken Sauce\n焗意面配鸡肉酱"
+		],
+		"Vegetarian": [
+			"Fried Rice Noodles wit Beans Sprouts, Egg\n豆芽鸡蛋炒河粉"
+		],
+		"Daily Soup": [
+			"Miso Soup\n味增汤"
+		],
+		"Dessert/Fruit/Drink": [
+			"Carrot Cake/Fruit/Yogurt/Yakult/\nMilk/Juice\n胡萝卜蛋糕 /水果/酸奶/牛奶/果汁"
+		]
+	},
+	"next_breakfast": {
+		"Taste of Asia": [
+			"Steamed Jiaozi\n蒸饺",
+			"Smashed Bun/Rice Roll (home-made)\n奶黄包/ 上海手工滋饭团",
+			"Boiled Egg\n白煮蛋",
+			"Red Bean Soup\n红豆沙汤",
+			"Vegetable\n蔬菜"
+		],
+		"Eat Global": [
+			"Roasted Tomatos\n烤番茄",
+			"Italian Bacon Frittata\n意式培根烘蛋",
+			"Potatoes\n土豆",
+			"Oatmeal\n麦片粥",
+			"Brioche\n法国黄油面包"
+		],
+		"Revolution Noodle": [
+			"Dumplings\n鸡汤小馄饨"
+		],
+		"Piccola Italia": [
+			"Toast Selection\n全麦吐司",
+			"Jam Selection\n果酱",
+			"Dried Soda Biscuit\n混合苏打饼干",
+			"Daily Cereal with Milk\n卜卜米，葡萄干，蔓越莓干，牛奶"
+		],
+		"Self Pick-up": [
+			"Boiled Egg\n白煮蛋"
+		],
+		"Fruit/Drink": [
+			"Fruit/Yogurt/Yakult/Milk/Juice/Soybean Milk\n水果/酸奶/养乐多/牛奶/果汁/豆浆"
+		]
+	},
+	"the_week_ahead_url": "https://ykpaoschool-my.sharepoint.com/:p:/g/personal/cora_chen_ykpaoschool_cn/ES8-D2AEochFhwvz7-fL5GEBqVI9dhtYoFi3PdKTKV04Jg",
+	"snack_morning": null,
+	"snack_afternoon": null,
+	"snack_evening": null,
+	"inspiration_type": null,
+	"inspiration_shared_by": null,
+	"inspiration_origin": null,
+	"inspiration_text": null,
+	"inspiration_image_data": null,
+	"inspiration_image_mime": null,
+	"on_this_day_html_en": null,
+	"on_this_day_html_zh": null,
+	"in_the_news_html_en": null,
+	"in_the_news_html_zh": null
+}
