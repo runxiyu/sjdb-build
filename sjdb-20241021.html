@@ -1,0 +1,644 @@
+
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta content="width=device-width, initial-scale=1" name="viewport" />
+<style>
+	/* @font-face { font-family: Inter; font-weight: 400; src: url("https://albertttan.github.io/daily-bulletin/files/Inter-Regular.ttf") format("truetype"); }
+	@font-face { font-family: Inter; font-weight: 700; src: url("https://albertttan.github.io/daily-bulletin/files/Inter-Bold.ttf") format("truetype"); }
+	@font-face { font-family: "Noto Sans SC"; font-weight: 400; src: url("https://albertttan.github.io/daily-bulletin/files/NotoSansSC-Regular.otf") format("opentype"); }
+	@font-face { font-family: "Noto Sans SC"; font-weight: 700; src: url("https://albertttan.github.io/daily-bulletin/files/NotoSansSC-Bold.otf") format("opentype"); } */
+	html { font-family: "Arial", "Noto Sans SC", sans-serif; }
+	body { max-width: 60rem; margin: auto; padding: 1rem; }
+	header { margin-top: 1rem; text-align: center; margin-bottom: 1.5rem; }
+	h2 { padding-top: 1.2rem; }
+	h3, h4, h5, h6 { padding-top: 0.8rem; }
+	span.location { text-decoration: underline; }
+	time { text-decoration: underline; }
+	a:link, a:visited, a:hover, a:active { color: #791a9c; }
+	table { width: 100%; border-collapse: collapse; border: 2px solid rgb(180, 180, 180); font-size: 90%; }
+	caption { margin: 1ex 1em; font-weight: bold; font-size: 105%; }
+	/* tr.today { background-color: rgb(210, 221, 247); } */
+	tr.today { background-color: #e7d2ec; }
+	tr.not-today { color: rgb(150, 150, 150); }
+	td, th { border: 1px solid rgb(150, 150, 150); padding: 0.4rem; }
+	table#community_time td { text-align: center;}
+	td { min-width: 4.8rem; vertical-align: top; }
+	table#menu { min-width: 55em; } /* I think the mail clients will just resize the table */
+	table#menu ul { padding-left: 1.2em; }
+	th { color: black; background-color: rgb(240, 240, 240); }
+	th, .wtitle { font-weight: bold; }
+	blockquote { position: relative; margin-left: 40px; }
+	blockquote::before { content: ""; position: absolute; left: -14px; top: 0px; bottom: 0px; width: 2px; background-color: rgb(180, 180, 180); }
+	pre { background-color: rgb(240, 240, 240); padding: 10px; }
+	code, kbd, var { font-family: monospace; font-size: smaller; background-color: rgb(240, 240, 240); }
+	cite { font-size: 90%; font-style: italic; color: rgb(150, 150, 150); }
+	p.ps { font-size: 90%; color: rgb(150, 150, 150); }
+	.ps { color: rgb(150, 150, 150); }
+	.serif, math { font-family: serif; }
+	img { max-width: 100%; max-height: 60rem; }
+	img.embed { width: 40%; float: right; margin-left: 10px; margin-bottom: 10px; }
+	hr { border: 1px solid rgb(150, 150, 150); }
+	footer { padding-top: 1rem; text-align: center; }
+	.wtitle + ul { margin-top: 0rem; }
+	.examtable td { text-align: center; }
+</style>
+</head>
+<body dir="auto">
+<title>Daily Bulletin 2024-10-21</title>
+<header>
+	<h1>Daily Bulletin 每日公告</h1>
+	<p><time datetime="2024-10-21">2024-10-21</time>, Monday, Day E</p>
+	<p style="font-weight: bold; color: #AA0000;">
+	Internal beta testing edition
+	</p>
+</header>
+<article>
+	<p>
+	Happy Monday! Thank you for supporting the Daily Bulletin. Please note that this is supplementary to <a href="https://ykpaoschool-my.sharepoint.com/:p:/g/personal/cora_chen_ykpaoschool_cn/ES8-D2AEochFhwvz7-fL5GEBqVI9dhtYoFi3PdKTKV04Jg">The Week Ahead</a> and is not an official source of information, and the Daily Bulletin staff accept no liability for the accuracy or validity. Please fill in the respective forms to <a href="https://ykps.runxiyu.org/sjdb/submit">share inspirations</a> or <a href="https://ykps.runxiyu.org/sjdb/unsub">unsubscribe</a>.
+	<br />
+	周一快乐！感谢您支持每日公告。请注意，每日公告只是<a href="https://ykpaoschool-my.sharepoint.com/:p:/g/personal/cora_chen_ykpaoschool_cn/ES8-D2AEochFhwvz7-fL5GEBqVI9dhtYoFi3PdKTKV04Jg">每周展望</a>的补充，并不代表官方信息。我们不对信息的准确性和有效性承担责任。请填写相应表格以<a href="https://ykps.runxiyu.org/sjdb/submit">分享灵感</a>或<a href="https://ykps.runxiyu.org/sjdb/unsub">退订</a>。
+	</p>
+
+	<h2>Daily Bulletin Project Info 每日公告项目信息</h2>
+	<p>
+	The Daily Bulletin project has returned. Last year, it was maintained by <a href="https://albertttan.github.io">Albert Tan</a>, who departed the school. The bulletin is now maintained by <a href="https://runxiyu.org">Runxi Yu</a> with the <a href="https://git.runxiyu.org/ykps/sjdb-src.git/about">automated build system</a> (<a href="https://github.com/runxiyu/sjdb-src">GitHub</a>).
+	</p>
+	<p>
+	Note: This version of the Daily Bulletin is still in beta. Importantly, this version <em>has not been approved officially</em> by the school administration, and is unfit for wider distribution. Only a number of people who the maintainer is sufficiently familiar with are receiving the bulletins currently.
+	</p>
+
+	
+	<h2>Community Time 午休时间</h2>
+	<table id="community_time">
+		
+		<colgroup><col style="width: 5%"><col style="width: 23.75%"><col style="width: 23.75%"><col style="width: 23.75%"><col style="width: 23.75%"></colgroup>
+		<thead>
+			<tr>
+				<th scope="col">Day</th>
+				<th scope="col">Y9</th>
+				<th scope="col">Y10</th>
+				<th scope="col">Y11</th>
+				<th scope="col">Y12</th>
+			</tr>
+		</thead>
+		<tbody>
+			<tr class="today">
+				<th scope="row">Mon</th>
+				
+					<td colspan="4">M1 Assessments-No Assembly</td>
+				
+			</tr>
+			
+				<tr class="not-today">
+					<th scope="row">Tue</th>
+					
+						<td colspan="4">Tutor Time</td>
+					
+				</tr>
+			
+				<tr class="not-today">
+					<th scope="row">Wed</th>
+					
+						<td colspan="1">Open Session for the Tutor to plan an activity based on Pulse Data or teacher observation.</td>
+						<td colspan="1">Health Talk 1 (Auditorium)</td>
+						<td colspan="1">Open Session for the Tutor to plan an activity based on Pulse Data or teacher observation.</td>
+						<td colspan="1">Dean&#39;s Forum (Auditorium)</td>
+					
+				</tr>
+			
+				<tr class="not-today">
+					<th scope="row">Thu</th>
+					
+						<td colspan="2">Character Rewards Nominations Meeting （HOH+Tutors）</td>
+						<td colspan="1">Y11 Students Only  Intro to EE Assembly with DHE                                        (12:05 Auditorium)</td>
+						<td colspan="1">Character Rewards Nominations Meeting（HOH+Tutors）</td>
+					
+				</tr>
+			
+		</tbody>
+	</table>
+
+	<h2>Exam Schedule</h2>
+	<p>
+	<strong>IMPORTANT:</strong> Please note that this exam schedule is based on the <strong>provisional</strong> information I received and may not reflect reality. Please <a href="mailto:s22537@stu.ykpaoschool.cn?subject=Exam+Schedule+Error">report</a> any errors that you find.
+	</p>
+	<table class="examtable">
+		<colgroup>
+			<col style="width: 5%">
+			<col style="width: 9.5%">
+			<col style="width: 9.5%">
+			<col style="width: 9.5%">
+			<col style="width: 9.5%">
+			<col style="width: 9.5%">
+			<col style="width: 9.5%">
+			<col style="width: 19%">
+			<col style="width: 19%">
+		</colgroup>
+		<thead>
+			<tr>
+				<th scope="col"></th>
+				<th colspan=2 scope="col">Y9</th>
+				<th colspan=2 scope="col">Y10</th>
+				<th colspan=2 scope="col">Y11</th>
+				<th colspan=2 scope="col">Y12</th>
+			</tr>
+		</thead>
+		<tbody>
+			<tr class="today">
+				<th scope="row">
+					Mon
+					<br />
+					AM
+				</th>
+				<td colspan=2>
+					Math (1h)
+					<br />
+					S201&ndash;S304
+				</td>
+				<td colspan=2>
+				</td>
+				<td colspan=2>
+					English A (1h 15m)
+					<br />
+					Gym
+				</td>
+				<td colspan=1>
+					English A (1h 45m)
+					<br />
+					Gym
+				</td>
+				<td colspan=1>
+					English B (1h 30m)
+					<br />
+					S206
+				</td>
+			</tr>
+			<tr class="today">
+				<th scope="row">
+					Mon
+					<br />
+					MD
+				</th>
+				<td colspan=2>
+					Physics (1h)
+					<br />
+					Gym
+				</td>
+				<td colspan=2>
+				</td>
+				<td colspan=2>
+					CNC Politics (30m)
+					<br />
+					TOK Classrooms
+				</td>
+				<td colspan=2>
+				</td>
+			</tr>
+			<tr class="today">
+				<th scope="row">
+					Mon
+					<br />
+					PM
+				</th>
+				<td colspan=2>
+					ZK Sciences (1h)
+					<br />
+					S201&ndash;S304
+				</td>
+				<td colspan=2>
+					Chinese (1h)
+					<br />
+					Gym
+				</td>
+				<td colspan=2>
+					Physics (1h)
+					<br />
+					S206 <strong>(P6)</strong>
+				</td>
+				<td colspan=1>
+					Chinese A (1h 45m)
+					<br />
+					Gym
+				</td>
+				<td colspan=1>
+					Chinese B (HL 1h 30m, SL 1h 15m)
+					<br />
+					S201
+				</td>
+			</tr>
+			<tr class="not-today">
+				<th scope="row">
+					Tue
+					<br />
+					AM
+				</th>
+				<td colspan=2>
+					Chinese (1h)
+					<br />
+					S201&ndash;S304
+				</td>
+				<td colspan=2>
+					Math (1h)
+					<br />
+					Gym/S206
+				</td>
+				<td colspan=2>
+					Math (1h)
+					<br />
+					Gym
+				</td>
+				<td colspan=2>
+					Physics (HL 1h 30m, SL 1h)
+					<br />
+					Gym <strong>(P2)</strong>
+				</td>
+			</tr>
+			<tr class="not-today">
+				<th scope="row">
+					Tue
+					<br />
+					MD
+				</th>
+				<td colspan=2>
+				</td>
+				<td colspan=2>
+					Physics (1h)
+					<br />
+					Gym
+				</td>
+				<td colspan=2>
+				</td>
+				<td colspan=2>
+				</td>
+			</tr>
+			<tr class="not-today">
+				<th scope="row">
+					Tue
+					<br />
+					PM
+				</th>
+				<td colspan=2>
+					Moral Education (40m)
+					<br />
+					S201&ndash;S304
+				</td>
+				<td colspan=2>
+					C4C (1h 35m)
+					<br />
+					N201&ndash;N304
+				</td>
+				<td colspan=2>
+					Chinese (1h 15m)
+					<br />
+					Gym/S206
+				</td>
+				<td colspan=2>
+					Math (1h 30m)
+					<br />
+					Gym
+				</td>
+			</tr>
+			<tr class="not-today">
+				<th scope="row">
+					Wed
+					<br />
+					AM
+				</th>
+				<td colspan=2>
+				</td>
+				<td colspan=2>
+				</td>
+				<td colspan=2>
+				</td>
+				<td colspan=2>
+					Chemistry (HL 1h 15min, SL 50min)
+					<br />
+					S206
+				</td>
+			</tr>
+		</tbody>
+	</table>
+
+	<h2>Delicious Dinings 今日佳肴</h2>
+	<table id="menu">
+		<colgroup>
+			<col style="width: 5%">
+			<col style="width: 31.667%;">
+			<col style="width: 31.667%;">
+			<col style="width: 31.667%; border-left: 2px solid rgb(180, 180, 180);">
+		</colgroup>
+		
+		<tbody>
+			<tr class="today">
+				<th scope="row">Mon<br/>Brkfst</th>
+				<td>
+					
+					<span class="wtitle">Piccola Italia</span>
+					<ul>
+						
+						<li>Toast Selection
+吐司</li>
+						
+						<li>Jam Selection
+果酱</li>
+						
+						<li>Daily Cereal with Milk
+可可求，葡萄干，蔓越莓干，芝麻饼干</li>
+						
+						<li>Boiled Egg
+白煮蛋</li>
+						
+					</ul>
+					
+					
+					<span class="wtitle">Eat Global</span>
+					<ul>
+						
+						<li>Egg, tomato, beef and cheese pancake
+鸡蛋番茄肉酱芝士饼</li>
+						
+						<li>Oatmeal
+麦片粥</li>
+						
+						<li>Roast Sweet Potato
+烤红薯</li>
+						
+					</ul>
+					
+				</td>
+				<td>
+					
+					
+					<span class="wtitle">Taste of Asia</span>
+					<ul>
+						
+						<li>Shaomai                                                                                                                                       三鲜烧麦</li>
+						
+						<li>Beef Patties
+牛肉葱油煎饼</li>
+						
+						<li>Boiled Egg
+酱蛋</li>
+						
+						<li>Pumpkin Congee
+南瓜小米粥</li>
+						
+						<li>Vegetable
+蔬菜</li>
+						
+					</ul>
+					
+				</td>
+				<td>
+					
+					<span class="wtitle">Self Pick-up</span>
+					<ul>
+						
+						<li>Fruit/Yogurt/Yakult/Milk/Juice/Soybean Milk
+水果/酸奶/养乐多/牛奶/果汁/豆浆</li>
+						
+					</ul>
+					
+					
+				</td>
+			</tr>
+			<tr class="today">
+				<th scope="row">Mon<br/>Lunch</th>
+				<td>
+					
+					<span class="wtitle">Piccola Italia</span>
+					<ul>
+						
+						<li>Penne with Basil, and  Sausages
+两头尖配香肠罗勒汁</li>
+						
+					</ul>
+					
+					
+					<span class="wtitle">Eat Global</span>
+					<ul>
+						
+						<li>Roasted Chicken
+with Butter and Garlic
+蒜香烤鸡腿</li>
+						
+						<li>Sour&amp;Spicy Potatos
+酸辣土豆丝</li>
+						
+						<li>Spinach
+菠菜</li>
+						
+						<li>Baked Potatoes
+烤土豆</li>
+						
+						<li>Steamed Rice
+米饭</li>
+						
+					</ul>
+					
+				</td>
+				<td>
+					
+					<span class="wtitle">Revolution Noodle</span>
+					<ul>
+						
+						<li>Seafood Noodles
+海鲜汤面/卤干/青菜</li>
+						
+					</ul>
+					
+					
+					<span class="wtitle">Taste of Asia</span>
+					<ul>
+						
+						<li>Braised Pork with Soy Sauce
+外婆红烧肉</li>
+						
+						<li>Fried Sliced Chicken
+with Yam and Fungus
+山药木耳炒鸡片</li>
+						
+						<li>Spinach
+菠菜</li>
+						
+						<li>Sour&amp;Spicy Potatos
+酸辣土豆丝</li>
+						
+						<li>Steamed Rice
+米饭</li>
+						
+					</ul>
+					
+				</td>
+				<td>
+					
+					<span class="wtitle">Vegetarian</span>
+					<ul>
+						
+						<li>Fried Rice Noodle                                                                                                                         豆芽鸡蛋炒河粉</li>
+						
+					</ul>
+					
+					
+					<span class="wtitle">Daily Soup</span>
+					<ul>
+						
+						<li>Hot and Sour Soup                                                                                                                                酸辣汤</li>
+						
+					</ul>
+					
+					
+					<span class="wtitle">Dessert/Fruit/Drink</span>
+					<ul>
+						
+						<li>Marbel Cake/Fruit/Yogurt/
+Yakult/Milk/Juice
+大理石蛋糕/水果/酸奶/养乐多/牛奶/果汁</li>
+						
+					</ul>
+					
+				</td>
+			</tr>
+			
+			<tr class="today">
+				<th scope="row">Mon<br/>Dinner</th>
+				<td>
+					
+					<span class="wtitle">Piccola Italia</span>
+					<ul>
+						
+						<li>Mexican Beef Quesadillas
+墨西哥牛肉饼</li>
+						
+					</ul>
+					
+					
+					<span class="wtitle">Eat Global</span>
+					<ul>
+						
+						<li>French Cassoulet
+法式豆焖鸭</li>
+						
+						<li>Mini Beetroots
+烤迷你菜头</li>
+						
+						<li>White Gourd with Edamame
+丝瓜毛豆</li>
+						
+						<li>Sliced Bread
+面包片</li>
+						
+					</ul>
+					
+				</td>
+				<td>
+					
+					<span class="wtitle">Revolution Noodle</span>
+					<ul>
+						
+						<li>Hot Oiled Chili Noodles with Pork
+猪肉油泼面/鹌鹑蛋</li>
+						
+					</ul>
+					
+					
+					<span class="wtitle">Taste of Asia</span>
+					<ul>
+						
+						<li>Stewed Fish Slices
+with Tomato Sauce
+茄汁烩鱼片</li>
+						
+						<li>Fried Minced Chicken with Kale and Long Bean
+鸡糜橄榄缸豆</li>
+						
+						<li>White Gourd with Edamame
+丝瓜毛豆</li>
+						
+						<li>Mini Beetroots
+烤迷你菜头</li>
+						
+						<li>Corn Rice
+玉米饭</li>
+						
+					</ul>
+					
+				</td>
+				<td>
+					
+					<span class="wtitle">Vegetarian</span>
+					<ul>
+						
+						<li>Stir-Fried Spicy Tofu with Rice
+素麻辣豆腐配米饭</li>
+						
+					</ul>
+					
+					
+					<span class="wtitle">Daily Soup</span>
+					<ul>
+						
+						<li>Tofu with  Egg Soup
+鸡蛋豆腐汤</li>
+						
+					</ul>
+					
+					
+					<span class="wtitle">Dessert/Fruit/Drink</span>
+					<ul>
+						
+						<li>Carrot Cake/Fruit/Yogurt/Yakult/
+Milk/Juice
+胡萝卜蛋糕 /水果/酸奶/牛奶/果汁</li>
+						
+					</ul>
+					
+				</td>
+			</tr>
+			
+		</tbody>
+	</table>
+	
+	<p class="ps">I am aware that the menu currently looks a bit ugly; I am not experienced in webpage layout at all. HTML/CSS experts wanted!</p>
+
+	<h2>Daily Inspiration 每日灵感</h2>
+	
+	<p>
+	Unfortunately, there is no inspiration today.
+	Please feel free to <a href="https://ykps.runxiyu.org/sjdb/submit">submit one</a>.
+	</p>
+	
+
+	
+	
+	
+
+	
+	
+	
+
+	<h2>Regular Notices 常规通知</h2>
+	<ul>
+		<li>
+			<a href="https://forms.office.com/pages/responsepage.aspx?id=bNLT3ZexAE2jLR_9hMDClUPg4MiMFbZFh1B1P68pV6lUMUJHUjk2NEI1MU1ROTRFNjRQQ1NVSE5RSi4u">Student Council Suggestion Box</a>
+		</li>
+		<li>
+			Emergency phone: <a href="tel:+8618221990830">182 2199 0830</a>
+		</li>
+		<li>
+			AOD: Alex Aristizabal
+		</li>
+	</ul>
+	<p class="ps" style="font-weight: bold;">Disclaimer: Please check The Week Ahead for official information.</p>
+</article>
+<footer>
+	<p>
+	<a href="https://ykps.runxiyu.org/sjdb/">Home Page</a>
+	
+	·
+	<a href="mailto:s22537@stu.ykpaoschool.cn">Contact</a>
+	</p>
+</footer>
+</body>
+</html>
