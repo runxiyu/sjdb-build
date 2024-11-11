@@ -1,0 +1,91 @@
+{
+	"stddate": "2024-11-08",
+	"community_time": [],
+	"days_after_this": -1,
+	"aod": "None",
+	"weekday_english": "Friday",
+	"weekdays_abbrev": [
+		"Fri",
+		"Sat",
+		"Sun",
+		"Mon"
+	],
+	"weekday_chinese": "周五",
+	"day_of_cycle": "F",
+	"today_breakfast": {
+		"Taste of Asia": [
+			"Shaomai                                               \n 烧麦",
+			"Custrd Bun/Stuffed Sticky Rice Ball\n流沙包/手工粢饭团",
+			"Tea Egg\n茶叶蛋",
+			"Green Vegetables Congee\nwith Shrimp\n青菜虾仁粥",
+			"Vegetables\n蔬菜"
+		],
+		"Eat Global": [
+			"Roasted Mushroom\n烤香菇",
+			"Baked Egg with Cheese Sausage and Potato\n芝士香肠蔬菜土豆烘蛋",
+			"Oatmeal\n麦片粥",
+			"Baked Beans\n茄汁焗豆"
+		],
+		"Revolution Noodle": [
+			"Pork with Rice Noodles and Egg\n鸡蛋猪肉丝炒河粉"
+		],
+		"Piccola Italia": [
+			"Toast Selection\n混合吐司",
+			"Jam Selection\n果酱",
+			"Dried Soda Biscuit\n混合苏打饼干",
+			"Daily Cereal with Milk\n可可球，玉米片，葡萄干，蔓越莓干，牛奶",
+			"Boiled Egg\n白煮蛋"
+		],
+		"Self Pick-up": [
+			"Fruit/Yogurt/Yakult/Milk/Juice/Soybean Milk\n水果/酸奶/养乐多/牛奶/果汁/豆浆"
+		],
+		"Fruit/Drink": []
+	},
+	"today_lunch": {
+		"Taste of Asia": [
+			"Roasted Whole Chicken\n火焰山烤鸡",
+			"Fried Egg with Tomato\n西红柿炒蛋",
+			"Green Vegetables\n杭白菜",
+			"Green Beans\n豇豆豆",
+			"Steamed Brown Rice\n米饭"
+		],
+		"Eat Global": [
+			"Panang Pork\n秘制泰式咖喱猪肉",
+			"Green Vegetables\n杭白菜",
+			"Green Beans\n豇豆",
+			"Thai Rice\n泰国香米"
+		],
+		"Revolution Noodle": [
+			"Laksa\n叻沙面/鹌鹑蛋"
+		],
+		"Piccola Italia": [
+			"Hot dog\n热狗",
+			"Baked Potato Wedges\n烤土豆角"
+		],
+		"Vegetarian": [
+			"Vegetarian Huevos Rancheros\n墨西哥红豆泥卷"
+		],
+		"Daily Soup": [
+			"Glutinous Rice Ball Soup with Bean Paste\n豆沙小丸子"
+		],
+		"Dessert/Fruit/Drink": [
+			"Cheese Cake /Fruit/Yogurt/\nYakult/Milk/Juice\n芝士蛋糕/人生果/酸奶/养乐多/牛奶/果汁"
+		]
+	},
+	"today_dinner": null,
+	"next_breakfast": null,
+	"the_week_ahead_url": "https://ykpaoschool-my.sharepoint.com/:p:/g/personal/cora_chen_ykpaoschool_cn/ES8-D2AEochFhwvz7-fL5GEBqVI9dhtYoFi3PdKTKV04Jg",
+	"snack_morning": null,
+	"snack_afternoon": null,
+	"snack_evening": null,
+	"inspiration_type": null,
+	"inspiration_shared_by": null,
+	"inspiration_origin": null,
+	"inspiration_text": null,
+	"inspiration_image_data": null,
+	"inspiration_image_mime": null,
+	"on_this_day_html_en": null,
+	"on_this_day_html_zh": null,
+	"in_the_news_html_en": null,
+	"in_the_news_html_zh": null
+}

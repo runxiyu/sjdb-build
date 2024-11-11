@@ -1,0 +1,157 @@
+{
+	"stddate": "2024-11-07",
+	"community_time": [
+		[
+			"Follow-up day: 1. Reflect on the week's events; 2. Complete an activity addressing issues highlighted by Pulse or teacher observation.",
+			"Follow-up day: 1. Reflect on the week's events; 2. Complete an activity addressing issues highlighted by Pulse or teacher observation.",
+			"Follow-up day: 1. Reflect on the week's events; 2. Complete an activity addressing issues highlighted by Pulse or teacher observation.",
+			"Follow-up day: 1. Reflect on the week's events; 2. Complete an activity addressing issues highlighted by Pulse or teacher observation."
+		]
+	],
+	"days_after_this": 0,
+	"aod": "James Ogram/Iain Kilpatrick",
+	"weekday_english": "Thursday",
+	"weekdays_abbrev": [
+		"Thu",
+		"Fri",
+		"Sat",
+		"Sun",
+		"Mon"
+	],
+	"weekday_chinese": "周四",
+	"day_of_cycle": "E",
+	"today_breakfast": {
+		"Taste of Asia": [
+			"Pan-fried Beef Bun\n牛肉煎饼",
+			"Sticky Rice Cake\n松糕",
+			"Stir-fried Egg\n小葱炒鸡蛋",
+			"Pumpkin with Tremella Congee\n南瓜银耳红枣粥",
+			"Vegetables\n蔬菜"
+		],
+		"Eat Global": [
+			"Mixed Beans\n烩混合豆",
+			"Shakshuka\n北非蛋",
+			"Prague style ham\n布拉格风味火腿",
+			"Cereal and Coix Congee\n麦片薏仁粥",
+			"Baguette\n法棍面包"
+		],
+		"Revolution Noodle": [
+			"Cabbage and Pork Dumplings\n手工白菜猪肉饺子"
+		],
+		"Piccola Italia": [
+			"Toast Selection\n混合吐司",
+			"Jam Selection\n果酱",
+			"Dried Soda Biscuit\n混合苏打饼干",
+			"Daily Cereal with Yougurt\n玉米片，可可球，葡萄干，蔓越莓干，酸奶",
+			"Boiled Egg\n白煮蛋"
+		],
+		"Self Pick-up": [
+			"Fruit/Yogurt/Yakult/Milk/Juice/Soybean Milk\n水果/酸奶/养乐多/牛奶/果汁/豆浆"
+		],
+		"Fruit/Drink": []
+	},
+	"today_lunch": {
+		"Taste of Asia": [
+			"Hot Braised Shrimp\n元宝虾",
+			"Spicy Tofu（Pork)\n麻辣豆腐（猪肉沫）",
+			"Green Vegetables\n菜心",
+			"Grilled Zucchini\n烤西葫芦",
+			"Steamed Rice\n米饭"
+		],
+		"Eat Global": [
+			"Roast pork Leg with Homemade Harissa\n烤猪蹄髈配哈里萨辣酱",
+			"Green Vegetables\n菜心",
+			"Grilled Zucchini\n烤西葫芦",
+			"Backed Potatoes with Butter\n黄油烤土豆"
+		],
+		"Revolution Noodle": [
+			"Noodles with Braised Chicken Drumstick\n红烧鸡腿面/虎皮蛋"
+		],
+		"Piccola Italia": [
+			"Pasta with Bacon in Cream Mushroom Sauce\n奶油蘑菇培根意面",
+			"Grilled Zucchini\n烤西葫芦"
+		],
+		"Vegetarian": [
+			"Pan-fried Shredded Potato Cake\n土豆丝饼"
+		],
+		"Daily Soup": [
+			"Tomato and Red Pepper Soup\n番茄红椒汤"
+		],
+		"Dessert/Fruit/Drink": [
+			"Egg Tart/Fruit/Yogurt/\nYakult/Milk/Juice 蛋挞/水果/酸奶/养乐多/牛奶/果汁"
+		]
+	},
+	"today_dinner": {
+		"Taste of Asia": [
+			"Xiangxi Braised Duck\n湘西土匪鸭",
+			"Stewed Tofu with Ham, Fungus, Water Bamboo Shoot\n三鲜火腿家常豆腐",
+			"Lettuce\n生菜",
+			"Cabbages\n卷心菜",
+			"Peas Rice\n青豆饭"
+		],
+		"Eat Global": [
+			"Pork Stew\n慢炖猪肉",
+			"Cabbage\n卷心菜",
+			"Green Vegetables\n蓬蒿菜",
+			"Mashed Potato\n土豆泥"
+		],
+		"Revolution Noodle": [
+			"Noodles with Braised Beef\n红烧牛肉面/兰花干"
+		],
+		"Piccola Italia": [
+			"Fish Taco\nServed with Shredded Cabbages and Carrots\n墨西哥鱼卷&卷心菜胡萝卜丝"
+		],
+		"Vegetarian": [
+			"Fried Mixed  Mushrooms with Couscous\n香炒混合蘑菇配中东小米"
+		],
+		"Daily Soup": [
+			"Beef Soup with Vermicelli\n牛肉粉丝汤"
+		],
+		"Dessert/Fruit/Drink": [
+			"Cake/Fruit/Yogurt/\nYakult/Milk/Juice\n蛋糕/水果/酸奶/养乐多/牛奶/果汁"
+		]
+	},
+	"next_breakfast": {
+		"Taste of Asia": [
+			"Shaomai                                               \n 烧麦",
+			"Custrd Bun/Stuffed Sticky Rice Ball\n流沙包/手工粢饭团",
+			"Tea Egg\n茶叶蛋",
+			"Green Vegetables Congee\nwith Shrimp\n青菜虾仁粥",
+			"Vegetables\n蔬菜"
+		],
+		"Eat Global": [
+			"Roasted Mushroom\n烤香菇",
+			"Baked Egg with Cheese Sausage and Potato\n芝士香肠蔬菜土豆烘蛋",
+			"Oatmeal\n麦片粥",
+			"Baked Beans\n茄汁焗豆"
+		],
+		"Revolution Noodle": [
+			"Pork with Rice Noodles and Egg\n鸡蛋猪肉丝炒河粉"
+		],
+		"Piccola Italia": [
+			"Toast Selection\n混合吐司",
+			"Jam Selection\n果酱",
+			"Dried Soda Biscuit\n混合苏打饼干",
+			"Daily Cereal with Milk\n可可球，玉米片，葡萄干，蔓越莓干，牛奶",
+			"Boiled Egg\n白煮蛋"
+		],
+		"Self Pick-up": [
+			"Fruit/Yogurt/Yakult/Milk/Juice/Soybean Milk\n水果/酸奶/养乐多/牛奶/果汁/豆浆"
+		],
+		"Fruit/Drink": []
+	},
+	"the_week_ahead_url": "https://ykpaoschool-my.sharepoint.com/:p:/g/personal/cora_chen_ykpaoschool_cn/ES8-D2AEochFhwvz7-fL5GEBqVI9dhtYoFi3PdKTKV04Jg",
+	"snack_morning": null,
+	"snack_afternoon": null,
+	"snack_evening": null,
+	"inspiration_type": null,
+	"inspiration_shared_by": null,
+	"inspiration_origin": null,
+	"inspiration_text": null,
+	"inspiration_image_data": null,
+	"inspiration_image_mime": null,
+	"on_this_day_html_en": null,
+	"on_this_day_html_zh": null,
+	"in_the_news_html_en": null,
+	"in_the_news_html_zh": null
+}
