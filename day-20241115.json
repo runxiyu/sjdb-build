@@ -1,0 +1,92 @@
+{
+	"stddate": "2024-11-15",
+	"community_time": [],
+	"days_after_this": -1,
+	"aod": "None",
+	"weekday_english": "Friday",
+	"weekdays_abbrev": [
+		"Fri",
+		"Sat",
+		"Sun",
+		"Mon"
+	],
+	"weekday_chinese": "周五",
+	"day_of_cycle": "E",
+	"today_breakfast": {
+		"Taste of Asia": [
+			"Steamed Jiaozi\n蒸饺",
+			"Smashed Bean Bun/Rice Roll (home-made)\n豆沙包/ 上海手工滋饭团",
+			"Boiled Egg\n白煮蛋",
+			"Red Bean Soup\n红豆沙汤",
+			"Vegetable\n蔬菜"
+		],
+		"Eat Global": [
+			"Roasted Tomatos\n烤番茄",
+			"Italian Bacon Spinach Frittata\n培根菠菜烘蛋",
+			"Potatoes\n土豆",
+			"Oatmeal\n麦片粥",
+			"Brioche\n法国黄油面包"
+		],
+		"Revolution Noodle": [
+			"Dumplings\n鸡汤小馄饨"
+		],
+		"Piccola Italia": [
+			"Toast Selection\n全麦吐司",
+			"Jam Selection\n果酱",
+			"Dried Soda Biscuit\n混合苏打饼干",
+			"Daily Cereal with Milk\n卜卜米，葡萄干，蔓越莓干，牛奶"
+		],
+		"Self Pick-up": [
+			"Fruit/Yogurt/Yakult/Milk/Juice/Soybean Milk\n水果/酸奶/养乐多/牛奶/果汁/豆浆"
+		],
+		"Fruit/Drink": []
+	},
+	"today_lunch": {
+		"Taste of Asia": [
+			"Braised Pork with Fried Bean Curd\n油豆腐烧肉",
+			"Scrambled Egg with Tomato\n番茄炒蛋",
+			"Green Vegetable\n杭白菜",
+			"Red Radish\n红菜头",
+			"Steamed Rice\n米饭"
+		],
+		"Eat Global": [
+			"Roast Brisket with Black Pepper Sauce\n烤牛脸肉配黑胡椒汁",
+			"Green Vegetable\n杭白菜",
+			"Red Radish\n红菜头",
+			"Mashed Potato\n土豆泥"
+		],
+		"Revolution Noodle": [
+			"Mixed Noodles with Braised Chicken Leg and Scallion Oil\n红烧鸡腿配葱油拌面/卤干"
+		],
+		"Piccola Italia": [
+			"Pasta with Pesto Sause & Chicken\n鸡肉罗勒酱意面"
+		],
+		"Vegetarian": [
+			"Paprika Braised with Basil Mushrooms\n意式甜椒烩配罗勒烤菌菇"
+		],
+		"Daily Soup": [
+			"Nori and Egg Soup\n紫菜蛋汤"
+		],
+		"Dessert/Fruit/Drink": [
+			"Cake/Fruit/Yogurt/\nYakult/Milk/Juice\n蛋糕/水果/酸奶/养乐多/\n牛奶/果汁"
+		]
+	},
+	"today_dinner": null,
+	"next_breakfast": null,
+	"the_week_ahead_url": "https://ykpaoschool-my.sharepoint.com/:p:/g/personal/cora_chen_ykpaoschool_cn/ES8-D2AEochFhwvz7-fL5GEBqVI9dhtYoFi3PdKTKV04Jg",
+	"today_snack": {
+		"Morning": "Bean Paste Bun\n豆沙包",
+		"Afternoon": " Ham and Cheese Sandwich\n鸡蛋芝士三明治",
+		"Evening": null
+	},
+	"inspiration_type": null,
+	"inspiration_shared_by": null,
+	"inspiration_origin": null,
+	"inspiration_text": null,
+	"inspiration_image_data": null,
+	"inspiration_image_mime": null,
+	"on_this_day_html_en": null,
+	"on_this_day_html_zh": null,
+	"in_the_news_html_en": null,
+	"in_the_news_html_zh": null
+}
