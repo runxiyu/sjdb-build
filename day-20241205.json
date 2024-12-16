@@ -1,0 +1,110 @@
+{
+	"stddate": "2024-12-05",
+	"community_time": [],
+	"days_after_this": -1,
+	"aod": "N.A.",
+	"weekday_english": "Thursday",
+	"weekdays_abbrev": [
+		"Thu",
+		"Fri",
+		"Sat",
+		"Sun",
+		"Mon"
+	],
+	"weekday_chinese": "周四",
+	"day_of_cycle": "E",
+	"today_breakfast": {
+		"Taste of Asia": [
+			"Pork Pastry\n猪肉饼",
+			"Fried Glutinous Rice Ball with Sesame/Stuffed Sticky Rice Ball\n麻球/手工粢饭团",
+			"Stir-fried Egg\n小葱炒鸡蛋",
+			"Millet Congee\nwith Sweet Potatoes\n红薯小米粥",
+			"Vegetables\n蔬菜"
+		],
+		"Eat Global": [
+			"Mixed Beans\n烩混合豆",
+			"Shakshuka\n北非蛋",
+			"Prague style ham\n布拉格风味火腿",
+			"Cereal and Coix Congee\n麦片薏仁粥",
+			"Baguette\n法棍面包"
+		],
+		"Revolution Noodle": [
+			"Fried Rice with Beef\n上海酱油牛肉丝咸菜炒饭"
+		],
+		"Piccola Italia": [
+			"Toast Selection\n混合吐司",
+			"Jam Selection\n果酱",
+			"Dried Soda Biscuit\n混合苏打饼干",
+			"Daily Cereal with Yougurt\n玉米片，可可球，葡萄干，蔓越莓干，酸奶",
+			"Boiled Egg\n白煮蛋"
+		],
+		"Self Pick-up": [
+			"Fruit/Yogurt/Yakult/Milk/Juice/Soybean Milk\n水果/酸奶/养乐多/牛奶/果汁/豆浆"
+		],
+		"Fruit/Drink": []
+	},
+	"today_lunch": {
+		"Taste of Asia": [
+			"Braised Pork Rice\nServed with Soy Sauce Marinated Egg\n卤肉饭配酱蛋",
+			"Fried Egg with Tomato\n西红柿炒蛋",
+			"Green Vegetables\n杭白菜",
+			"Green Beans\n青豆",
+			"Steamed Brown Rice\n米饭"
+		],
+		"Eat Global": [
+			"Mexican Carne Asada\n墨西哥烤牛西冷肉",
+			"Red Cabbage\n红酸椰菜",
+			"Mexican baked beans\n墨西哥焗豆",
+			"Mexican rice\n墨西哥米饭"
+		],
+		"Revolution Noodle": [
+			"Noodles with Braised Chicken Drumstick\n红烧鸡腿面/虎皮蛋"
+		],
+		"Piccola Italia": [
+			"Pasta with Classic (Chicken) Sauce\n鸡肉酱拌意面",
+			"Grilled Zucchini\n烤西葫芦"
+		],
+		"Vegetarian": [
+			"Pan-fried Shredded Potato Cake\n土豆丝饼"
+		],
+		"Daily Soup": [
+			"Tomato and Red Pepper Soup\n番茄红椒汤"
+		],
+		"Dessert/Fruit/Drink": [
+			"Egg Tart/Fruit/Yogurt/\nYakult/Milk/Juice\n蛋挞/水果/酸奶/养乐多/牛奶/果汁"
+		]
+	},
+	"today_dinner": {
+		"Taste of Asia": [],
+		"Eat Global": [],
+		"Revolution Noodle": [],
+		"Piccola Italia": [],
+		"Vegetarian": [],
+		"Daily Soup": [],
+		"Dessert/Fruit/Drink": []
+	},
+	"next_breakfast": {
+		"Taste of Asia": [],
+		"Eat Global": [],
+		"Revolution Noodle": [],
+		"Piccola Italia": [],
+		"Self Pick-up": [],
+		"Fruit/Drink": []
+	},
+	"the_week_ahead_url": "https://ykpaoschool-my.sharepoint.com/:p:/g/personal/cora_chen_ykpaoschool_cn/ES8-D2AEochFhwvz7-fL5GEBqVI9dhtYoFi3PdKTKV04Jg",
+	"today_snack": {
+		"Morning": "Ham & Cheese Croissant\n  火腿芝士羊角",
+		"Afternoon": null,
+		"Evening": null
+	},
+	"inspiration_type": null,
+	"inspiration_shared_by": null,
+	"inspiration_origin": null,
+	"inspiration_text": null,
+	"inspiration_image_data": null,
+	"inspiration_image_mime": null,
+	"on_this_day_html_en": null,
+	"on_this_day_html_zh": null,
+	"in_the_news_html_en": null,
+	"in_the_news_html_zh": null
+}

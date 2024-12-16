@@ -1,0 +1,50 @@
+{
+	"stddate": "2024-12-06",
+	"community_time": [],
+	"days_after_this": -1,
+	"aod": "None",
+	"weekday_english": "Friday",
+	"weekdays_abbrev": [
+		"Fri",
+		"Sat",
+		"Sun",
+		"Mon"
+	],
+	"weekday_chinese": "周五",
+	"day_of_cycle": "SA",
+	"today_breakfast": {
+		"Taste of Asia": [],
+		"Eat Global": [],
+		"Revolution Noodle": [],
+		"Piccola Italia": [],
+		"Self Pick-up": [],
+		"Fruit/Drink": []
+	},
+	"today_lunch": {
+		"Taste of Asia": [],
+		"Eat Global": [],
+		"Revolution Noodle": [],
+		"Piccola Italia": [],
+		"Vegetarian": [],
+		"Daily Soup": [],
+		"Dessert/Fruit/Drink": []
+	},
+	"today_dinner": null,
+	"next_breakfast": null,
+	"the_week_ahead_url": "https://ykpaoschool-my.sharepoint.com/:p:/g/personal/cora_chen_ykpaoschool_cn/ES8-D2AEochFhwvz7-fL5GEBqVI9dhtYoFi3PdKTKV04Jg",
+	"today_snack": {
+		"Morning": null,
+		"Afternoon": null,
+		"Evening": null
+	},
+	"inspiration_type": null,
+	"inspiration_shared_by": null,
+	"inspiration_origin": null,
+	"inspiration_text": null,
+	"inspiration_image_data": null,
+	"inspiration_image_mime": null,
+	"on_this_day_html_en": null,
+	"on_this_day_html_zh": null,
+	"in_the_news_html_en": null,
+	"in_the_news_html_zh": null
+}
