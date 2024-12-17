@@ -8,20 +8,21 @@
 	@font-face { font-family: Inter; font-weight: 700; src: url("https://albertttan.github.io/daily-bulletin/files/Inter-Bold.ttf") format("truetype"); }
 	@font-face { font-family: "Noto Sans SC"; font-weight: 400; src: url("https://albertttan.github.io/daily-bulletin/files/NotoSansSC-Regular.otf") format("opentype"); }
 	@font-face { font-family: "Noto Sans SC"; font-weight: 700; src: url("https://albertttan.github.io/daily-bulletin/files/NotoSansSC-Bold.otf") format("opentype"); } */
-	html { font-family: system-ui, "Noto Sans SC", sans-serif; line-height: 1.3; }
+	html { font-family: system-ui, "Noto Sans SC", sans-serif; line-height: 1.3; font-size: 12pt; }
 	body { max-width: 60rem; margin: auto; padding: 1rem; }
 	header { margin-top: 1rem; text-align: center; margin-bottom: 1.5rem; }
+	h2 { padding-top: 1.2rem; }
 	h3, h4, h5, h6 { padding-top: 0.8rem; }
 	span.location { text-decoration: underline;  }
 	time { text-decoration: underline; }
-	a:link, a:visited, a:hover, a:active { color: #791a9c; text-decoration-color: #80808080; text-decoration-thickness: 1.5px; }
-	table { width: 100%; border-collapse: collapse; border: 2px solid rgb(180, 180, 180); font-size: 90%; line-height: 1.3; margin-bottom: 1.2rem; }
+	a:link, a:visited, a:hover, a:active { color: #791a9c; text-decoration-color: #80808060; text-decoration-thickness: 1px; }
+	table { width: 100%; border-collapse: collapse; border: 2px solid rgb(180, 180, 180); font-size: 90%; line-height: 1.3; }
 	caption { margin: 1ex 1em; font-weight: bold; font-size: 105%; }
 	/* tr.today { background-color: rgb(210, 221, 247); } */
 	tr.today { background-color: #791a9c20; }
 	tr.not-today { color: rgb(150, 150, 150); }
 	td, th { border: 1px solid rgb(150, 150, 150); padding: 0.4rem; }
-	table#community_time td { text-align: center; }
+	table#community_time td, table#calendar_events td { text-align: center; }
 	td { min-width: 4.8rem; vertical-align: top; }
 	table#menu { min-width: 55em; } /* I think the mail clients will just resize the table */
 	table#menu ul { padding-left: 1.2em; }
@@ -40,21 +41,16 @@
 	hr { border: 1px solid rgb(150, 150, 150); }
 	footer { padding-top: 1rem; text-align: center; }
 	.wtitle + ul { margin-top: 0rem; }
-	details > summary { font-size: 17.5pt; }
-	details > summary > h2 { display: inline-block; }
-	details { margin-bottom: 0px; }
-	h2 { font-size: 17.5pt; }
-	article > h2 { margin: 0px; }
-	h2 + table { margin-top: 1.2rem; }
+	.inline-math { height: 12pt; vertical-align: sub; }
 </style>
-<title>Daily Bulletin 2024-12-17</title>
+<title>Daily Bulletin 2024-12-18</title>
 </head>
 <body dir="auto">
 <center>
 <header align="center">
 	<center>
 	<h1>Daily Bulletin 每日公告</h1>
-	<p><time datetime="2024-12-17">2024-12-17</time>, Tuesday, Day F</p>
+	<p><time datetime="2024-12-18">2024-12-18</time>, Wednesday, Day A</p>
 	<p style="font-weight: bold; color: #AA0000;">
 	Internal beta testing edition
 	</p>
@@ -63,29 +59,10 @@
 </center>
 <article>
 	<p>
-	Happy Tuesday! Thank you for supporting the Daily Bulletin. Please note that this is supplementary to <a href="https://ykpaoschool-my.sharepoint.com/:p:/g/personal/cora_chen_ykpaoschool_cn/ES8-D2AEochFhwvz7-fL5GEBqVI9dhtYoFi3PdKTKV04Jg">The Week Ahead</a> and is not an official source of information, and the Daily Bulletin staff accept no liability for the accuracy or validity. Please fill in the respective forms to <a href="https://ykps.runxiyu.org/sjdb/submit">share inspirations</a> or <a href="https://ykps.runxiyu.org/sjdb/unsub">unsubscribe</a>.
+	Happy Wednesday! Thank you for supporting the Daily Bulletin. Please note that this is supplementary to <a href="https://ykpaoschool-my.sharepoint.com/:p:/g/personal/cora_chen_ykpaoschool_cn/ES8-D2AEochFhwvz7-fL5GEBqVI9dhtYoFi3PdKTKV04Jg">The Week Ahead</a> and is not an official source of information, and the Daily Bulletin staff accept no liability for the accuracy or validity. Please fill in the respective forms to <a href="https://ykps.runxiyu.org/sjdb/submit">share inspirations</a> or <a href="https://ykps.runxiyu.org/sjdb/unsub">unsubscribe</a>.
 	<br />
-	周二快乐！感谢您支持每日公告。请注意，每日公告只是<a href="https://ykpaoschool-my.sharepoint.com/:p:/g/personal/cora_chen_ykpaoschool_cn/ES8-D2AEochFhwvz7-fL5GEBqVI9dhtYoFi3PdKTKV04Jg">每周展望</a>的补充，并不代表官方信息。我们不对信息的准确性和有效性承担责任。请填写相应表格以<a href="https://ykps.runxiyu.org/sjdb/submit">分享灵感</a>或<a href="https://ykps.runxiyu.org/sjdb/unsub">退订</a>。
+	周三快乐！感谢您支持每日公告。请注意，每日公告只是<a href="https://ykpaoschool-my.sharepoint.com/:p:/g/personal/cora_chen_ykpaoschool_cn/ES8-D2AEochFhwvz7-fL5GEBqVI9dhtYoFi3PdKTKV04Jg">每周展望</a>的补充，并不代表官方信息。我们不对信息的准确性和有效性承担责任。请填写相应表格以<a href="https://ykps.runxiyu.org/sjdb/submit">分享灵感</a>或<a href="https://ykps.runxiyu.org/sjdb/unsub">退订</a>。
 	</p>
-
-	<p>
-	<em>After a bit of silence with a bit of system management and code refactoring, we present to you... more information. Inspirations are back!</em>
-	</p>
-
-
-	<h2>Beta Zone 测试空间</h2>
-
-	<p>
-	Please check out <a href="https://docs.runxiyu.org/e2/">the e² programming language</a>. We&rsquo;re still drafting it, but it could be an interesting read.
-	</p>
-	<p style="font-weight: bold;">
-	Please also <a href="mailto:s22537@ykpaoschool.cn">share you feedback</a> for the <a href="https://paospace.ykpaoschool.cn:8192">experimental CCA selections system</a>. I tried to address a few limitations in SchoolsBuddy in this system. Receiving sufficient feedback is critical in the deployment of the system; we are trying to replace SchoolsBuddy entirely.
-	</p>
-	<p class="ps">
-	&mdash; Shared by Runxi Yu
-	</p>
-
-	<p class="ps">This section is experimental, please <a href="s22537@stu.ykpaoschool.cn">email submissions</a>. I think this would just be an area for general student posts that are relevant to the entire school? Please suggest some names for this section. I put Beta Zone here because that&rsquo;s what I&rsquo;m presenting this time around.</p>
 	
 	
 	<h2>Community Time 午休时间</h2>
@@ -103,45 +80,37 @@
 		</thead>
 		<tbody>
 			<tr class="today">
-				<th scope="row">Tue</th>
+				<th scope="row">Wed</th>
 				
-					<td colspan="4">Tutor Time</td>
+					<td colspan="1">AAO (Auditorium) - S1 Arrangements</td>
+					<td colspan="1">Musical Interlude (Oxygen Bar)</td>
+					<td colspan="1">Tutor Time - Tutees update CAS portfolios with advisors</td>
+					<td colspan="1">HoH Tutor Time (inc. Tutees &amp; Tutors)</td>
 				
 			</tr>
 			
 				<tr class="not-today">
-					<th scope="row">Wed</th>
+					<th scope="row">Thu</th>
 					
-						<td colspan="1">AAO (Auditorium) - S1 Arrangements</td>
-						<td colspan="1">Musical Interlude (Oxygen Bar)</td>
-						<td colspan="1">Tutor Time - Tutees update CAS portfolios with advisors</td>
-						<td colspan="1">HoH Tutor Time (inc. Tutees &amp; Tutors)</td>
+						<td colspan="4">Follow-up day: 1. Reflect on the week&#39;s events; 2. Complete an activity addressing issues highlighted by Pulse or teacher observation.</td>
 					
 				</tr>
 			
 				<tr class="not-today">
-					<th scope="row">Thu</th>
+					<th scope="row">Fri</th>
 					
-					<td colspan="4">Follow-up day: 1. Reflect on the week&#39;s events; 2. Complete an activity addressing issues highlighted by Pulse or teacher observation.<br/>Anxiety Management Excercise run by the Wellness Centre - Student Centre</td>
+						<td colspan="4">Anxiety Management Excercise run by the Wellness Centre - Student Centre</td>
 					
 				</tr>
+			
 		</tbody>
 		
 	</table>
 	
 	
-	<details>
-		<summary>
 	<h2>Calendar Events 日历事件</h2>
-		</summary>
 	<p>
 	We are planning to include content from the Songjiang Shared Calendar here, but the APIs are rather cumbersome to work with. This is a placeholder.
-	</p>
-	<p>
-	Please help if you know anything about the Microsoft Graph API.
-	</p>
-	<p>
-	Actually, I&rsquo;ll do it manually this time around
 	</p>
 	<table id="calendar_events">
 		<colgroup><col style="width: 5%"><col style="width: 95%"></colgroup>
@@ -153,17 +122,10 @@
 		</thead>
 		<tbody>
 			<tr class="today">
-				<th scope="row" rowspan=2>Tue</th>
-				<td>Monthly Humanities Lecture @ Auditorium</td>
-			</tr>
-			<tr class="today">
-				<td>CCA: Xueyuan (Challengers Week) Volleyball</td>
-			</tr>
-			<tr class="not-today">
 				<th scope="row" rowspan=2>Wed</th>
 				<td>History in the Spotlight Talk</td>
 			</tr>
-			<tr class="not-today">
+			<tr class="today">
 				<td>CCA: Varsity Basketball Boys SSSA Final @ KCIS</td>
 			</tr>
 			<tr class="not-today">
@@ -189,13 +151,9 @@
 		</tbody>
 		
 	</table>
-	</details>
 
 
-	<details>
-	<summary>
-	<h2 style="display: inline-block;">Delicious Dinings 今日佳肴</h2>
-	</summary>
+	<h2>Delicious Dinings 今日佳肴</h2>
 	<table id="menu">
 		<colgroup>
 			<col style="width: 5%">
@@ -206,7 +164,7 @@
 		
 		<tbody>
 			<tr class="today">
-				<th scope="row">Tue<br/>Brkfst</th>
+				<th scope="row">Wed<br/>Brkfst</th>
 				<td>
 					
 					<span class="wtitle">Piccola Italia</span>
@@ -221,8 +179,8 @@
 						<li>Dried Soda Biscuit
 混合苏打饼干</li>
 						
-						<li>Daily Cereal with Yougurt
-玉米片，葡萄干，蔓越莓干，酸奶</li>
+						<li>Daily Cereal with Milk
+脆圈圈，葡萄干，蔓越莓干，牛奶</li>
 						
 						<li>Boiled Egg
 白煮蛋</li>
@@ -233,20 +191,17 @@
 					<span class="wtitle">Eat Global</span>
 					<ul>
 						
-						<li>Broccoli
-西兰花</li>
+						<li>Roasted Mushroom
+烤杏鲍菇</li>
 						
-						<li>Sunny Side Up
-太阳蛋</li>
+						<li>Avocado, Egg and Shrimp Sandwich
+牛油果鸡蛋虾仁卷</li>
 						
-						<li>Spanish Breakfast Sausage
-猪肉早餐肠</li>
+						<li>Oatmeal
+麦片粥</li>
 						
-						<li>Cereal and Coix Congee
-麦片薏仁粥</li>
-						
-						<li>Rye Bread
-黑麦面包</li>
+						<li>Potato Wedge
+烤薯角</li>
 						
 					</ul>
 					
@@ -256,8 +211,8 @@
 					<span class="wtitle">Revolution Noodle</span>
 					<ul>
 						
-						<li>Pork and Preserved Vegetable Noodles
-酱包猪肉丁面</li>
+						<li>Stir-Fried Rice with Shredded Chicken in Soy Sauce
+酱油鸡丝炒饭</li>
 						
 					</ul>
 					
@@ -265,17 +220,16 @@
 					<span class="wtitle">Taste of Asia</span>
 					<ul>
 						
-						<li>Shanghai omelet/Hemp ball
-上海鸡蛋卷饼（油条）/麻球</li>
+						<li>Steamed Meat Dumplings
+小笼包</li>
 						
-						<li>Brown Sugar Bun
-红糖馒头</li>
+						<li>Steamed Twisted Roll with Scallions/Shandong Pancake (home-made)葱油花卷/山东煎饼（纯手工）</li>
 						
-						<li>Pickled Turnip with Egg
-萝卜干炒蛋</li>
+						<li>Steamed Egg
+蒸鸡蛋</li>
 						
-						<li>Assorted Seafood Congee
-海鲜粥</li>
+						<li>Red Bean  Congee
+红豆粥</li>
 						
 						<li>Vegetable
 蔬菜</li>
@@ -297,21 +251,21 @@
 					
 					<span class="wtitle">Morning Snack</span>
 					<ul>
-						<li>Custard Bun
-奶黄包</li>
+						<li>Chocolate Bread
+巧克力面包</li>
 					</ul>
 					
 				</td>
 			</tr>
 			<tr class="today">
-				<th scope="row">Tue<br/>Lunch</th>
+				<th scope="row">Wed<br/>Lunch</th>
 				<td>
 					
 					<span class="wtitle">Piccola Italia</span>
 					<ul>
 						
-						<li>Hawaiian pizza
-夏威夷披萨</li>
+						<li>Korean Army Hot Pot
+韩式部队火锅</li>
 						
 					</ul>
 					
@@ -319,18 +273,17 @@
 					<span class="wtitle">Eat Global</span>
 					<ul>
 						
-						<li>Grilled Fish
-with Homemade Harissa
-扒鱼柳配哈里萨辣酱</li>
+						<li>Christmas Ham with Cloves and Honey
+丁香蜂蜜圣诞火腿</li>
 						
-						<li>Grilled Zucchini
-烤佛手瓜</li>
+						<li>Brussel sprouts
+孢子甘蓝</li>
 						
-						<li>Cabbage
-牛心菜</li>
+						<li>Stir-fried Leaf Lettuce
+油麦菜</li>
 						
-						<li>Baked Pumpkin
-烤南瓜</li>
+						<li>Mashed Potato
+土豆泥</li>
 						
 					</ul>
 					
@@ -340,8 +293,8 @@ with Homemade Harissa
 					<span class="wtitle">Revolution Noodle</span>
 					<ul>
 						
-						<li>noodles with Japanese Pork
-日式猪肉拉面/白煮蛋</li>
+						<li>Spiced Duck Breast Noodles
+五香鸭胸面/兰花豆腐干</li>
 						
 					</ul>
 					
@@ -349,20 +302,21 @@ with Homemade Harissa
 					<span class="wtitle">Taste of Asia</span>
 					<ul>
 						
-						<li>Peking Duck
-北京烤鸭</li>
+						<li>Sweet and Sour Fish Cubes
+糖醋鱼块</li>
 						
-						<li>Fried Pork Slices with Vegetables
-农家小炒肉</li>
+						<li>YuShiang Flavor Eggplant
+with Shredded Chicken
+鱼香鸡肉茄子</li>
 						
-						<li>Cabbage
-牛心菜</li>
+						<li>Stir-fried Leaf Lettuce
+油麦菜</li>
 						
-						<li>Grilled Zucchini
-烤佛手瓜</li>
+						<li>Purple Cabbage
+紫甘蓝</li>
 						
-						<li>Steamed Rice
-米饭</li>
+						<li>Quinoa Rice
+三色藜麦米饭</li>
 						
 					</ul>
 					
@@ -372,8 +326,8 @@ with Homemade Harissa
 					<span class="wtitle">Vegetarian</span>
 					<ul>
 						
-						<li>Creamy pumpkin Spaghetti
-奶油南瓜意大利直面</li>
+						<li>Vegetrain Dumplings
+素饺子</li>
 						
 					</ul>
 					
@@ -381,8 +335,7 @@ with Homemade Harissa
 					<span class="wtitle">Daily Soup</span>
 					<ul>
 						
-						<li>Minestrone
-意大利蔬菜汤</li>
+						<li>Tofu and Vegetable with Egg Soup                                                                                                              青菜豆腐羹</li>
 						
 					</ul>
 					
@@ -390,31 +343,31 @@ with Homemade Harissa
 					<span class="wtitle">Dessert/Fruit/Drink</span>
 					<ul>
 						
-						<li>Brownie/Fruit/Yogurt/
-Yakult/Milk/Juice
-布朗尼蛋糕/水果/酸奶/养乐多/牛奶/果汁</li>
+						<li>Cookies /Fruit/Yogurt/Yakult/Milk/Juice
+雪人饼干/水果/酸奶/养乐多/牛奶/果汁</li>
 						
 					</ul>
 					
 					
 					<span class="wtitle">Afternoon Snack</span>
 					<ul>
-						<li>Seafood Pancake
-海鲜饼</li>
+						<li>Roasted Bread 
+with Ham and Cheese
+火腿芝士三明治</li>
 					</ul>
 					
 				</td>
 			</tr>
 			
 			<tr class="today">
-				<th scope="row">Tue<br/>Dinner</th>
+				<th scope="row">Wed<br/>Dinner</th>
 				<td>
 					
 					<span class="wtitle">Piccola Italia</span>
 					<ul>
 						
-						<li>Macaroni with Mushroom Sauce and Pork Ball
-焗弯管面配蘑菇汁猪肉丸子（手工）</li>
+						<li>Fusilli  with Tomato Sauce and Chicken
+螺丝面配鸡肉番茄酱</li>
 						
 					</ul>
 					
@@ -422,17 +375,17 @@ Yakult/Milk/Juice
 					<span class="wtitle">Eat Global</span>
 					<ul>
 						
-						<li>BBQ Pork
-BBQ猪肉</li>
+						<li>Low Temperature Slow Roasted Sirloin
+低温慢烤牛西冷</li>
 						
-						<li>Celery
-西芹</li>
+						<li>Roasted Eggplant
+烤茄子</li>
 						
-						<li>Green Vegetable
-杭白菜</li>
+						<li>Green Vegetables
+青菜</li>
 						
-						<li>Sautéed Potatoes and Onion
-洋葱土豆</li>
+						<li>Mshed carrots
+胡萝卜泥</li>
 						
 					</ul>
 					
@@ -442,7 +395,8 @@ BBQ猪肉</li>
 					<span class="wtitle">Revolution Noodle</span>
 					<ul>
 						
-						<li>Fried Shrimps and Egg with  Noodles番茄虾仁炒蛋面/素鸡</li>
+						<li>Braised Duck Leg Noodles
+酱鸭腿面/煎鸡蛋</li>
 						
 					</ul>
 					
@@ -450,20 +404,20 @@ BBQ猪肉</li>
 					<span class="wtitle">Taste of Asia</span>
 					<ul>
 						
-						<li>Stir-fried Spicy Chicken Wing
-辣子鸡翅</li>
+						<li>Deep-Fried Pork
+椒盐排条</li>
 						
-						<li>Sliced Pork with Green Pepper Water Bamboo
-青椒茭白猪肉片</li>
+						<li>Shrimp Steamed Egg
+虾仁蒸蛋</li>
 						
-						<li>Green Vegetable
-杭白菜</li>
+						<li>Green Vegetables
+青菜</li>
 						
-						<li>Celery
-西芹</li>
+						<li>Roasted Eggplant
+烤茄子</li>
 						
-						<li>Steamed Rice
-米饭</li>
+						<li>Steamed Rice with Sweet Potato
+红薯米饭</li>
 						
 					</ul>
 					
@@ -473,7 +427,8 @@ BBQ猪肉</li>
 					<span class="wtitle">Vegetarian</span>
 					<ul>
 						
-						<li>Spanish Omelet                                                                                                                            西班牙土豆鸡蛋饼</li>
+						<li>Stir-fried lettuce, rice stem, tofu
+酱爆素三丁/饭</li>
 						
 					</ul>
 					
@@ -481,8 +436,8 @@ BBQ猪肉</li>
 					<span class="wtitle">Daily Soup</span>
 					<ul>
 						
-						<li>Nori and Egg Soup
-紫菜鸡蛋汤</li>
+						<li>Mushroom Soup
+奶油蘑菇汤</li>
 						
 					</ul>
 					
@@ -490,17 +445,17 @@ BBQ猪肉</li>
 					<span class="wtitle">Dessert/Fruit/Drink</span>
 					<ul>
 						
-						<li>Orange Cake/Fruit/Yogurt/
+						<li>Sesame Cake/Fruit/Yogurt/
 Yakult/Milk/Juice
-橙味蛋糕/水果/酸奶/牛奶/果汁</li>
+芝麻桃酥/水果/酸奶/牛奶/果汁</li>
 						
 					</ul>
 					
 					
 					<span class="wtitle">Evening Snack</span>
 					<ul>
-						<li>Fruit &amp; Yoghurt
-水果 &amp; 酸奶</li>
+						<li>Fruit &amp; Chocolate Soy Milk
+水果 &amp; 巧克力豆奶</li>
 					</ul>
 					
 				</td>
@@ -508,24 +463,23 @@ Yakult/Milk/Juice
 			
 		</tbody>
 	</table>
-	<p class="ps">
-	I <em>think</em> the snacks are working again. But I am terrified at &ldquo;seafood pancake&rdquo;.
-	</p>
-	</details>
 
 	<h2>Daily Inspiration 每日灵感</h2>
 	
-	<img src="https://git.runxiyu.org/ykps/sjdb-build.git/plain/inspattach-hold_the_math_please.8vse7kvw.webp"></img>
-	<p class="ps">
-	&mdash; Shared by Albert Tan (<a href="https://www.reddit.com/r/ProgrammerHumor/comments/p0fa6g/hold_the_math_please/">Source</a>)
+	<p>
+	Find the largest value of <img class="inline-math" src="https://www.latex2png.com/pngs/3c148ce634005a2aa53d20ab5f0b7878.png" alt="2x + \sqrt{3}y" /> if <img class="inline-math" src="https://www.latex2png.com/pngs/cc000dea2e0b7a62f94465f807b3f326.png" alt="3x^2 + 4y^2 = 12" />.
 	</p>
 
-	<img src="https://git.runxiyu.org/ykps/sjdb-build.git/plain/inspattach-stay_angry.rw1yf5o6.png"></img>
 	<p class="ps">
-	&mdash; Shared anonymously (meme by peers)
+	&mdash; Shared by Cindy Chen
+	</p>
+
+	<img src="https://git.runxiyu.org/ykps/sjdb-build.git/plain/inspattach-Black-and-white-long-haired-guinea-pig-in-autumnal-leaves-950x647.zrn_pdhl.JPG" style="width: 23em;" />
+	<p class="ps">
+	&mdash; Shared by an axolotl (<a href="https://www.shutterstock.com/image-photo/black-white-long-hair-guinea-pig-663003667">source</a>)
 	</p>
 	
-
+	
 	<h2>Regular Notices 常规通知</h2>
 	<ul>
 		<li>
@@ -535,7 +489,7 @@ Yakult/Milk/Juice
 			Emergency phone: <a href="tel:+8618221990830">182 2199 0830</a>
 		</li>
 		<li>
-			AOD: Duncan Weller
+			AOD: Chris Warren/Alex Aristizabal
 		</li>
 	</ul>
 	<p class="ps" style="font-weight: bold;">Disclaimer: Please check The Week Ahead for official information.</p>
