@@ -1,0 +1,100 @@
+{
+	"stddate": "2024-12-20",
+	"community_time": [
+		[
+			"Anxiety Management Excercise run by the Wellness Centre - Student Centre",
+			"Anxiety Management Excercise run by the Wellness Centre - Student Centre",
+			"Anxiety Management Excercise run by the Wellness Centre - Student Centre",
+			"Anxiety Management Excercise run by the Wellness Centre - Student Centre"
+		]
+	],
+	"days_after_this": 0,
+	"aod": "None",
+	"weekday_english": "Friday",
+	"weekdays_abbrev": [
+		"Fri",
+		"Sat",
+		"Sun",
+		"Mon"
+	],
+	"weekday_chinese": "周五",
+	"day_of_cycle": "C",
+	"today_breakfast": {
+		"Taste of Asia": [
+			"Shanghai Fried Pork bun\n生煎包",
+			"Rice Roll (home-made)/Pumpkin pie\n手工滋饭团/南瓜饼",
+			"Tea Egg\n茶叶蛋",
+			"Chinese Yam and Jujube Congee\n山药红枣枸杞粥",
+			"Vegetable\n蔬菜"
+		],
+		"Eat Global": [
+			"Baked tomato\n焗番茄",
+			"Shakshuka\n北非蛋",
+			"Prague Style Ham\n布拉格风味火腿",
+			"Oatmeal\n麦片粥",
+			"Corn\n玉米棒"
+		],
+		"Revolution Noodle": [
+			"Shredded shoots and chicken with Noodles\n茭白鸡丝面"
+		],
+		"Piccola Italia": [
+			"Toast Selection\n吐司",
+			"Jam Selection\n果酱",
+			"Dried Soda Biscuit\n混合苏打饼干",
+			"Daily Cereal with Yougurt\n玉米片，葡萄干，蔓越莓干，酸奶",
+			"Boiled Egg\n白煮蛋"
+		],
+		"Self Pick-up": [
+			"Fruit/Yogurt/Yakult/Milk/Juice/Soybean Milk\n水果/酸奶/养乐多/牛奶/果汁/豆浆"
+		],
+		"Fruit/Drink": []
+	},
+	"today_lunch": {
+		"Taste of Asia": [
+			"Steamed Pork with Rice Flour\n蒸蒸日上（南乳香芋蒸五花）",
+			"Organic Cauliflower with Chicken Slices\n干锅鸡肉有机花菜",
+			"Cowpea\n豇豆",
+			"Roasted Baby Cabbage\n烤娃娃菜",
+			"Steamed Brown Rice\n米饭"
+		],
+		"Eat Global": [
+			"French Cassoulet\n法式豆焖鸭",
+			"Roasted Baby Cabbage\n烤娃娃菜",
+			"cowpea\n豇豆",
+			"Prawn Cracker\n龙虾片"
+		],
+		"Revolution Noodle": [
+			"Noodle Soup with Shredded Chicken\n手撕鸡汤面/素鸡/青菜"
+		],
+		"Piccola Italia": [
+			"Beef Lasagne\n牛肉千层面"
+		],
+		"Vegetarian": [
+			"Zucchini Pancakes\nwith Tomato Salsa\n西葫芦煎饼配番茄沙沙"
+		],
+		"Daily Soup": [
+			"Tom Yum Soup\n冬阴功汤"
+		],
+		"Dessert/Fruit/Drink": [
+			"Puffs /Fruit/Yogurt/Yakult/Milk/Juice\n泡芙/水果/酸奶/养乐多/牛奶/果汁"
+		]
+	},
+	"today_dinner": null,
+	"next_breakfast": null,
+	"the_week_ahead_url": "https://ykpaoschool-my.sharepoint.com/:p:/g/personal/cora_chen_ykpaoschool_cn/ES8-D2AEochFhwvz7-fL5GEBqVI9dhtYoFi3PdKTKV04Jg",
+	"today_snack": {
+		"Morning": "Plain Muffin                                                                                                                             \n  原味麦芬（手工）",
+		"Afternoon": "Samosa\n 咖喱角",
+		"Evening": "Fruit & Yoghurt\n水果 & 酸奶"
+	},
+	"inspiration_type": null,
+	"inspiration_shared_by": null,
+	"inspiration_origin": null,
+	"inspiration_text": null,
+	"inspiration_image_data": null,
+	"inspiration_image_mime": null,
+	"on_this_day_html_en": null,
+	"on_this_day_html_zh": null,
+	"in_the_news_html_en": null,
+	"in_the_news_html_zh": null
+}
