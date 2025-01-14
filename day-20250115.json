@@ -1,0 +1,164 @@
+{
+	"stddate": "2025-01-15",
+	"community_time": [
+		[
+			"Dean's Forum (Auditorium)",
+			"HoH Tutor Time (inc. Tutees & Tutors)",
+			"Zhi Xing (Auditorium)",
+			"Y12 Music Interlude (Oxygen Bar)"
+		],
+		[
+			"Follow-up day: 1. Reflect on the week's events; 2. Complete an activity addressing issues highlighted by Pulse or teacher observation.",
+			"Follow-up day: 1. Reflect on the week's events; 2. Complete an activity addressing issues highlighted by Pulse or teacher observation.",
+			"Follow-up day: 1. Reflect on the week's events; 2. Complete an activity addressing issues highlighted by Pulse or teacher observation.",
+			"Follow-up day: 1. Reflect on the week's events; 2. Complete an activity addressing issues highlighted by Pulse or teacher observation."
+		]
+	],
+	"days_after_this": 1,
+	"aod": "Zang Na",
+	"weekday_english": "Wednesday",
+	"weekdays_abbrev": [
+		"Wed",
+		"Thu",
+		"Fri",
+		"Sat",
+		"Sun",
+		"Mon"
+	],
+	"weekday_chinese": "周三",
+	"day_of_cycle": "E",
+	"today_breakfast": {
+		"Taste of Asia": [
+			"Shaomai                                               \n 烧麦",
+			"Shandong Pancake (home-made)/Dough Stick山东煎饼（纯手工/油条）",
+			"Marinated Egg\n卤水鸡蛋",
+			"Spicy Soup\n胡辣汤",
+			"Vegetables\n蔬菜"
+		],
+		"Eat Global": [
+			"Egg and Chicken & Chesse Burrito\n芝士鸡肉早餐卷",
+			"Oatmeal\n麦片粥",
+			"Corn Tortillas\n玉米饼"
+		],
+		"Revolution Noodle": [
+			"Noodles with Fried Pork in Oyster Sauce\n蚝油猪片面"
+		],
+		"Piccola Italia": [
+			"Toast Selection\n全麦吐司",
+			"Jam Selection\n果酱",
+			"Dried Soda Biscuit\n混合苏打饼干",
+			"Daily Cereal with Milk\n脆圈圈，葡萄干，蔓越莓干，牛奶",
+			"Boiled Egg\n白煮蛋"
+		],
+		"Self Pick-up": [
+			"Fruit/Yogurt/Yakult/Milk/Juice/Soybean Milk\n水果/酸奶/养乐多/牛奶/果汁/豆浆"
+		],
+		"Fruit/Drink": []
+	},
+	"today_lunch": {
+		"Taste of Asia": [
+			"Fried Shrimps with Garlic and Vermicelli\n蒜蓉粉丝铁板大虾",
+			"Shredded Pork with Cabbage and Edamame Bean\n雪菜毛豆肉丝",
+			"Green Vegetables\n菜心",
+			"Cauliflower and Carrot\n花菜胡萝卜",
+			"Steamed Rice\n米饭"
+		],
+		"Eat Global": [
+			"Thai Pork with Coconut\n泰式椰香猪肉",
+			"Cauliflower and Carrot\n花菜胡萝卜",
+			"Green Vegetables\n菜心",
+			"Baked Sweet Potato with Honey\n蜂蜜烤红薯"
+		],
+		"Revolution Noodle": [
+			"Oden\n关东煮（酱油汤）"
+		],
+		"Piccola Italia": [
+			"Spaghetti with Chicken in Pesto Sause\n香草鸡肉意大利面"
+		],
+		"Vegetarian": [
+			"Pan-fried Shredded Potato Cake\n土豆丝饼"
+		],
+		"Daily Soup": [
+			"Minestrone\n意大利蔬菜汤"
+		],
+		"Dessert/Fruit/Drink": [
+			"Bread Pudding/Fruit/\nYogurt/Yakult/Milk/Juice\n面包布丁/水果/酸奶/养乐多/\n牛奶/果汁"
+		]
+	},
+	"today_dinner": {
+		"Taste of Asia": [
+			"Pork Strips with Pepper and Salt\n椒盐小酥肉",
+			"Diced Chicken with Bean curd\n鸡丁豆干",
+			"Celtuce/Carrot\n莴笋/胡萝卜",
+			"Roasted Eggplant\n烤茄子",
+			"Steamed Rice with Sweet Potato\n红薯米饭"
+		],
+		"Eat Global": [
+			"Pan-seared Fish\nwith Lemon Butter Sauce\n法式纸包鱼配柠檬黄油汁",
+			"Roasted Eggplant\n烤茄子",
+			"Celtuce/Carrot\n莴笋/胡萝卜",
+			"Roasted Pumpkin\n烤南瓜块"
+		],
+		"Revolution Noodle": [
+			"Noodles with Yuxiang chicken\n鱼香鸡丝面/卤豆腐干"
+		],
+		"Piccola Italia": [
+			"Jacket Potato with Toppings (Tuna, Bacon, Sour Cream）\n锡纸烤土豆 （培根，香肠，酸奶油）"
+		],
+		"Vegetarian": [
+			"Spanish Mushroom Omelet                                                                                                                    \n  西班牙土豆蘑菇鸡蛋饼"
+		],
+		"Daily Soup": [
+			"Mushroom Soup\n菌菇汤"
+		],
+		"Dessert/Fruit/Drink": [
+			"Vanilla Danish /Fruit/Yogurt/Yakult/Milk/Juice\n香草丹麦/水果/酸奶/牛奶/果汁"
+		]
+	},
+	"next_breakfast": {
+		"Taste of Asia": [
+			"Marinated Meat in Baked Bun\n陕西肉夹馍",
+			"Sticky Rice Cake\n松糕",
+			"Fried Egg\n小葱炒鸡蛋",
+			"Mushroom and Fish Congee\n香菇鱼片粥",
+			"Vegetables\n蔬菜"
+		],
+		"Eat Global": [
+			"Fried Eggs Over Easy\n双面煎嫩蛋",
+			"Purple Potato\n紫薯",
+			"Spain Sausage\n香煎西班牙香肠",
+			"Cereal and Coix Congee\n麦片薏仁粥",
+			"Pancake\n西式煎饼"
+		],
+		"Revolution Noodle": [
+			"Fried Rice with Shanghai Style\n上海酱油火腿蛋炒饭"
+		],
+		"Piccola Italia": [
+			"Toast Selection\n全麦吐司",
+			"Jam Selection\n果酱",
+			"Dried Soda Biscuit\n混合苏打饼干",
+			"Daily Cereal with Yougurt\n麦片，葡萄干，蔓越莓干，酸奶",
+			"Boiled Egg\n白煮蛋"
+		],
+		"Self Pick-up": [
+			"Fruit/Yogurt/Yakult/Milk/Juice/Soybean Milk\n水果/酸奶/养乐多/牛奶/果汁/豆浆"
+		],
+		"Fruit/Drink": []
+	},
+	"the_week_ahead_url": "https://ykpaoschool-my.sharepoint.com/:p:/g/personal/cora_chen_ykpaoschool_cn/ES8-D2AEochFhwvz7-fL5GEBcfo7d_WIrNBgAdHDlG6BGA",
+	"today_snack": {
+		"Morning": "BBQ Pork Bun\n叉烧包",
+		"Afternoon": "Waffle \n华夫",
+		"Evening": "Fruit & Chocolate Soy milk\n水果 & 巧克力豆奶"
+	},
+	"inspiration_type": null,
+	"inspiration_shared_by": null,
+	"inspiration_origin": null,
+	"inspiration_text": null,
+	"inspiration_image_data": null,
+	"inspiration_image_mime": null,
+	"on_this_day_html_en": null,
+	"on_this_day_html_zh": null,
+	"in_the_news_html_en": null,
+	"in_the_news_html_zh": null
+}

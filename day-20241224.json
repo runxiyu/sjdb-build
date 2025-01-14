@@ -1,0 +1,137 @@
+{
+	"stddate": "2024-12-24",
+	"weekday_english": "Tuesday",
+	"weekdays_abbrev": [
+		"Tue",
+		"Wed",
+		"Thu",
+		"Fri",
+		"Sat",
+		"Sun",
+		"Mon"
+	],
+	"weekday_chinese": "周二",
+	"day_of_cycle": "SA",
+	"today_breakfast": {
+		"Taste of Asia": [],
+		"Eat Global": [
+			"Tomato & Cheese Omelet\n番茄洋葱芝士炒鸡蛋",
+			"Taro\n香芋",
+			"Pork Sausage\n煎猪肉早餐肠",
+			"Oatmeal\n麦片粥",
+			"Pancake\n西式煎饼配枫糖浆"
+		],
+		"Revolution Noodle": [
+			"Shepherd's purse and pork wontons\n荠菜鲜肉大馄饨"
+		],
+		"Piccola Italia": [
+			"Toast Selection\n混合吐司",
+			"Jam Selection\n果酱",
+			"Boiled Egg\n白煮蛋"
+		],
+		"Self Pick-up": [
+			"Fruit/Yogurt/Yakult/Milk/Juice/Soybean Milk\n水果/酸奶/养乐多/牛奶/果汁/豆浆"
+		],
+		"Fruit/Drink": []
+	},
+	"today_lunch": {
+		"Taste of Asia": [
+			"Spicy Fish with Tofu\n豆花鱼",
+			"Stir-fried eggs with tomato\n番茄炒鸡蛋",
+			"Spinach\n菠菜",
+			"Baked Cauliflower with Cheese\n芝士焗花菜",
+			"Quinoa Rice\n三色藜麦米饭"
+		],
+		"Eat Global": [
+			"Roasted Lamb with Rosemary\n迷迭香烤羊腿",
+			"Baked Cauliflower with Cheese\n芝士焗花菜",
+			"Spinach\n菠菜",
+			"Baby Potatoes\n黄油烤小土豆"
+		],
+		"Revolution Noodle": [
+			"Braised Pork Noodles\n焖肉面/煎鸡蛋"
+		],
+		"Piccola Italia": [
+			"Chicken Enchiladas\n墨西哥鸡肉玉米卷饼"
+		],
+		"Vegetarian": [
+			"Falafel & Pita Bread\n法拉法，皮塔面包"
+		],
+		"Daily Soup": [
+			"Broccoli Soup                                                                                                                                     奶油西兰花汤"
+		],
+		"Dessert/Fruit/Drink": [
+			"Biscuit/Fruit/Yogurt/Yakult/Milk/Juiceqiaoke黄油巧克力饼干/水果/酸奶/养乐多/牛奶/果汁"
+		]
+	},
+	"today_dinner": {
+		"Taste of Asia": [
+			"Roasted Chicken wings\n烤鸡翅",
+			"Muxu Pork\n木须肉",
+			"Canola\n油麦菜",
+			"Purple Cabbage\n紫甘蓝",
+			"Corn Rice\n玉米饭"
+		],
+		"Eat Global": [
+			"Vienna Style Pork Ribs\n维也纳烤猪肋排",
+			"Purple Cabbage\n紫甘蓝",
+			"Canola\n油麦菜",
+			"French fries\n薯条",
+			"Corn Rice\n玉米饭"
+		],
+		"Revolution Noodle": [
+			"Vegetarian spicy tofu& Fried Rice with Chive\n麻辣豆腐（株肉沫）配小葱炒饭"
+		],
+		"Piccola Italia": [
+			"Chicken Tortilla Soup\n鸡肉饼皮汤"
+		],
+		"Vegetarian": [
+			"Bread and Peach Pudding\n/Fruit/Yogurt/Yakult/Milk/Juice\n面包黄桃布丁/水果/酸奶/养乐多/牛奶/果汁"
+		],
+		"Daily Soup": [],
+		"Dessert/Fruit/Drink": [
+			"Maple Crisp\n枫糖起酥"
+		]
+	},
+	"next_breakfast": {
+		"Taste of Asia": [
+			"Pork Patties\n大葱猪肉饼",
+			"Beef Rice Noodle Roll\n牛肉肠粉",
+			"Steamed Egg\n蒸鸡蛋",
+			"Minced Pork Congee\n皮蛋瘦肉粥",
+			"Vegetable\n蔬菜"
+		],
+		"Eat Global": [
+			"Roasted Mushroom\n烤白蘑菇",
+			"Ham with Egg and Cheese Croissant\n火腿鸡蛋芝士羊角",
+			"Milk Quinoa Congee\n牛奶藜麦粥",
+			"Hash Browns\n薯饼"
+		],
+		"Revolution Noodle": [],
+		"Piccola Italia": [
+			"Toast Selection\n混合吐司",
+			"Jam Selection\n果酱",
+			"Boiled Egg\n白煮蛋"
+		],
+		"Self Pick-up": [
+			"Fruit/Yogurt/Yakult/Milk/Juice/Soybean Milk\n水果/酸奶/养乐多/牛奶/果汁/豆浆"
+		],
+		"Fruit/Drink": []
+	},
+	"the_week_ahead_url": "https://ykpaoschool-my.sharepoint.com/:p:/g/personal/cora_chen_ykpaoschool_cn/ES8-D2AEochFhwvz7-fL5GEBcfo7d_WIrNBgAdHDlG6BGA",
+	"today_snack": {
+		"Morning": "Maple Crisp\n枫糖起酥",
+		"Afternoon": "Roasted Bread with Bacon and Egg\n培根鸡蛋三明治",
+		"Evening": "Fruit & Yoghurt\n水果 & 酸奶"
+	},
+	"inspiration_type": null,
+	"inspiration_shared_by": null,
+	"inspiration_origin": null,
+	"inspiration_text": null,
+	"inspiration_image_data": null,
+	"inspiration_image_mime": null,
+	"on_this_day_html_en": null,
+	"on_this_day_html_zh": null,
+	"in_the_news_html_en": null,
+	"in_the_news_html_zh": null
+}

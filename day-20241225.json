@@ -1,0 +1,104 @@
+{
+	"stddate": "2024-12-25",
+	"weekday_english": "Wednesday",
+	"weekdays_abbrev": [
+		"Wed",
+		"Thu",
+		"Fri",
+		"Sat",
+		"Sun",
+		"Mon"
+	],
+	"weekday_chinese": "周三",
+	"day_of_cycle": "SA",
+	"today_breakfast": {
+		"Taste of Asia": [
+			"Pork Patties\n大葱猪肉饼",
+			"Beef Rice Noodle Roll\n牛肉肠粉",
+			"Steamed Egg\n蒸鸡蛋",
+			"Minced Pork Congee\n皮蛋瘦肉粥",
+			"Vegetable\n蔬菜"
+		],
+		"Eat Global": [
+			"Roasted Mushroom\n烤白蘑菇",
+			"Ham with Egg and Cheese Croissant\n火腿鸡蛋芝士羊角",
+			"Milk Quinoa Congee\n牛奶藜麦粥",
+			"Hash Browns\n薯饼"
+		],
+		"Revolution Noodle": [],
+		"Piccola Italia": [
+			"Toast Selection\n混合吐司",
+			"Jam Selection\n果酱",
+			"Boiled Egg\n白煮蛋"
+		],
+		"Self Pick-up": [
+			"Fruit/Yogurt/Yakult/Milk/Juice/Soybean Milk\n水果/酸奶/养乐多/牛奶/果汁/豆浆"
+		],
+		"Fruit/Drink": []
+	},
+	"today_lunch": {
+		"Taste of Asia": [
+			"Peking Duck\n特色北京烤鸭",
+			"Fried Minced Chicken with Kale and Asparagus\n鸡丝橄榄莴笋丝",
+			"Green Vegetables\n菜心",
+			"Roasted Cabbage\n烤卷心菜",
+			"Steamed Rice\n米饭"
+		],
+		"Eat Global": [
+			"Pork Goulash\n匈牙利烩猪肉",
+			"Roasted Cabbage\n烤卷心菜",
+			"Green Vegetables\n菜心",
+			"Bread\n小面包"
+		],
+		"Revolution Noodle": [
+			"Beef Noodles\n牛肉面/素鸡"
+		],
+		"Piccola Italia": [
+			"Deep-fried chicken Burger/French fries\n鸡肉汉堡配薯条"
+		],
+		"Vegetarian": [
+			"Vegetarian Fotiaoqiang\n素佛跳墙"
+		],
+		"Daily Soup": [
+			"Glutinous Rice Balls in Fermented Rice Wine\n酒酿圆子"
+		],
+		"Dessert/Fruit/Drink": [
+			"Apple Danish /Fruit/Yogurt/Yakult/Milk/Juice\n苹果丹麦酥/水果/酸奶/养乐多/牛奶/果汁"
+		]
+	},
+	"today_dinner": {
+		"Taste of Asia": [],
+		"Eat Global": [],
+		"Revolution Noodle": [],
+		"Piccola Italia": [],
+		"Vegetarian": [],
+		"Daily Soup": [],
+		"Dessert/Fruit/Drink": [
+			"Steamed Pork Bun\n小肉包"
+		]
+	},
+	"next_breakfast": {
+		"Taste of Asia": [],
+		"Eat Global": [],
+		"Revolution Noodle": [],
+		"Piccola Italia": [],
+		"Self Pick-up": [],
+		"Fruit/Drink": []
+	},
+	"the_week_ahead_url": "https://ykpaoschool-my.sharepoint.com/:p:/g/personal/cora_chen_ykpaoschool_cn/ES8-D2AEochFhwvz7-fL5GEBcfo7d_WIrNBgAdHDlG6BGA",
+	"today_snack": {
+		"Morning": "Steamed Pork Bun\n小肉包",
+		"Afternoon": null,
+		"Evening": null
+	},
+	"inspiration_type": null,
+	"inspiration_shared_by": null,
+	"inspiration_origin": null,
+	"inspiration_text": null,
+	"inspiration_image_data": null,
+	"inspiration_image_mime": null,
+	"on_this_day_html_en": null,
+	"on_this_day_html_zh": null,
+	"in_the_news_html_en": null,
+	"in_the_news_html_zh": null
+}
