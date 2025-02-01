@@ -1,0 +1,93 @@
+{
+	"stddate": "2025-01-17",
+	"community_time": [],
+	"days_after_this": -1,
+	"aod": "None",
+	"weekday_english": "Friday",
+	"weekdays_abbrev": [
+		"Fri",
+		"Sat",
+		"Sun",
+		"Mon"
+	],
+	"weekday_chinese": "周五",
+	"day_of_cycle": "A",
+	"today_breakfast": {
+		"Taste of Asia": [
+			"Steamed Jiaozi\n蒸饺",
+			"Smashed Bun/Rice Roll (home-made)\n奶黄包/ 上海手工滋饭团",
+			"Boiled Egg\n白煮蛋",
+			"Red Bean Soup\n红豆沙汤",
+			"Vegetables\n蔬菜"
+		],
+		"Eat Global": [
+			"Roasted Tomatos\n烤番茄",
+			"Eggs, sausage Burrito\n墨西哥鸡蛋香肠早餐卷",
+			"Potatoes\n土豆",
+			"Oatmeal\n麦片粥",
+			"Brioche\n法国黄油面包"
+		],
+		"Revolution Noodle": [
+			"Dumplings\n鸡汤小馄饨"
+		],
+		"Piccola Italia": [
+			"Toast Selection\n全麦吐司",
+			"Jam Selection\n果酱",
+			"Dried Soda Biscuit\n混合苏打饼干",
+			"Daily Cereal with Milk\n卜卜米，葡萄干，蔓越莓干，牛奶",
+			"Boiled Egg\n白煮蛋"
+		],
+		"Self Pick-up": [
+			"Fruit/Yogurt/Yakult/Milk/Juice/Soybean Milk\n水果/酸奶/养乐多/牛奶/果汁/豆浆"
+		],
+		"Fruit/Drink": []
+	},
+	"today_lunch": {
+		"Taste of Asia": [
+			"Braised Pork with Dried Bamboo Shoots\n笋烧肉",
+			"Stir-fried chicken with shredded potatoes and green pepper\n青椒土豆丝炒鸡丝",
+			"Green Vegetables\n杭白菜",
+			"Red Radish\n红菜头",
+			"Steamed Rice with Cereal\n杂粮饭"
+		],
+		"Eat Global": [
+			"Classic Hungarian Beef Goulash\n经典匈牙利烩牛肉",
+			"Green Vegetables\n杭白菜",
+			"Red Radish\n红菜头",
+			"Multigrain Pellets\n多谷小球"
+		],
+		"Revolution Noodle": [
+			"Braised chicken leg mixed with scallion oil noodles\n红烧鸡腿配葱油拌面/卤干"
+		],
+		"Piccola Italia": [
+			"Paella\n西班牙海鲜饭"
+		],
+		"Vegetarian": [
+			"Braised Bell Pepper with Basil Mushrooms\n意式甜椒烩配罗勒烤菌菇"
+		],
+		"Daily Soup": [
+			"Nori and Egg Soup\n紫菜蛋汤"
+		],
+		"Dessert/Fruit/Drink": [
+			"Cheese Cake/Fruit/\nYogurt/Yakult/Milk/Juice\n芝士蛋糕/水果/酸奶/养乐多/\n牛奶/果汁"
+		]
+	},
+	"today_dinner": null,
+	"next_breakfast": null,
+	"the_week_ahead_url": "https://ykpaoschool-my.sharepoint.com/:p:/g/personal/cora_chen_ykpaoschool_cn/ES8-D2AEochFhwvz7-fL5GEBcfo7d_WIrNBgAdHDlG6BGA",
+	"today_snack": {
+		"Morning": "Pumpkin Pie\n南瓜饼",
+		"Afternoon": " Ham and Cheese Sandwich\n鸡蛋芝士三明治",
+		"Evening": null
+	},
+	"inspiration_type": null,
+	"inspiration_shared_by": null,
+	"inspiration_origin": null,
+	"inspiration_text": null,
+	"inspiration_image_data": null,
+	"inspiration_image_mime": null,
+	"on_this_day_html_en": null,
+	"on_this_day_html_zh": null,
+	"in_the_news_html_en": null,
+	"in_the_news_html_zh": null
+}

@@ -1,0 +1,158 @@
+{
+	"stddate": "2025-01-21",
+	"community_time": [
+		[
+			"Tutor Time",
+			"Tutor Time",
+			"Tutor Time",
+			"Tutor Time"
+		]
+	],
+	"days_after_this": 0,
+	"aod": "Duncan Weller",
+	"weekday_english": "Tuesday",
+	"weekdays_abbrev": [
+		"Tue",
+		"Wed",
+		"Thu",
+		"Fri",
+		"Sat",
+		"Sun",
+		"Mon"
+	],
+	"weekday_chinese": "周二",
+	"day_of_cycle": "C",
+	"today_breakfast": {
+		"Taste of Asia": [
+			"Cantonese rice noodle roll\n牛肉肠粉",
+			"Vegetable Bun\n菜包",
+			"Fried Egg\n外婆菜炒鸡蛋",
+			"Jellied Bean Curd\n豆腐花",
+			"Vegetable\n蔬菜"
+		],
+		"Eat Global": [
+			"Mixed beans\n烩混合豆",
+			"Shakshuka\n北非蛋",
+			"Prague style ham\n布拉格风味火腿",
+			"Cereal and Coix Congee\n麦片薏仁粥",
+			"Baguette\n法棍面包"
+		],
+		"Revolution Noodle": [
+			"Stir-Fried Rice with Shredded Ham in Soy Sauce\n酱油火腿丝蛋炒饭"
+		],
+		"Piccola Italia": [
+			"Toast Selection\n混合吐司",
+			"Jam Selection\n果酱",
+			"Dried Soda Biscuit\n混合苏打饼干",
+			"Daily Cereal with Yougurt\n麦片，葡萄干，蔓越莓干，酸奶"
+		],
+		"Self Pick-up": [
+			"Fruit/Yogurt/Yakult/Milk/Juice/Soybean Milk\n水果/酸奶/养乐多/牛奶/果汁/豆浆"
+		],
+		"Fruit/Drink": []
+	},
+	"today_lunch": {
+		"Taste of Asia": [
+			"Deep - fried and braised pork hock\n秘制走油蹄髈",
+			"Quail eggs, sausage, shrimp, pork skin, stewed vegetables\n全家福",
+			"Shanghai - style Baked Gluten\n四喜烤麸",
+			"Winter bamboo shoots with vegetable\n塔菜冬笋",
+			"Red Sticky Rice\n血糯米饭"
+		],
+		"Eat Global": [
+			"Grilled Fish\nwith Cream Mushroom Sause\n扒鱼柳配奶油蘑菇汁",
+			"Purple Cabbage\n紫甘蓝",
+			"Green Vegetables\n菜心",
+			"Sautéed Potatoes and Onion\n洋葱土豆"
+		],
+		"Revolution Noodle": [
+			"Beef Noodles\n牛肉刀削面/素鸡/青菜"
+		],
+		"Piccola Italia": [
+			"Pepperoni Pizza/chicken nuggets\n意式火腿披萨/鸡块"
+		],
+		"Vegetarian": [
+			"Vegetable Curry Chickpea with Rice                                                                                                                     咖喱蔬菜鹰嘴豆,米饭"
+		],
+		"Daily Soup": [
+			"Bacon, pork ribs, winter bamboo shoots, tofu soup\n腌笃鲜"
+		],
+		"Dessert/Fruit/Drink": [
+			"Spring Festival Promotion Songjiang Pastries/Fruit/Yogurt/\nYakult/Milk/Juice\n迎新春松江方糕/水果/酸奶/养乐多/牛奶/果汁"
+		]
+	},
+	"today_dinner": {
+		"Taste of Asia": [
+			"Scallops with garlic and vermicelli\n蒜蓉粉丝扇贝",
+			"Dry Pot Chiba Tofu with Chicken\n干锅千叶豆腐/鸡肉",
+			"Lettuce\n生菜",
+			"Broccoli\n西兰花",
+			"Steamed Rice\n米饭"
+		],
+		"Eat Global": [
+			"Roast  lamb leg with rosemary\n香草烤羊腿",
+			"Broccoli\n西兰花",
+			"Lettuce\n生菜",
+			"Roasted Pumpkin\n烤南瓜块"
+		],
+		"Revolution Noodle": [
+			"Hot Oiled Chili Noodles with Pork\n猪肉油泼面/鹌鹑蛋"
+		],
+		"Piccola Italia": [
+			"Braised Chicken breast sandwich with Vietnamese sauce\n越南酱烧鸡胸三明治"
+		],
+		"Vegetarian": [
+			"Oven Baked Tomato with Couscous                                                                                                                                     焗番茄配中东米,番茄炒蛋"
+		],
+		"Daily Soup": [
+			"Beef Soup\n西湖牛肉羹"
+		],
+		"Dessert/Fruit/Drink": [
+			"Palmera/Fruit/Yogurt/\nYakult/Milk/Juice\n蝴蝶酥/水果/酸奶/牛奶/果汁"
+		]
+	},
+	"next_breakfast": {
+		"Taste of Asia": [
+			"Steamed Meat Dumplings\n小肉包",
+			"Pork patty/Rice Roll\n猪肉饼/手工粢饭团",
+			"Tea Egg\n茶叶蛋",
+			"Chinese Yam and Jujube Congee\n山药红枣粥",
+			"Vegetable\n蔬菜"
+		],
+		"Eat Global": [
+			"Baked tomato\n焗番茄",
+			"Egg bacon cheese muffins\n鸡蛋培根芝士松饼",
+			"Oatmeal\n麦片粥",
+			"Baked Beans\n茄汁焗豆"
+		],
+		"Revolution Noodle": [
+			"Pork and Preserved Vegetable Noodles\n雪菜肉丝面"
+		],
+		"Piccola Italia": [
+			"Toast Selection\n混合吐司",
+			"Jam Selection\n果酱",
+			"Dried Soda Biscuit\n混合苏打饼干",
+			"Daily Cereal with Milk\n卜卜米，葡萄干，蔓越莓干，牛奶"
+		],
+		"Self Pick-up": [
+			"Fruit/Yogurt/Yakult/Milk/Juice/\n水果/酸奶/养乐多/牛奶/果汁"
+		],
+		"Fruit/Drink": []
+	},
+	"the_week_ahead_url": "https://ykpaoschool-my.sharepoint.com/:p:/g/personal/cora_chen_ykpaoschool_cn/ES8-D2AEochFhwvz7-fL5GEBcfo7d_WIrNBgAdHDlG6BGA",
+	"today_snack": {
+		"Morning": "Samosa\n 咖喱角",
+		"Afternoon": "Fruit & Yoghurt\n水果 & 酸奶",
+		"Evening": null
+	},
+	"inspiration_type": null,
+	"inspiration_shared_by": null,
+	"inspiration_origin": null,
+	"inspiration_text": null,
+	"inspiration_image_data": null,
+	"inspiration_image_mime": null,
+	"on_this_day_html_en": null,
+	"on_this_day_html_zh": null,
+	"in_the_news_html_en": null,
+	"in_the_news_html_zh": null
+}
