@@ -1,0 +1,94 @@
+{
+	"stddate": "2025-02-21",
+	"community_time": [],
+	"days_after_this": -1,
+	"aod": "None",
+	"weekday_english": "Friday",
+	"weekdays_abbrev": [
+		"Fri",
+		"Sat",
+		"Sun",
+		"Mon"
+	],
+	"weekday_chinese": "周五",
+	"day_of_cycle": "A",
+	"today_breakfast": {
+		"Taste of Asia": [
+			"Seafood Pancake\n海鲜饼",
+			"Fried Glutinous Rice Ball With Sesame/stuffed Sticky Rice Ball\n麻球/手工粢饭团",
+			"Tea Egg\n茶叶蛋",
+			"Shrimp With Green Vegetables Congee\n青菜虾仁粥",
+			"Vegetable\n蔬菜"
+		],
+		"Eat Global": [
+			"Roasted Mushroom\n烤香菇",
+			"Baked Eggs With Cheese Sausage On Toast\n芝士香肠蔬菜吐司烘蛋",
+			"Oatmeal\n麦片粥",
+			"茄汁鹰嘴豆"
+		],
+		"Revolution Noodle": [
+			"Pork And Preserved Vegetable Noodles& Bean Curd\n雪菜肉丝面&素鸡"
+		],
+		"Piccola Italia": [
+			"Toast Selection\n混合吐司",
+			"Jam Selection\n果酱",
+			"Dried Soda Biscuit\n混合苏打饼干",
+			"Daily Cereal With Milk\n可可球，玉米片，葡萄干，蔓越莓干，牛奶"
+		],
+		"Self Pick-up": [
+			"Boiled Egg\n白煮蛋"
+		],
+		"Fruit/Drink": [
+			"Fruit/yogurt/yakult/milk/juice /soybean Milk\n水果/酸奶/养乐多/牛奶/果汁/豆浆"
+		]
+	},
+	"today_lunch": {
+		"Taste of Asia": [
+			"Shanghai Pork Chop Rice Cake\n上海排骨年糕",
+			"Fried Egg With Tomato\n西红柿炒蛋",
+			"Green Vegetables\n杭白菜",
+			"Green Beans\n青豆",
+			"Steamed Brown Rice\n米饭"
+		],
+		"Eat Global": [
+			"Chicken A La Portuguese\n葡国鸡",
+			"Green Vegetables\n杭白菜",
+			"Green Beans\n青豆",
+			"Bread\n多谷小球面包"
+		],
+		"Revolution Noodle": [
+			"Laksa\n叻沙面/鹌鹑蛋"
+		],
+		"Piccola Italia": [
+			"Beef Cannelloni\n牛肉芝士卷",
+			"Green Beans\n青豆"
+		],
+		"Vegetarian": [
+			"Vegetarian Huevos Rancheros\n素玉米卷"
+		],
+		"Daily Soup": [
+			"Elote Soup\n玉米浓汤"
+		],
+		"Dessert/Fruit/Drink": [
+			"Cheese Cake /fruit/yogurt/\nYakult/milk/juice\n芝士蛋糕/水果/酸奶/养乐多/牛奶/果汁"
+		]
+	},
+	"today_dinner": null,
+	"next_breakfast": null,
+	"the_week_ahead_url": "https://ykpaoschool-my.sharepoint.com/:p:/g/personal/cora_chen_ykpaoschool_cn/ES8-D2AEochFhwvz7-fL5GEBcfo7d_WIrNBgAdHDlG6BGA",
+	"today_snack": {
+		"Morning": " Doughnuts\n甜甜圈",
+		"Afternoon": null,
+		"Evening": null
+	},
+	"inspiration_type": null,
+	"inspiration_shared_by": null,
+	"inspiration_origin": null,
+	"inspiration_text": null,
+	"inspiration_image_data": null,
+	"inspiration_image_mime": null,
+	"on_this_day_html_en": null,
+	"on_this_day_html_zh": null,
+	"in_the_news_html_en": null,
+	"in_the_news_html_zh": null
+}
