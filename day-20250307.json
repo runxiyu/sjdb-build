@@ -1,0 +1,93 @@
+{
+	"stddate": "2025-03-07",
+	"community_time": [],
+	"days_after_this": -1,
+	"aod": "None",
+	"weekday_english": "Friday",
+	"weekdays_abbrev": [
+		"Fri",
+		"Sat",
+		"Sun",
+		"Mon"
+	],
+	"weekday_chinese": "周五",
+	"day_of_cycle": "E",
+	"today_breakfast": {
+		"Taste of Asia": [
+			"Shanghai Fried Pork Bun\n生煎包",
+			"Rice Roll (home-made）/pumpkin Pie\n手工滋饭团/南瓜饼",
+			"Tea Egg\n茶叶蛋",
+			"Chinese Yam And Jujube Congee\n山药红枣枸杞粥",
+			"Vegetable\n蔬菜"
+		],
+		"Eat Global": [
+			"Baked Tomato\n焗番茄",
+			"Shakshuka\n北非蛋",
+			"Prague Style Ham\n布拉格风味火腿",
+			"Oatmeal\n麦片粥",
+			"Corn\n玉米棒"
+		],
+		"Revolution Noodle": [
+			"Fried Chicken With Mushrooms Noodles\n蚝油双菇鸡片面"
+		],
+		"Piccola Italia": [
+			"Toast Selection\n吐司",
+			"Jam Selection\n果酱",
+			"Dried Soda Biscuit\n混合苏打饼干",
+			"Daily Cereal With Yougurt\n玉米片，葡萄干，蔓越莓干，酸奶",
+			"Boiled Egg\n白煮蛋"
+		],
+		"Self Pick-up": [
+			"Fruit/yogurt/yakult/milk/juice /soybean Milk\n水果/酸奶/养乐多/牛奶/果汁/豆浆"
+		],
+		"Fruit/Drink": []
+	},
+	"today_lunch": {
+		"Taste of Asia": [
+			"Braised Pork\n稻香扎肉",
+			"Organic Cauliflower With Chicken Slices\n干锅鸡肉有机花菜",
+			"Cowpea\n豇豆",
+			"Roasted Baby Cabbage\n烤娃娃菜",
+			"Steamed Brown Rice\n米饭"
+		],
+		"Eat Global": [
+			"Roasted Turkey\n香烤七面鸡",
+			"Roasted Baby Cabbage\n烤娃娃菜",
+			"Cowpea\n豇豆",
+			"Mashed Potatoes\n土豆泥"
+		],
+		"Revolution Noodle": [
+			"Shredded Duck Noodle Soup\n六安板鸭面/素鸡/青菜"
+		],
+		"Piccola Italia": [
+			"Beef Hamburger\n牛肉汉堡/薯条"
+		],
+		"Vegetarian": [
+			"Zucchini Pancakes\nWith Tomato Salsa\n西葫芦煎饼配番茄沙沙"
+		],
+		"Daily Soup": [
+			"Tom Yum Soup\n冬阴功汤"
+		],
+		"Dessert/Fruit/Drink": [
+			"Puffs /fruit/yogurt/yakult/milk/juice\n泡芙/水果/酸奶/养乐多/牛奶/果汁"
+		]
+	},
+	"today_dinner": null,
+	"next_breakfast": null,
+	"the_week_ahead_url": "https://ykpaoschool-my.sharepoint.com/:p:/g/personal/cora_chen_ykpaoschool_cn/ES8-D2AEochFhwvz7-fL5GEBcfo7d_WIrNBgAdHDlG6BGA",
+	"today_snack": {
+		"Morning": "Samosa\n 咖喱角",
+		"Afternoon": "Fruit & Yoghurt\n水果 & 酸奶",
+		"Evening": null
+	},
+	"inspiration_type": null,
+	"inspiration_shared_by": null,
+	"inspiration_origin": null,
+	"inspiration_text": null,
+	"inspiration_image_data": null,
+	"inspiration_image_mime": null,
+	"on_this_day_html_en": null,
+	"on_this_day_html_zh": null,
+	"in_the_news_html_en": null,
+	"in_the_news_html_zh": null
+}
