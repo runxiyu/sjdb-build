@@ -1,0 +1,8 @@
+#!/bin/sh
+
+. ~/.local/share/venv/bin/activate
+export PYTHONPATH="$HOME"/Programming/sjdb-src:"$PYTHONPATH"
+
+export PS1
+
+exec bash
