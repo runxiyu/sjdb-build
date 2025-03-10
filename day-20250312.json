@@ -1,0 +1,166 @@
+{
+	"stddate": "2025-03-12",
+	"community_time": [
+		[
+			"ZX Meeting with Mr Funnell",
+			"Mock Exams",
+			"ZX Meeting with Mr Funnell",
+			"Mock Exams"
+		],
+		[
+			"Follow-up day: 1. Reflect on the week's events; 2. Complete an activity addressing issues highlighted by Pulse or teacher observation.",
+			"Mock Exams",
+			"Follow-up day: 1. Reflect on the week's events; 2. Complete an activity addressing issues highlighted by Pulse or teacher observation.",
+			"Mock Exams"
+		]
+	],
+	"days_after_this": 1,
+	"aod": "Chris Warren/Alex Aristizabal",
+	"weekday_english": "Wednesday",
+	"weekdays_abbrev": [
+		"Wed",
+		"Thu",
+		"Fri",
+		"Sat",
+		"Sun",
+		"Mon"
+	],
+	"weekday_chinese": "周三",
+	"day_of_cycle": "B",
+	"today_breakfast": {
+		"Taste of Asia": [
+			"Bbq Pork Baozi\n叉烧包",
+			"Pumpkin Cake/pancake (home-made)\n南瓜饼/山东煎饼（纯手工）",
+			"Tea Egg\n茶叶蛋",
+			"Millet Congee\n小米粥",
+			"Vegetable\n蔬菜"
+		],
+		"Eat Global": [
+			"Roasted Mushroom\n烤白蘑菇",
+			"Ham With Egg And Cheese Croissant\n火腿鸡蛋芝士羊角",
+			"Milk Quinoa Congee\n牛奶藜麦粥",
+			"Baked Beans\n茄汁焗豆"
+		],
+		"Revolution Noodle": [
+			"Rice With Fried Ham And Scrambled Egg\n雪菜滑蛋火腿炒饭"
+		],
+		"Piccola Italia": [
+			"Toast Selection\n混合吐司",
+			"Jam Selection\n果酱",
+			"Dried Soda Biscuit\n混合苏打饼干",
+			"Daily Cereal With Milk\n脆圈圈，葡萄干，蔓越莓干，牛奶",
+			"Boiled Egg\n白煮蛋"
+		],
+		"Self Pick-up": [
+			"Fruit/yogurt/yakult/milk/juice /soybean Milk\n水果/酸奶/养乐多/牛奶/果汁/豆浆"
+		],
+		"Fruit/Drink": []
+	},
+	"today_lunch": {
+		"Taste of Asia": [
+			"Sausage, Vegetables And Rice\n香肠菜饭",
+			"Spicy Chicken With Chili\n椒麻辣子鸡",
+			"Green Vegetables\n菜心",
+			"Roasted Cabbage\n烤卷心菜",
+			"Steamed Rice\n米饭"
+		],
+		"Eat Global": [
+			"Stewed Pork\n红酒烩猪肉",
+			"Roasted Cabbage\n烤卷心菜",
+			"Green Vegetables\n菜心",
+			"Garlic Bread\n蒜香面包片"
+		],
+		"Revolution Noodle": [
+			"Noodles With Sliced Duck In Oyster Sauce\n蚝油鸭片拌面"
+		],
+		"Piccola Italia": [
+			"Pasta With Ham And Basil\n火腿罗勒意面"
+		],
+		"Vegetarian": [
+			"Vegetarian Fotiaoqiang\n素佛跳墙"
+		],
+		"Daily Soup": [
+			"Glutinous Rice Balls In Fermented Rice Wine\n酒酿圆子"
+		],
+		"Dessert/Fruit/Drink": [
+			"Apple Danish /fruit/yogurt/\nYakult/milk/juice\n苹果丹麦酥/水果/酸奶/养乐多/牛奶/果汁"
+		]
+	},
+	"today_dinner": {
+		"Taste of Asia": [
+			"Fried Shelled Shrimps With Dragon Well Tea\n西湖龙井虾仁",
+			"Yu-shiang Eggplant\n鱼香茄子",
+			"Green Vegetables\n青菜",
+			"Celery\n西芹条",
+			"Steamed Rice\n米饭"
+		],
+		"Eat Global": [
+			"Teriyaki Chicken\n照烧鸡腿排",
+			"Celery\n西芹条",
+			"Green Vegetables\n青菜",
+			"Jacket Potatoes\n开花土豆",
+			"Steamed Rice\n米饭"
+		],
+		"Revolution Noodle": [
+			"Spicy Wontons\n红油抄手"
+		],
+		"Piccola Italia": [
+			"Salami Pizza\n萨拉米芝士披萨"
+		],
+		"Vegetarian": [
+			"Vegetarian Lasagna                                                                                                                       \n 素千层面"
+		],
+		"Daily Soup": [
+			"Tomato And Egg Soup\n西红柿蛋汤"
+		],
+		"Dessert/Fruit/Drink": [
+			"Strawberry Swiss Roll /fruit/yogurt/yakult/milk/juice\n草莓瑞士卷/水果/酸奶/养乐多/牛奶/果汁"
+		]
+	},
+	"next_breakfast": {
+		"Taste of Asia": [
+			"Pork Patties\n猪肉饼（大葱）",
+			"Steamed Grain Bun\n荷叶夹饼",
+			"Preserved Vegetable With Egg\n外婆菜炒鸡蛋",
+			"Beef Mushroom Congee\n香菇牛肉粥",
+			"Vegetable\n蔬菜"
+		],
+		"Eat Global": [
+			"Sunny-side-up\n煎阳蛋",
+			"Pumpkin\n南瓜",
+			"Pan Fried Bacon\n煎培根",
+			"Oatmeal\n麦片粥",
+			"Pancake\n西式煎饼配枫糖浆"
+		],
+		"Revolution Noodle": [
+			"Small Pork Wontons\n鲜肉小馄饨"
+		],
+		"Piccola Italia": [
+			"Toast Selection\n混合吐司",
+			"Jam Selection\n果酱",
+			"Dried Soda Biscuit\n混合苏打饼干",
+			"Daily Cereal With Yougurt\n麦片，葡萄干，蔓越莓干，酸奶",
+			"Boiled Egg\n白煮蛋"
+		],
+		"Self Pick-up": [
+			"Fruit/yogurt/yakult/milk/juice /soybean Milk\n水果/酸奶/养乐多/牛奶/果汁/豆浆"
+		],
+		"Fruit/Drink": []
+	},
+	"the_week_ahead_url": "https://ykpaoschool-my.sharepoint.com/:p:/g/personal/cora_chen_ykpaoschool_cn/ES8-D2AEochFhwvz7-fL5GEBcfo7d_WIrNBgAdHDlG6BGA",
+	"today_snack": {
+		"Morning": "Roasted Bread With Bacon And Egg\n培根鸡蛋三明治",
+		"Afternoon": "Fruit & Chocolate Soy Milk\n水果 & 巧克力豆奶",
+		"Evening": null
+	},
+	"inspiration_type": null,
+	"inspiration_shared_by": null,
+	"inspiration_origin": null,
+	"inspiration_text": null,
+	"inspiration_image_data": null,
+	"inspiration_image_mime": null,
+	"on_this_day_html_en": null,
+	"on_this_day_html_zh": null,
+	"in_the_news_html_en": null,
+	"in_the_news_html_zh": null
+}

@@ -1,0 +1,500 @@
+{
+	"start_date": "2025-03-10",
+	"community_time": [
+		[
+			"Open Session for the Turor to plan an activity based on Pulse Data or teacher observation",
+			"Mock Exams",
+			"Y11 S1 Founders and Principals Awards",
+			"Mock Exams"
+		],
+		[
+			"Tutor Time",
+			"Mock Exams",
+			"Tutor Time",
+			"Mock Exams"
+		],
+		[
+			"ZX Meeting with Mr Funnell",
+			"Mock Exams",
+			"ZX Meeting with Mr Funnell",
+			"Mock Exams"
+		],
+		[
+			"Follow-up day: 1. Reflect on the week's events; 2. Complete an activity addressing issues highlighted by Pulse or teacher observation.",
+			"Mock Exams",
+			"Follow-up day: 1. Reflect on the week's events; 2. Complete an activity addressing issues highlighted by Pulse or teacher observation.",
+			"Mock Exams"
+		]
+	],
+	"aods": [
+		"Zang Na",
+		"Duncan Weller",
+		"Chris Warren/Alex Aristizabal",
+		"James Ogram/Iain Kilpatrick"
+	],
+	"menu": {
+		"Breakfast": {
+			"Mon": {
+				"Taste of Asia": [
+					"Meat Bun\n肉包",
+					"Beef Pancake\n牛肉馅饼",
+					"Fried Egg\n小葱炒鸡蛋",
+					"Pumpkin Congee\n南瓜粥",
+					"Vegetable\n蔬菜"
+				],
+				"Eat Global": [
+					"Roasted Needle Mushroom\n烤金针菇",
+					"Japanese Fried Dumpling\n日式猪肉煎饺",
+					"Cereal And Coix Congee\n麦片薏米粥",
+					"Radish\n日本大根"
+				],
+				"Revolution Noodle": [],
+				"Piccola Italia": [
+					"Toast Selection\n混合吐司",
+					"Jam Selection\n果酱",
+					"Daily Cereal With Milk\n可可求，葡萄干，蔓越莓干，芝麻饼干",
+					"Boiled Egg\n白煮蛋"
+				],
+				"Self Pick-up": [
+					"Fruit/yogurt/yakult/milk/juice /soybean Milk\n水果/酸奶/养乐多/牛奶/果汁/豆浆"
+				],
+				"Fruit/Drink": []
+			},
+			"Tue": {
+				"Taste of Asia": [
+					"Steamed Dumplings\n沙县蒸饺",
+					"Mushroom And Green Vegetable Bun\n香菇青菜包",
+					"Steamed Egg\n蒸鸡蛋",
+					"Minced Pork Congee\n皮蛋瘦肉粥",
+					"Vegetable\n蔬菜"
+				],
+				"Eat Global": [
+					"Tomato & Cheese Omelet\n番茄洋葱芝士炒鸡蛋",
+					"Taro\n香芋",
+					"Pork Sausage\n煎猪肉早餐肠",
+					"Oatmeal\n麦片粥",
+					"Hash Browns\n薯饼"
+				],
+				"Revolution Noodle": [
+					"Pork Dumplings\n猪肉白菜水饺"
+				],
+				"Piccola Italia": [
+					"Toast Selection\n混合吐司",
+					"Jam Selection\n果酱",
+					"Dried Soda Biscuit\n混合苏打饼干",
+					"Daily Cereal With Yougurt\n玉米片，葡萄干，蔓越莓干，酸奶",
+					"Boiled Egg\n白煮蛋"
+				],
+				"Self Pick-up": [
+					"Fruit/yogurt/yakult/milk/juice /soybean Milk\n水果/酸奶/养乐多/牛奶/果汁/豆浆"
+				],
+				"Fruit/Drink": []
+			},
+			"Wed": {
+				"Taste of Asia": [
+					"Bbq Pork Baozi\n叉烧包",
+					"Pumpkin Cake/pancake (home-made)\n南瓜饼/山东煎饼（纯手工）",
+					"Tea Egg\n茶叶蛋",
+					"Millet Congee\n小米粥",
+					"Vegetable\n蔬菜"
+				],
+				"Eat Global": [
+					"Roasted Mushroom\n烤白蘑菇",
+					"Ham With Egg And Cheese Croissant\n火腿鸡蛋芝士羊角",
+					"Milk Quinoa Congee\n牛奶藜麦粥",
+					"Baked Beans\n茄汁焗豆"
+				],
+				"Revolution Noodle": [
+					"Rice With Fried Ham And Scrambled Egg\n雪菜滑蛋火腿炒饭"
+				],
+				"Piccola Italia": [
+					"Toast Selection\n混合吐司",
+					"Jam Selection\n果酱",
+					"Dried Soda Biscuit\n混合苏打饼干",
+					"Daily Cereal With Milk\n脆圈圈，葡萄干，蔓越莓干，牛奶",
+					"Boiled Egg\n白煮蛋"
+				],
+				"Self Pick-up": [
+					"Fruit/yogurt/yakult/milk/juice /soybean Milk\n水果/酸奶/养乐多/牛奶/果汁/豆浆"
+				],
+				"Fruit/Drink": []
+			},
+			"Thu": {
+				"Taste of Asia": [
+					"Pork Patties\n猪肉饼（大葱）",
+					"Steamed Grain Bun\n荷叶夹饼",
+					"Preserved Vegetable With Egg\n外婆菜炒鸡蛋",
+					"Beef Mushroom Congee\n香菇牛肉粥",
+					"Vegetable\n蔬菜"
+				],
+				"Eat Global": [
+					"Sunny-side-up\n煎阳蛋",
+					"Pumpkin\n南瓜",
+					"Pan Fried Bacon\n煎培根",
+					"Oatmeal\n麦片粥",
+					"Pancake\n西式煎饼配枫糖浆"
+				],
+				"Revolution Noodle": [
+					"Small Pork Wontons\n鲜肉小馄饨"
+				],
+				"Piccola Italia": [
+					"Toast Selection\n混合吐司",
+					"Jam Selection\n果酱",
+					"Dried Soda Biscuit\n混合苏打饼干",
+					"Daily Cereal With Yougurt\n麦片，葡萄干，蔓越莓干，酸奶",
+					"Boiled Egg\n白煮蛋"
+				],
+				"Self Pick-up": [
+					"Fruit/yogurt/yakult/milk/juice /soybean Milk\n水果/酸奶/养乐多/牛奶/果汁/豆浆"
+				],
+				"Fruit/Drink": []
+			},
+			"Fri": {
+				"Taste of Asia": [
+					"Steamed Rice Rolls\n广式肠粉",
+					"Smashed Bean Bun/shanghai Egg Cake (home-made)\n豆沙包/ 上海手工鸡蛋饼",
+					"Deep-fried Boiled Egg\n虎皮鸡蛋",
+					"Sweet Potato Congee\n红薯粥",
+					"Vegetable\n蔬菜"
+				],
+				"Eat Global": [
+					"Bake The Broccoli\n烤西兰花",
+					"Beef & Cheese Panini\n牛肉芝士三明治",
+					"Cereal And Coix Congee\n麦片小米粥",
+					"Brazil Black Bean\n巴西黑豆"
+				],
+				"Revolution Noodle": [
+					"Fried Rice Cake With Chinese Cabbage And Pork\n大白菜猪肉炒年糕"
+				],
+				"Piccola Italia": [
+					"Toast Selection\n混合吐司",
+					"Jam Selection\n果酱",
+					"Dried Soda Biscuit\n混合苏打饼干",
+					"Daily Cereal With Milk\n卜卜米，葡萄干，蔓越莓干，牛奶",
+					"Boiled Egg\n白煮蛋"
+				],
+				"Self Pick-up": [
+					"Fruit/yogurt/yakult/milk/juice /soybean Milk\n水果/酸奶/养乐多/牛奶/果汁/豆浆"
+				],
+				"Fruit/Drink": []
+			}
+		},
+		"Lunch": {
+			"Mon": {
+				"Taste of Asia": [
+					"Nanjing Salted Duck\n南京盐水鸭",
+					"Stir-fried Tofu\n麻辣豆腐",
+					"Green Vegetables\n青菜",
+					"Baked Cauliflower With Cheese\n芝士焗花菜",
+					"Steamed Rice\n米饭"
+				],
+				"Eat Global": [
+					"Grilled Basa Fish With Mojo Verde Sauce\n香煎芝士鱼排配莫霍维德酱",
+					"Baked Cauliflower With Cheese\n芝士焗花菜",
+					"Green Vegetables\n青菜",
+					"Baby Potatoes\n黄油烤小土豆"
+				],
+				"Revolution Noodle": [
+					"Sichuan Style Stew Pork Noodles\n回锅肉面/百叶结"
+				],
+				"Piccola Italia": [
+					"Chicken Enchiladas\n墨西哥鸡肉玉米卷饼"
+				],
+				"Vegetarian": [
+					"Green Pea Risotto\n青豆意大利米饭"
+				],
+				"Daily Soup": [
+					"Preserved Vegetable With Egg Soup\n榨菜蛋汤"
+				],
+				"Dessert/Fruit/Drink": [
+					"Cake/fruit/yogurt/\nYakult/milk/juice\n大理石蛋糕/水果/酸奶/养乐多/牛奶/果汁"
+				]
+			},
+			"Tue": {
+				"Taste of Asia": [
+					"Spicy Base Shrimp\n香辣基围虾",
+					"Fried Minced Chicken With Kale And Asparagus\n鸡丝橄榄莴笋丝",
+					"Cabbage\n牛心菜",
+					"Carrots\n胡萝卜",
+					"Steamed Rice\n米饭"
+				],
+				"Eat Global": [
+					"Maple Roast Chicken Whole Wings\n枫糖烤鸡全翅",
+					"Carrots\n胡萝卜",
+					"Cabbage\n牛心菜",
+					"Baked Pumpkin\n烤南瓜"
+				],
+				"Revolution Noodle": [
+					"Biangbiang(lamb) Noodles\nBiangbiang（羊肉）面/鹌鹑蛋"
+				],
+				"Piccola Italia": [
+					"Fried Duck And Beetroot Sandwich\n鸭肉甜菜根芝麻菜三明治"
+				],
+				"Vegetarian": [
+					"Braised Bean Curd With Spinach And Rice\n素鸭配菠菜米饭"
+				],
+				"Daily Soup": [
+					"Pumpkin Soup                                                                                                                                     南瓜汤"
+				],
+				"Dessert/Fruit/Drink": [
+					"Biscuit/fruit/yogurt/\nYakult/milk/juice\n黄油巧克力饼干/水果/酸奶/养乐多/牛奶/果汁"
+				]
+			},
+			"Wed": {
+				"Taste of Asia": [
+					"Sausage, Vegetables And Rice\n香肠菜饭",
+					"Spicy Chicken With Chili\n椒麻辣子鸡",
+					"Green Vegetables\n菜心",
+					"Roasted Cabbage\n烤卷心菜",
+					"Steamed Rice\n米饭"
+				],
+				"Eat Global": [
+					"Stewed Pork\n红酒烩猪肉",
+					"Roasted Cabbage\n烤卷心菜",
+					"Green Vegetables\n菜心",
+					"Garlic Bread\n蒜香面包片"
+				],
+				"Revolution Noodle": [
+					"Noodles With Sliced Duck In Oyster Sauce\n蚝油鸭片拌面"
+				],
+				"Piccola Italia": [
+					"Pasta With Ham And Basil\n火腿罗勒意面"
+				],
+				"Vegetarian": [
+					"Vegetarian Fotiaoqiang\n素佛跳墙"
+				],
+				"Daily Soup": [
+					"Glutinous Rice Balls In Fermented Rice Wine\n酒酿圆子"
+				],
+				"Dessert/Fruit/Drink": [
+					"Apple Danish /fruit/yogurt/\nYakult/milk/juice\n苹果丹麦酥/水果/酸奶/养乐多/牛奶/果汁"
+				]
+			},
+			"Thu": {
+				"Taste of Asia": [
+					"Fish Fillet With Pickled Cabbage\n酸菜鱼片",
+					"Fried Sliced Pork With Vegetables\n农家小炒肉",
+					"Green Vegetable\n杭白菜",
+					"Sauerkrauts\n酸椰菜",
+					"Steamed Brown Rice\n米饭"
+				],
+				"Eat Global": [
+					"German-style Sausage\n德式香肠",
+					"Sauerkrauts\n酸椰菜",
+					"Green Vegetable\n杭白菜",
+					"Mash Potatoes\n土豆泥"
+				],
+				"Revolution Noodle": [
+					"Braised Pork Noodles\n焖肉面/素鸡"
+				],
+				"Piccola Italia": [
+					"Deep Fried Chicken\n脆皮炸鸡腿配玉米饼"
+				],
+				"Vegetarian": [
+					"Mediterranean Quiche/sautéed Green Peas With Onions\n地中海乳蛋饼/炒洋葱青豆"
+				],
+				"Daily Soup": [
+					"Russian Beef Soup                                                                                                                           俄式牛肉汤"
+				],
+				"Dessert/Fruit/Drink": [
+					"Cheese Cake/fruit/yogurt/\nYakult/milk/juice\n芝士蛋糕/水果/酸奶/养乐多/牛奶/果汁"
+				]
+			},
+			"Fri": {
+				"Taste of Asia": [
+					"Braised Pork With Radish\n萝卜烧肉",
+					"Stir-fried Eggs With Tomato\n番茄炒鸡蛋",
+					"Spinach\n菠菜",
+					"Roasted Eggplant And Bell Pepper\n炭烤茄子配甜椒",
+					"Steamed Rice\n米饭"
+				],
+				"Eat Global": [
+					"Japan Beef Bibimbap\n日式牛肉拌饭（加25元/位学生）"
+				],
+				"Revolution Noodle": [
+					"Seafood Noodles\n海鲜面/白煮蛋"
+				],
+				"Piccola Italia": [
+					"Tomato Parmesan Chicken Steak With Spaghetti\n番茄帕玛森鸡排配意面"
+				],
+				"Vegetarian": [
+					"Falafel & Pita Bread\n法拉法，皮塔面包"
+				],
+				"Daily Soup": [
+					"Seaweed Soup With Egg And Pork\n紫菜肉丝蛋汤"
+				],
+				"Dessert/Fruit/Drink": [
+					"Brownie /fruit/yogurt/\nYakult/milk/juice\n布朗尼 /水果/酸奶/养乐多/牛奶/果汁"
+				]
+			}
+		},
+		"Dinner": {
+			"Mon": {
+				"Taste of Asia": [
+					"Braised Pork Rice\n卤肉饭/卤蛋",
+					"Shredded Chicken With Kelp\n海带鸡丝",
+					"Green Vegetables\n杭白菜",
+					"Roasted Zucchini\n烤西葫芦",
+					"Steamed Rice\n米饭"
+				],
+				"Eat Global": [
+					"Duck Confit\n法式油封鸭腿",
+					"Roasted Zucchini\n烤西葫芦",
+					"Green Vegetables\n杭白菜",
+					"Butter Corn\n黄油玉米",
+					"Steamed Rice\n米饭"
+				],
+				"Revolution Noodle": [
+					"Deep Fried Fish Noodles\n苏式爆鱼面/卤蛋"
+				],
+				"Piccola Italia": [
+					"Tomato & Pork Ball Pasta\n意大利面配番茄肉丸"
+				],
+				"Vegetarian": [
+					"Spanish Mushroom Cheese Roll                                                                                                                       菠菜蘑菇芝士卷"
+				],
+				"Daily Soup": [
+					"Bean Curd Soup With Shepherd's Purse\n荠菜豆腐羹"
+				],
+				"Dessert/Fruit/Drink": [
+					"Chocolate Cake\n/fruit/yogurt/yakult/milk/juice\n巧克力蛋糕/水果/酸奶/养乐多/牛奶/果汁"
+				]
+			},
+			"Tue": {
+				"Taste of Asia": [
+					"Braised Chicken With Mushrooms\n小鸡炖蘑菇",
+					"Stir-fried Eggs With Tomato\n番茄炒鸡蛋",
+					"Canola\n油麦菜",
+					"Purple Cabbage\n紫甘蓝",
+					"Corn Rice\n玉米饭"
+				],
+				"Eat Global": [
+					"Deep Fried Fish\n英式炸鱼",
+					"Purple Cabbage\n紫甘蓝",
+					"Canola\n油麦菜",
+					"French Fries\n薯条",
+					"Steamed Rice\n米饭"
+				],
+				"Revolution Noodle": [
+					"Braised Duck Noodles\n酱鸭面/卤干"
+				],
+				"Piccola Italia": [
+					"Grill Creamy Chicken Pasta\n烤意面配奶油汁鸡肉"
+				],
+				"Vegetarian": [
+					"Vegetarian Spicy Tofu& Fried Rice With Chive\n麻辣豆腐（植物肉）配小葱炒饭"
+				],
+				"Daily Soup": [
+					"Chicken Tortilla Soup\n鸡肉饼皮汤"
+				],
+				"Dessert/Fruit/Drink": [
+					"Bread And Peach Pudding\n/fruit/yogurt/yakult/milk/juice\n面包黄桃布丁/水果/酸奶/养乐多/牛奶/果汁"
+				]
+			},
+			"Wed": {
+				"Taste of Asia": [
+					"Fried Shelled Shrimps With Dragon Well Tea\n西湖龙井虾仁",
+					"Yu-shiang Eggplant\n鱼香茄子",
+					"Green Vegetables\n青菜",
+					"Celery\n西芹条",
+					"Steamed Rice\n米饭"
+				],
+				"Eat Global": [
+					"Teriyaki Chicken\n照烧鸡腿排",
+					"Celery\n西芹条",
+					"Green Vegetables\n青菜",
+					"Jacket Potatoes\n开花土豆",
+					"Steamed Rice\n米饭"
+				],
+				"Revolution Noodle": [
+					"Spicy Wontons\n红油抄手"
+				],
+				"Piccola Italia": [
+					"Salami Pizza\n萨拉米芝士披萨"
+				],
+				"Vegetarian": [
+					"Vegetarian Lasagna                                                                                                                       \n 素千层面"
+				],
+				"Daily Soup": [
+					"Tomato And Egg Soup\n西红柿蛋汤"
+				],
+				"Dessert/Fruit/Drink": [
+					"Strawberry Swiss Roll /fruit/yogurt/yakult/milk/juice\n草莓瑞士卷/水果/酸奶/养乐多/牛奶/果汁"
+				]
+			},
+			"Thu": {
+				"Taste of Asia": [
+					"Curry Chicken\n咖喱鸡块",
+					"Stir-fried Pork Slices With Wild Water Shoots\n茭白炒猪肉片",
+					"Lettuce\n生菜",
+					"Radish\n萝卜",
+					"Peas Rice\n青豆饭"
+				],
+				"Eat Global": [
+					"Vienna Style Pork\n维也纳烤猪肉",
+					"Radish\n萝卜",
+					"Lettuce\n生菜",
+					"Baked Purple Sweet Potato With Cheese\n香烤芝士紫薯块",
+					"Steamed Rice\n米饭"
+				],
+				"Revolution Noodle": [
+					"Spicy Beef  Noodles\n香辣牛肉面/油豆腐"
+				],
+				"Piccola Italia": [
+					"Chorizo Risotto\n西班牙香肠烩饭"
+				],
+				"Vegetarian": [
+					"Bean Curd With Cucumber, Carrots, Beansprouts, Multigrain Rice                                                                                                           三丝拌云丝配混合谷物"
+				],
+				"Daily Soup": [
+					"Onion Soup\n法式洋葱汤"
+				],
+				"Dessert/Fruit/Drink": [
+					"Sesame Cake\n/fruit/yogurt/yakult/milk/juice  原味桃酥/水果/酸奶/养乐多/牛奶/果汁"
+				]
+			},
+			"Sun": {
+				"Taste of Asia": [
+					"Chongqing Spicy Chicken\n重庆鸡公煲",
+					"Shredded Squid With Celery\n芹菜鱿鱼",
+					"Choy Sum\n广东菜心",
+					"Fried Cowpeas\n扒豇豆",
+					"Steamed Rice\n米饭"
+				],
+				"Eat Global": [
+					"Hungary Braised Pork With Tomato\n番茄烩猪肉",
+					"Choy Sum\n广东菜心",
+					"Fried Cowpeas\n扒豇豆",
+					"Buttered Baby Potato\n黄油小土豆",
+					"Rice\n米饭"
+				],
+				"Revolution Noodle": [],
+				"Piccola Italia": [],
+				"Vegetarian": [],
+				"Daily Soup": [
+					"Chinese Cabbage And Vermicelli Soup\n大白菜粉丝汤"
+				],
+				"Dessert/Fruit/Drink": [
+					"Orange Cake\n/fruit/yogurt/yakult/milk/juice\n橙味蛋糕/水果/酸奶/养乐多/牛奶/果汁"
+				]
+			}
+		}
+	},
+	"snacks": {
+		"Morning": [
+			"Spring Roll\n春卷",
+			"Sesame Pastry\n芝麻饼",
+			"Roasted Bread With Bacon And Egg\n培根鸡蛋三明治",
+			"Banana Cupcakes\n香蕉纸杯蛋糕",
+			"Chocolate Roll\n巧克力卷"
+		],
+		"Afternoon": [
+			"Fruit & Fruit Yoghurt\n水果 & 果味酸奶",
+			"Fruit & Yoghurt\n水果 & 酸奶",
+			"Fruit & Chocolate Soy Milk\n水果 & 巧克力豆奶",
+			"Fruit & Yoghurt\n水果 & 酸奶",
+			null
+		],
+		"Evening": ""
+	}
+}
