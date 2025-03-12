@@ -1,0 +1,159 @@
+{
+	"stddate": "2025-03-13",
+	"community_time": [
+		[
+			"Follow-up day: 1. Reflect on the week's events; 2. Complete an activity addressing issues highlighted by Pulse or teacher observation.",
+			"Mock Exams",
+			"Follow-up day: 1. Reflect on the week's events; 2. Complete an activity addressing issues highlighted by Pulse or teacher observation.",
+			"Mock Exams"
+		]
+	],
+	"days_after_this": 0,
+	"aod": "James Ogram/Iain Kilpatrick",
+	"weekday_english": "Thursday",
+	"weekdays_abbrev": [
+		"Thu",
+		"Fri",
+		"Sat",
+		"Sun",
+		"Mon"
+	],
+	"weekday_chinese": "周四",
+	"day_of_cycle": "C",
+	"today_breakfast": {
+		"Taste of Asia": [
+			"Pork Patties\n猪肉饼（大葱）",
+			"Steamed Grain Bun\n荷叶夹饼",
+			"Preserved Vegetable With Egg\n外婆菜炒鸡蛋",
+			"Beef Mushroom Congee\n香菇牛肉粥",
+			"Vegetable\n蔬菜"
+		],
+		"Eat Global": [
+			"Sunny-side-up\n煎阳蛋",
+			"Pumpkin\n南瓜",
+			"Pan Fried Bacon\n煎培根",
+			"Oatmeal\n麦片粥",
+			"Pancake\n西式煎饼配枫糖浆"
+		],
+		"Revolution Noodle": [
+			"Small Pork Wontons\n鲜肉小馄饨"
+		],
+		"Piccola Italia": [
+			"Toast Selection\n混合吐司",
+			"Jam Selection\n果酱",
+			"Dried Soda Biscuit\n混合苏打饼干",
+			"Daily Cereal With Yougurt\n麦片，葡萄干，蔓越莓干，酸奶",
+			"Boiled Egg\n白煮蛋"
+		],
+		"Self Pick-up": [
+			"Fruit/yogurt/yakult/milk/juice /soybean Milk\n水果/酸奶/养乐多/牛奶/果汁/豆浆"
+		],
+		"Fruit/Drink": []
+	},
+	"today_lunch": {
+		"Taste of Asia": [
+			"Fish Fillet With Pickled Cabbage\n酸菜鱼片",
+			"Fried Sliced Pork With Vegetables\n农家小炒肉",
+			"Green Vegetable\n杭白菜",
+			"Sauerkrauts\n酸椰菜",
+			"Steamed Brown Rice\n米饭"
+		],
+		"Eat Global": [
+			"German-style Sausage\n德式香肠",
+			"Sauerkrauts\n酸椰菜",
+			"Green Vegetable\n杭白菜",
+			"Mash Potatoes\n土豆泥"
+		],
+		"Revolution Noodle": [
+			"Braised Pork Noodles\n焖肉面/素鸡"
+		],
+		"Piccola Italia": [
+			"Deep Fried Chicken\n脆皮炸鸡腿配玉米饼"
+		],
+		"Vegetarian": [
+			"Mediterranean Quiche/sautéed Green Peas With Onions\n地中海乳蛋饼/炒洋葱青豆"
+		],
+		"Daily Soup": [
+			"Russian Beef Soup                                                                                                                           俄式牛肉汤"
+		],
+		"Dessert/Fruit/Drink": [
+			"Cheese Cake/fruit/yogurt/\nYakult/milk/juice\n芝士蛋糕/水果/酸奶/养乐多/牛奶/果汁"
+		]
+	},
+	"today_dinner": {
+		"Taste of Asia": [
+			"Curry Chicken\n咖喱鸡块",
+			"Stir-fried Pork Slices With Wild Water Shoots\n茭白炒猪肉片",
+			"Lettuce\n生菜",
+			"Radish\n萝卜",
+			"Peas Rice\n青豆饭"
+		],
+		"Eat Global": [
+			"Vienna Style Pork\n维也纳烤猪肉",
+			"Radish\n萝卜",
+			"Lettuce\n生菜",
+			"Baked Purple Sweet Potato With Cheese\n香烤芝士紫薯块",
+			"Steamed Rice\n米饭"
+		],
+		"Revolution Noodle": [
+			"Spicy Beef  Noodles\n香辣牛肉面/油豆腐"
+		],
+		"Piccola Italia": [
+			"Chorizo Risotto\n西班牙香肠烩饭"
+		],
+		"Vegetarian": [
+			"Bean Curd With Cucumber, Carrots, Beansprouts, Multigrain Rice                                                                                                           三丝拌云丝配混合谷物"
+		],
+		"Daily Soup": [
+			"Onion Soup\n法式洋葱汤"
+		],
+		"Dessert/Fruit/Drink": [
+			"Sesame Cake\n/fruit/yogurt/yakult/milk/juice  原味桃酥/水果/酸奶/养乐多/牛奶/果汁"
+		]
+	},
+	"next_breakfast": {
+		"Taste of Asia": [
+			"Steamed Rice Rolls\n广式肠粉",
+			"Smashed Bean Bun/shanghai Egg Cake (home-made)\n豆沙包/ 上海手工鸡蛋饼",
+			"Deep-fried Boiled Egg\n虎皮鸡蛋",
+			"Sweet Potato Congee\n红薯粥",
+			"Vegetable\n蔬菜"
+		],
+		"Eat Global": [
+			"Bake The Broccoli\n烤西兰花",
+			"Beef & Cheese Panini\n牛肉芝士三明治",
+			"Cereal And Coix Congee\n麦片小米粥",
+			"Brazil Black Bean\n巴西黑豆"
+		],
+		"Revolution Noodle": [
+			"Fried Rice Cake With Chinese Cabbage And Pork\n大白菜猪肉炒年糕"
+		],
+		"Piccola Italia": [
+			"Toast Selection\n混合吐司",
+			"Jam Selection\n果酱",
+			"Dried Soda Biscuit\n混合苏打饼干",
+			"Daily Cereal With Milk\n卜卜米，葡萄干，蔓越莓干，牛奶",
+			"Boiled Egg\n白煮蛋"
+		],
+		"Self Pick-up": [
+			"Fruit/yogurt/yakult/milk/juice /soybean Milk\n水果/酸奶/养乐多/牛奶/果汁/豆浆"
+		],
+		"Fruit/Drink": []
+	},
+	"the_week_ahead_url": "https://ykpaoschool-my.sharepoint.com/:p:/g/personal/cora_chen_ykpaoschool_cn/ES8-D2AEochFhwvz7-fL5GEBcfo7d_WIrNBgAdHDlG6BGA",
+	"today_snack": {
+		"Morning": "Banana Cupcakes\n香蕉纸杯蛋糕",
+		"Afternoon": "Fruit & Yoghurt\n水果 & 酸奶",
+		"Evening": null
+	},
+	"inspiration_type": null,
+	"inspiration_shared_by": null,
+	"inspiration_origin": null,
+	"inspiration_text": null,
+	"inspiration_image_data": null,
+	"inspiration_image_mime": null,
+	"on_this_day_html_en": null,
+	"on_this_day_html_zh": null,
+	"in_the_news_html_en": null,
+	"in_the_news_html_zh": null
+}
