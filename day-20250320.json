@@ -1,0 +1,157 @@
+{
+	"stddate": "2025-03-20",
+	"community_time": [
+		[
+			"Follow-up day: 1. Reflect on the week's events; 2. Complete an activity addressing issues highlighted by Pulse or teacher observation.",
+			"Mock Exams",
+			"Follow-up day: 1. Reflect on the week's events; 2. Complete an activity addressing issues highlighted by Pulse or teacher observation.",
+			"Mock Exams"
+		]
+	],
+	"days_after_this": 0,
+	"aod": "James Ogram/Iain Kilpatrick",
+	"weekday_english": "Thursday",
+	"weekdays_abbrev": [
+		"Thu",
+		"Fri",
+		"Sat",
+		"Sun",
+		"Mon"
+	],
+	"weekday_chinese": "周四",
+	"day_of_cycle": "B",
+	"today_breakfast": {
+		"Taste of Asia": [
+			"Marinated Meat In Baked Bun\n陕西肉夹馍",
+			"Steamed Jiaozi\n猪肉玉米蒸饺",
+			"Fried Egg\n小葱炒鸡蛋",
+			"Mushroom And Fish Congee\n香菇鱼片粥",
+			"Vegetable\n蔬菜"
+		],
+		"Eat Global": [
+			"Fried Eggs Over Easy\n双面煎嫩蛋",
+			"Purple Potato\n紫薯",
+			"Spain Sausage\n香煎西班牙香肠",
+			"Cereal And Coix Congee\n麦片薏仁粥",
+			"Pancake\n西式煎饼"
+		],
+		"Revolution Noodle": [
+			"Hong Kong Style Pineapple And Egg Fried Rice\n港式菠萝蛋炒饭"
+		],
+		"Piccola Italia": [
+			"Toast Selection\n全麦吐司",
+			"Jam Selection\n果酱",
+			"Dried Soda Biscuit\n混合苏打饼干",
+			"Daily Cereal With Yougurt\n麦片，葡萄干，蔓越莓干，酸奶"
+		],
+		"Self Pick-up": [
+			"Fruit/yogurt/yakult/milk/juice /soybean Milk\n水果/酸奶/养乐多/牛奶/果汁/豆浆"
+		],
+		"Fruit/Drink": []
+	},
+	"today_lunch": {
+		"Taste of Asia": [
+			"Stewed Ham And Bamboo Shoots In Soup\n腌笃鲜",
+			"Spicy Tofu\n麻辣豆腐",
+			"Spinach\n菠菜",
+			"Roasted Tomato And Asparagus\n烤番茄芦笋",
+			"Steamed Rice\n米饭"
+		],
+		"Eat Global": [
+			"Fried Fish Fillet\nWith Cheese Tar-tar Sauce\n芝士煎鱼排配塔塔汁",
+			"Roasted Tomato And Asparagus\n烤番茄芦笋",
+			"Spinach\n菠菜",
+			"Cream Cheese Potato Chips\n奶油芝士土豆片"
+		],
+		"Revolution Noodle": [
+			"Noodles With Chicken And Mushrooms\n特色鸡丝香菇面/素鸡"
+		],
+		"Piccola Italia": [
+			"Moussaka\n希腊茄盒"
+		],
+		"Vegetarian": [
+			"Clover Cake\n草头饼"
+		],
+		"Daily Soup": [
+			"Pork Rib And Turnip Soup\n韩式萝卜排骨汤"
+		],
+		"Dessert/Fruit/Drink": [
+			"Cake/fruit/yogurt/\nyakult/milk/juice\n蛋糕/水果/酸奶/养乐多/\n牛奶/果汁"
+		]
+	},
+	"today_dinner": {
+		"Taste of Asia": [
+			"Stewed Fish Fillets With Shepherd's Purse\n荠菜木耳烩鱼片",
+			"Eggplant With Minced Pork\n肉沫茄子",
+			"Lettuce\n生菜",
+			"Grilled Peppers\n煎甜椒",
+			"Steamed Rice\n米饭"
+		],
+		"Eat Global": [
+			"Potato And Sausage Casserole\n爱尔兰土豆香肠砂锅",
+			"Grilled Peppers\n煎甜椒",
+			"Lettuce\n生菜",
+			"Cream Corn Cob\n奶油玉米棒"
+		],
+		"Revolution Noodle": [
+			"Celery And Pork Dumplings\n芹菜猪肉饺子/卤鸡蛋"
+		],
+		"Piccola Italia": [
+			"Baked Pasta With Chicken Sauce\n焗意面配鸡肉酱"
+		],
+		"Vegetarian": [
+			"Fried Rice Noodles Wit Beans Sprouts, Egg\n豆芽鸡蛋炒河粉"
+		],
+		"Daily Soup": [
+			"Miso Soup\n味增汤"
+		],
+		"Dessert/Fruit/Drink": [
+			"Carrot Cake/fruit/yogurt/\nYakult/milk/juice\n胡萝卜蛋糕 /水果/酸奶/牛奶/果汁"
+		]
+	},
+	"next_breakfast": {
+		"Taste of Asia": [
+			"Egg With Leeks Pancake\n韭菜鸡蛋盒子",
+			"Smashed Bean Bun/rice Roll (home-made)\n豆沙包/ 上海手工滋饭团",
+			"Fried Egg\n煎鸡蛋",
+			"Soybean Jelly\n豆腐花",
+			"Vegetable\n蔬菜"
+		],
+		"Eat Global": [
+			"Roasted Tomatos\n烤番茄",
+			"Italian Bacon Frittata\n意式培根烘蛋",
+			"Potatoes\n土豆",
+			"Oatmeal\n麦片粥",
+			"Brioche\n法国黄油面包"
+		],
+		"Revolution Noodle": [
+			"Dumplings\n鸡汤小馄饨"
+		],
+		"Piccola Italia": [
+			"Toast Selection\n全麦吐司",
+			"Jam Selection\n果酱",
+			"Dried Soda Biscuit\n混合苏打饼干",
+			"Daily Cereal With Milk\n卜卜米，葡萄干，蔓越莓干，牛奶"
+		],
+		"Self Pick-up": [
+			"Fruit/yogurt/yakult/milk/juice /soybean Milk\n水果/酸奶/养乐多/牛奶/果汁/豆浆"
+		],
+		"Fruit/Drink": []
+	},
+	"the_week_ahead_url": "https://ykpaoschool-my.sharepoint.com/:p:/g/personal/cora_chen_ykpaoschool_cn/ES8-D2AEochFhwvz7-fL5GEBcfo7d_WIrNBgAdHDlG6BGA",
+	"today_snack": {
+		"Morning": " Chicken Wrap\n墨西哥鸡肉卷",
+		"Afternoon": "Fruit & Yoghurt\n水果 & 酸奶",
+		"Evening": null
+	},
+	"inspiration_type": null,
+	"inspiration_shared_by": null,
+	"inspiration_origin": null,
+	"inspiration_text": null,
+	"inspiration_image_data": null,
+	"inspiration_image_mime": null,
+	"on_this_day_html_en": null,
+	"on_this_day_html_zh": null,
+	"in_the_news_html_en": null,
+	"in_the_news_html_zh": null
+}

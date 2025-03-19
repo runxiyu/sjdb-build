@@ -1,0 +1,169 @@
+{
+	"stddate": "2025-03-18",
+	"community_time": [
+		[
+			"Tutor Time",
+			"Mock Exams",
+			"Tutor Time",
+			"Mock Exams"
+		],
+		[
+			"Dean's Forum (Auditorium)",
+			"Mock Exams",
+			"HOH Tutor Time (incl. Tutors &Tutees)-Student Survey Focus Group",
+			"Mock Exams"
+		],
+		[
+			"Follow-up day: 1. Reflect on the week's events; 2. Complete an activity addressing issues highlighted by Pulse or teacher observation.",
+			"Mock Exams",
+			"Follow-up day: 1. Reflect on the week's events; 2. Complete an activity addressing issues highlighted by Pulse or teacher observation.",
+			"Mock Exams"
+		]
+	],
+	"days_after_this": 2,
+	"aod": "Duncan Weller",
+	"weekday_english": "Tuesday",
+	"weekdays_abbrev": [
+		"Tue",
+		"Wed",
+		"Thu",
+		"Fri",
+		"Sat",
+		"Sun",
+		"Mon"
+	],
+	"weekday_chinese": "周二",
+	"day_of_cycle": "F",
+	"today_breakfast": {
+		"Taste of Asia": [
+			"Shanghai Scallion Pancake\n老上海葱油饼",
+			"Green Vegetable Mushroom Bun\n香菇青菜包",
+			"Tea Egg\n茶叶蛋",
+			"Pork Egg Congee\n猪肉鸡蛋粥",
+			"Vegetable\n蔬菜"
+		],
+		"Eat Global": [
+			"Fried Egg\n煎荷包蛋",
+			"Hash Brown\n薯饼",
+			"Chicken Sausage\n煎鸡肉肠",
+			"Cereal And Coix Congee\n麦片薏仁粥",
+			"Coarse Salt Ball Bread\n粗盐小球"
+		],
+		"Revolution Noodle": [
+			"Fried Rice Noodles\nWith Shredded Pork\n猪肉丝炒河粉"
+		],
+		"Piccola Italia": [
+			"Toast Selection\n全麦吐司",
+			"Jam Selection\n果酱",
+			"Dried Soda Biscuit\n混合苏打饼干",
+			"Daily Cereal With Yougurt\n玉米片，葡萄干，蔓越莓干，酸奶"
+		],
+		"Self Pick-up": [
+			"Fruit/yogurt/yakult/milk/juice /soybean Milk\n水果/酸奶/养乐多/牛奶/果汁/豆浆"
+		],
+		"Fruit/Drink": []
+	},
+	"today_lunch": {
+		"Taste of Asia": [
+			"Sichuan Spicy Fish\n川湘豆花鱼",
+			"Salted Pork And Vegetable Rice\n咸肉蔬菜饭",
+			"Cabbage\n烤牛心菜",
+			"Grilled Cowpea\n扒豇豆",
+			"Rice With Mung Bean\n绿豆饭"
+		],
+		"Eat Global": [
+			"Butter Chicken\n黄油鸡",
+			"Grilled Cowpea\n扒豇豆",
+			"Cabbage\n烤牛心菜",
+			"Bread\n小面包"
+		],
+		"Revolution Noodle": [
+			"Oden\n关东煮（酱油汤）"
+		],
+		"Piccola Italia": [
+			"Italy Creamy Bacon, Mushroom Pasta\n焗意大利奶油培根蘑菇面"
+		],
+		"Vegetarian": [
+			"Pan-fried Shredded Potato Cake\n土豆丝饼"
+		],
+		"Daily Soup": [
+			"West Lake Beef Soup\n西湖牛肉羹"
+		],
+		"Dessert/Fruit/Drink": [
+			"Biscuit/fruit/yogurt/\nyakult/Milk/juice\n巧克力饼干/水果/酸奶/养乐多/牛奶/果汁"
+		]
+	},
+	"today_dinner": {
+		"Taste of Asia": [
+			"Orleans Roasted Chicken Wing\n奥尔良烤鸡翅根",
+			"Bacon And Snow Peas\n腊味荷兰豆",
+			"Spinach\n菠菜",
+			"Roasted Zucchini\n烤西葫芦",
+			"Steamed Rice\n米饭"
+		],
+		"Eat Global": [
+			"Beef Goulash\n匈牙利炖牛肉",
+			"Roasted Zucchini\n烤西葫芦",
+			"Spinach\n菠菜",
+			"Baked Potato\n烤土豆"
+		],
+		"Revolution Noodle": [
+			"Oil Gluten Stuffed With Meat With Sweet Potato Vermicelli\n上海双档(油面筋塞肉&百叶包）"
+		],
+		"Piccola Italia": [
+			"Linguine With Garlic Shrimp\n蒜香虾仁扁意面"
+		],
+		"Vegetarian": [
+			"Noodle\nWith Sallion Oil                                                                                                                      \n   葱油拌面"
+		],
+		"Daily Soup": [
+			"Beet And Beef Soup\n俄式甜菜牛肉汤"
+		],
+		"Dessert/Fruit/Drink": [
+			"Butter Cake/fruit/yogurt/yakult/\nMilk/juice\n黄油蛋糕/水果/酸奶/牛奶/果汁"
+		]
+	},
+	"next_breakfast": {
+		"Taste of Asia": [
+			"Shaomai                                               \n 烧麦",
+			"Shandong Pancake (home-made)/dough Stick山东煎饼（纯手工/油条）",
+			"Marinated Egg\n卤水鸡蛋",
+			"Spicy Soup\n胡辣汤",
+			"Vegetable\n蔬菜"
+		],
+		"Eat Global": [
+			"Egg And Chicken & Chesse Burrito\n芝士鸡肉早餐卷",
+			"Oatmeal\n麦片粥",
+			"Corn Tortillas\n玉米饼"
+		],
+		"Revolution Noodle": [
+			"Noodles With Fried Pork In Oyster Sauce\n蚝油猪片面"
+		],
+		"Piccola Italia": [
+			"Toast Selection\n全麦吐司",
+			"Jam Selection\n果酱",
+			"Dried Soda Biscuit\n混合苏打饼干",
+			"Daily Cereal With Milk\n脆圈圈，葡萄干，蔓越莓干，牛奶"
+		],
+		"Self Pick-up": [
+			"Fruit/yogurt/yakult/milk/juice /soybean Milk\n水果/酸奶/养乐多/牛奶/果汁/豆浆"
+		],
+		"Fruit/Drink": []
+	},
+	"the_week_ahead_url": "https://ykpaoschool-my.sharepoint.com/:p:/g/personal/cora_chen_ykpaoschool_cn/ES8-D2AEochFhwvz7-fL5GEBcfo7d_WIrNBgAdHDlG6BGA",
+	"today_snack": {
+		"Morning": "Samosa\n 咖喱角",
+		"Afternoon": "Fruit & Yoghurt\n水果 & 酸奶",
+		"Evening": null
+	},
+	"inspiration_type": null,
+	"inspiration_shared_by": null,
+	"inspiration_origin": null,
+	"inspiration_text": null,
+	"inspiration_image_data": null,
+	"inspiration_image_mime": null,
+	"on_this_day_html_en": null,
+	"on_this_day_html_zh": null,
+	"in_the_news_html_en": null,
+	"in_the_news_html_zh": null
+}
