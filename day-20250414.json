@@ -1,0 +1,175 @@
+{
+	"stddate": "2025-04-14",
+	"community_time": [
+		[
+			"Whole School Assembly",
+			"Whole School Assembly",
+			"Whole School Assembly",
+			"Whole School Assembly"
+		],
+		[
+			"Tutor Time",
+			"Tutor Time",
+			"Tutor Time",
+			"Tutor Time"
+		],
+		[
+			"AAO(Auditorium)​ -M2 PPE Awards",
+			"Y10 Music Interlude (Oxygen Bar)",
+			"Zhixing Meeting (Learning Commons & Day Student Center) ",
+			"HoH Tutor Time(Inc. Tutees & Tutors) Student Survey Focus Group"
+		],
+		[
+			"Follow-up day: 1. Reflect on the week's events; 2. Complete an activity addressing issues highlighted by Pulse or teacher observation.",
+			"Follow-up day: 1. Reflect on the week's events; 2. Complete an activity addressing issues highlighted by Pulse or teacher observation.",
+			"Follow-up day: 1. Reflect on the week's events; 2. Complete an activity addressing issues highlighted by Pulse or teacher observation.",
+			"Follow-up day: 1. Reflect on the week's events; 2. Complete an activity addressing issues highlighted by Pulse or teacher observation."
+		]
+	],
+	"days_after_this": 3,
+	"aod": "Zang Na",
+	"weekday_english": "Monday",
+	"weekdays_abbrev": [
+		"Mon",
+		"Tue",
+		"Wed",
+		"Thu",
+		"Fri",
+		"Sat",
+		"Sun",
+		"Mon"
+	],
+	"weekday_chinese": "周一",
+	"day_of_cycle": "B",
+	"today_breakfast": {
+		"Taste of Asia": [
+			"Qiang Pastry\n火腿羌饼",
+			"Small Steamed Pork Buns\n小笼包",
+			"Fried Egg\n煎鸡蛋",
+			"Mushroom And Fish Congee\n香菇鱼片粥",
+			"Vegetables\n蔬菜"
+		],
+		"Eat Global": [
+			"Eggs, Cheese And Bacon Quesadillas\n鸡蛋培根芝士早餐饼",
+			"Oatmeal\n麦片粥",
+			"Hash Browns\n薯饼"
+		],
+		"Revolution Noodle": [],
+		"Piccola Italia": [
+			"Toast Selection\n混合吐司",
+			"Jam Selection\n果酱",
+			"Daily Cereal With Milk\n可可求，玉米片，葡萄干，蔓越莓干，芝麻饼干",
+			"Boiled Egg\n白煮蛋"
+		],
+		"Self Pick-up": [
+			"Fruit/yogurt/yakult/milk/juice /soybean Milk\n水果/酸奶/养乐多/牛奶/果汁/豆浆"
+		],
+		"Fruit/Drink": []
+	},
+	"today_lunch": {
+		"Taste of Asia": [
+			"Braised Pork Knuckle\n走油蹄膀",
+			"Braised Bean Curd With Minced Pork\n肉丝烧素鸡",
+			"Bok Choy\n青菜",
+			"Asparagus Carrot\n芦笋&迷胡萝卜",
+			"Steamed Rice\n米饭"
+		],
+		"Eat Global": [
+			"Grilled Fish With Fennel Sauce\n扒龙利鱼柳配茴香汁",
+			"Bok Choy\n青菜",
+			"Asparagus Carrot\n芦笋&迷胡萝卜",
+			"Baked Pumpkin\n烤南瓜"
+		],
+		"Revolution Noodle": [
+			"Pickled Cabbage Beef Noodles\n酸菜牛肉面/兰花干"
+		],
+		"Piccola Italia": [
+			"Chicken Enchiladas\n墨西哥鸡肉卷"
+		],
+		"Vegetarian": [
+			"Okra-bean Stem,creamy Lentil\n秋葵豆泥，奶油扁豆"
+		],
+		"Daily Soup": [
+			"Corn Soup\n玉米汤"
+		],
+		"Dessert/Fruit/Drink": [
+			"Palmier/fruit/yogurt/\nYakult/milk/juice\n蝴蝶酥/水果/酸奶/养乐多/牛奶/果汁"
+		]
+	},
+	"today_dinner": {
+		"Taste of Asia": [
+			"Stewed Chicken With Homemade Special Sauce\n钵钵鸡",
+			"Fried Sliced Pork With Yam And Fungus\n山药木耳炒猪肉片",
+			"Lettuce\n生菜",
+			"Fried Cowpeas\n扒豇豆",
+			"Steamed Rice\n米饭"
+		],
+		"Eat Global": [
+			"Pork Stew\n慢炖猪肉",
+			"Fried Cowpeas\n扒豇豆",
+			"Lettuce\n生菜",
+			"Garlic Bread\n蒜香面包"
+		],
+		"Revolution Noodle": [
+			"Salted Duck Noodles\n盐水鸭面/卤鸡蛋"
+		],
+		"Piccola Italia": [
+			"Baked Pasta With Ham In Tomato Sauce\n焗芝士意面配火腿番茄酱"
+		],
+		"Vegetarian": [
+			"Celery And Shredded Bean Curd With Black Rice\n芹菜炒素肉丝配黑米饭"
+		],
+		"Daily Soup": [
+			"Pumpkin Soup\n奶油南瓜汤"
+		],
+		"Dessert/Fruit/Drink": [
+			"Brownie\n/fruit/yogurt/yakult/milk/juice\n布朗尼/水果/酸奶/养乐多/牛奶/果汁"
+		]
+	},
+	"next_breakfast": {
+		"Taste of Asia": [
+			"Pan-fried Beef Bun\n牛肉煎饼",
+			"Dough Stick\n油条",
+			"Steamed Egg\n蒸鸡蛋",
+			"Beancurd Jelly\n豆腐花(咸，甜）",
+			"Vegetables\n蔬菜"
+		],
+		"Eat Global": [
+			"Fried Eggs\n煎鸡蛋",
+			"Roast Sweet Potato\n烤红薯",
+			"Breakfast Sausage\n鸡肉早餐肠",
+			"Cereal And Coix With Chickpea Congee\n麦片薏仁三角豆粥",
+			"Rye Bread\n黑麦面包"
+		],
+		"Revolution Noodle": [
+			"Beef With Rice Noodles And Egg\n鸡蛋牛肉丝炒河粉"
+		],
+		"Piccola Italia": [
+			"Toast Selection\n混合吐司",
+			"Jam Selection\n果酱",
+			"Dried Soda Biscuit\n混合苏打饼干",
+			"Daily Cereal With Yougurt\n玉米片，可可球葡萄干，蔓越莓干，酸奶",
+			"Boiled Egg\n白煮蛋"
+		],
+		"Self Pick-up": [
+			"Fruit/yogurt/yakult/milk/juice /soybean Milk\n水果/酸奶/养乐多/牛奶/果汁/豆浆"
+		],
+		"Fruit/Drink": []
+	},
+	"the_week_ahead_url": "https://ykpaoschool-my.sharepoint.com/:p:/g/personal/cora_chen_ykpaoschool_cn/ES8-D2AEochFhwvz7-fL5GEBcfo7d_WIrNBgAdHDlG6BGA",
+	"today_snack": {
+		"Morning": "Ham Cheese Sandwich\n火腿芝士三明治",
+		"Afternoon": "Fruit & Fruit Yoghurt\n水果 & 果味酸奶",
+		"Evening": null
+	},
+	"inspiration_type": null,
+	"inspiration_shared_by": null,
+	"inspiration_origin": null,
+	"inspiration_text": null,
+	"inspiration_image_data": null,
+	"inspiration_image_mime": null,
+	"on_this_day_html_en": null,
+	"on_this_day_html_zh": null,
+	"in_the_news_html_en": null,
+	"in_the_news_html_zh": null
+}

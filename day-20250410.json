@@ -1,0 +1,159 @@
+{
+	"stddate": "2025-04-10",
+	"community_time": [
+		[
+			"Share Your Voice in the 2024-2025 Yearbook - https://forms.office.com/Pages/ResponsePage.aspx?id=bNLT3ZexAE2jLR_9hMDClcN3SfFO35ZAqqFtZBBRP-hUQkFLQUs3WE9RVEtVSFFKUTA4WjBBTENSQi4u",
+			"Share Your Voice in the 2024-2025 Yearbook - https://forms.office.com/Pages/ResponsePage.aspx?id=bNLT3ZexAE2jLR_9hMDClcN3SfFO35ZAqqFtZBBRP-hUQkFLQUs3WE9RVEtVSFFKUTA4WjBBTENSQi4u",
+			"Share Your Voice in the 2024-2025 Yearbook - https://forms.office.com/Pages/ResponsePage.aspx?id=bNLT3ZexAE2jLR_9hMDClcN3SfFO35ZAqqFtZBBRP-hUQkFLQUs3WE9RVEtVSFFKUTA4WjBBTENSQi4u",
+			"Share Your Voice in the 2024-2025 Yearbook - https://forms.office.com/Pages/ResponsePage.aspx?id=bNLT3ZexAE2jLR_9hMDClcN3SfFO35ZAqqFtZBBRP-hUQkFLQUs3WE9RVEtVSFFKUTA4WjBBTENSQi4u"
+		]
+	],
+	"days_after_this": 0,
+	"aod": "James Ogram/Iain Kilpatrick",
+	"weekday_english": "Thursday",
+	"weekdays_abbrev": [
+		"Thu",
+		"Fri",
+		"Sat",
+		"Sun",
+		"Mon"
+	],
+	"weekday_chinese": "周四",
+	"day_of_cycle": "F",
+	"today_breakfast": {
+		"Taste of Asia": [
+			"Bbq Bun\n叉烧包",
+			"Steamed Grain Bun/preserved Vegetable With Egg\n荷叶夹饼/外婆菜炒鸡蛋",
+			"Preserved Vegetable With Egg\n外婆菜炒鸡蛋",
+			"Beef Mushroom Congee\n香菇牛肉粥",
+			"Vegetables\n蔬菜"
+		],
+		"Eat Global": [
+			"Sunny-side-up\n煎太阳蛋",
+			"Pumpkin\n南瓜",
+			"Pan Fried Bacon\n煎培根",
+			"Oatmeal\n麦片粥",
+			"Hash Brown\n薯饼"
+		],
+		"Revolution Noodle": [
+			"Soup With Duck & Rice-noodle\n老鸭油豆腐米线汤"
+		],
+		"Piccola Italia": [
+			"Toast Selection\n混合吐司",
+			"Jam Selection\n果酱",
+			"Dried Soda Biscuit\n混合苏打饼干",
+			"Daily Cereal With Yougurt\n麦片，葡萄干，蔓越莓干，酸奶",
+			"Boiled Egg\n白煮蛋"
+		],
+		"Self Pick-up": [
+			"Fruit/yogurt/yakult/milk/juice /soybean Milk\n水果/酸奶/养乐多/牛奶/果汁/豆浆"
+		],
+		"Fruit/Drink": []
+	},
+	"today_lunch": {
+		"Taste of Asia": [
+			"Fried Fish Slices In Fermented Glutinous Rice Sauce\n糟溜鱼片",
+			"Stir-fried Egg With Tomato\n番茄炒鸡蛋",
+			"Green Vegetables\n杭白菜",
+			"Roasted Eggplant And Bell Pepper\n炭烤茄子配甜椒",
+			"Quinoa Rice\n三色藜麦米饭"
+		],
+		"Eat Global": [
+			"Chicken Cordon Bleu\n蓝带鸡排",
+			"Green Vegetables\n杭白菜",
+			"Roasted Eggplant And Bell Pepper\n炭烤茄子配甜椒",
+			"Grilled Taro With Cheese\n芝士烤芋艿"
+		],
+		"Revolution Noodle": [
+			"Braised Pork Noodles\n焖肉面/素鸡"
+		],
+		"Piccola Italia": [
+			"Deep-fried Chicken /roasted Corn\n脆皮炸鸡腿配烤玉米"
+		],
+		"Vegetarian": [
+			"Mediterranean Quiche/sautéed Green Peas With Onions\n地中海乳蛋饼/炒洋葱青豆"
+		],
+		"Daily Soup": [
+			"Russian Beef Soup                                                                                                                           俄式牛肉汤"
+		],
+		"Dessert/Fruit/Drink": [
+			"Cheese Cake/fruit/yogurt/\nYakult/milk/juice\n芝士蛋糕/水果/酸奶/养乐多/牛奶/果汁"
+		]
+	},
+	"today_dinner": {
+		"Taste of Asia": [
+			"Braised Chicken With Mushrooms\n香菇炖鸡块",
+			"Minced Pork Vermicelli\n肉沫粉丝",
+			"Lettuce\n生菜",
+			"Radish\n白萝卜",
+			"Peas Rice\n青豆饭"
+		],
+		"Eat Global": [
+			"Vienna Style Pork\n维也纳烤猪大腿肉",
+			"Radish\n白萝卜",
+			"Lettuce\n生菜",
+			"Baked Purple Sweet Potato With Cheese\n香烤芝士紫薯块",
+			"Peas Rice\n青豆饭"
+		],
+		"Revolution Noodle": [
+			"Beef & Quail Eggs Noodles\n酸汤肥牛面"
+		],
+		"Piccola Italia": [
+			"Chorizo Risotto\n西班牙香肠烩饭"
+		],
+		"Vegetarian": [
+			"Bean Curd With Cucumber, Carrots, Beansprouts, Multigrain Rice                                                                                                           三丝拌云丝配混合谷物"
+		],
+		"Daily Soup": [
+			"Onion Soup\n法式洋葱汤"
+		],
+		"Dessert/Fruit/Drink": [
+			"Sesame Cake\n/fruit/yogurt/yakult/milk/juice  原味桃酥/水果/酸奶/养乐多/牛奶/果汁"
+		]
+	},
+	"next_breakfast": {
+		"Taste of Asia": [
+			"Steamed Rice Rolls\n广式肠粉",
+			"Custard Bun/rice Roll (home-made)\n奶黄包/ 上海手工滋饭团",
+			"Deep-fried Boiled Egg\n虎皮鸡蛋",
+			"Mung Bean Congee\n绿豆粥",
+			"Vegetables\n蔬菜"
+		],
+		"Eat Global": [
+			"Bake The Broccoli\n烤西兰花",
+			"Beef & Cheese Panini\n牛肉芝士三明治",
+			"Cereal And Coix Congee\n麦片小米粥",
+			"Brazil Black Bean\n巴西黑豆"
+		],
+		"Revolution Noodle": [
+			"Noodle With Scallion & Shredded Pork\n葱油拌面（猪肉丝）"
+		],
+		"Piccola Italia": [
+			"Toast Selection\n混合吐司",
+			"Jam Selection\n果酱",
+			"Dried Soda Biscuit\n混合苏打饼干",
+			"Daily Cereal With Milk\n卜卜米，葡萄干，蔓越莓干，牛奶",
+			"Boiled Egg\n白煮蛋"
+		],
+		"Self Pick-up": [
+			"Fruit/yogurt/yakult/milk/juice /soybean Milk\n水果/酸奶/养乐多/牛奶/果汁/豆浆"
+		],
+		"Fruit/Drink": []
+	},
+	"the_week_ahead_url": "https://ykpaoschool-my.sharepoint.com/:p:/g/personal/cora_chen_ykpaoschool_cn/ES8-D2AEochFhwvz7-fL5GEBcfo7d_WIrNBgAdHDlG6BGA",
+	"today_snack": {
+		"Morning": "Steamed Corn Dumpling\n玉米蒸饺",
+		"Afternoon": "Garlic Bread & Yoghurt\n蒜香面包 & 酸奶",
+		"Evening": null
+	},
+	"inspiration_type": null,
+	"inspiration_shared_by": null,
+	"inspiration_origin": null,
+	"inspiration_text": null,
+	"inspiration_image_data": null,
+	"inspiration_image_mime": null,
+	"on_this_day_html_en": null,
+	"on_this_day_html_zh": null,
+	"in_the_news_html_en": null,
+	"in_the_news_html_zh": null
+}

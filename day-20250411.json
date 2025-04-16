@@ -1,0 +1,92 @@
+{
+	"stddate": "2025-04-11",
+	"community_time": [],
+	"days_after_this": -1,
+	"aod": "None",
+	"weekday_english": "Friday",
+	"weekdays_abbrev": [
+		"Fri",
+		"Sat",
+		"Sun",
+		"Mon"
+	],
+	"weekday_chinese": "周五",
+	"day_of_cycle": "A",
+	"today_breakfast": {
+		"Taste of Asia": [
+			"Steamed Rice Rolls\n广式肠粉",
+			"Custard Bun/rice Roll (home-made)\n奶黄包/ 上海手工滋饭团",
+			"Deep-fried Boiled Egg\n虎皮鸡蛋",
+			"Mung Bean Congee\n绿豆粥",
+			"Vegetables\n蔬菜"
+		],
+		"Eat Global": [
+			"Bake The Broccoli\n烤西兰花",
+			"Beef & Cheese Panini\n牛肉芝士三明治",
+			"Cereal And Coix Congee\n麦片小米粥",
+			"Brazil Black Bean\n巴西黑豆"
+		],
+		"Revolution Noodle": [
+			"Noodle With Scallion & Shredded Pork\n葱油拌面（猪肉丝）"
+		],
+		"Piccola Italia": [
+			"Toast Selection\n混合吐司",
+			"Jam Selection\n果酱",
+			"Dried Soda Biscuit\n混合苏打饼干",
+			"Daily Cereal With Milk\n卜卜米，葡萄干，蔓越莓干，牛奶",
+			"Boiled Egg\n白煮蛋"
+		],
+		"Self Pick-up": [
+			"Fruit/yogurt/yakult/milk/juice /soybean Milk\n水果/酸奶/养乐多/牛奶/果汁/豆浆"
+		],
+		"Fruit/Drink": []
+	},
+	"today_lunch": {
+		"Taste of Asia": [
+			"Marinated Pork And Vegetable Rice\n咸肉菜饭",
+			"Roasted Buck\n香酥烤鸭",
+			"Spinaches\n菠菜",
+			"Sauerkrauts\n酸椰菜",
+			"Steamed Rice\n米饭"
+		],
+		"Eat Global": [
+			"German-style Sausage\n德式香肠",
+			"Sauerkrauts\n酸椰菜",
+			"Spinaches\n菠菜",
+			"Mash Potatoes\n土豆泥"
+		],
+		"Revolution Noodle": [
+			"Seafood Noodles\n海鲜面/白煮蛋"
+		],
+		"Piccola Italia": [
+			"Nachos With Guacamole\n墨西哥玉米饼配牛油果酱"
+		],
+		"Vegetarian": [
+			"Falafel & Pita Bread\n法拉法，皮塔面包"
+		],
+		"Daily Soup": [
+			"Seaweed Soup With Egg And Pork\n紫菜肉丝蛋汤"
+		],
+		"Dessert/Fruit/Drink": [
+			"Brownie /fruit/yogurt/\nYakult/milk/juice\n布朗尼 /水果/酸奶/养乐多/牛奶/果汁"
+		]
+	},
+	"today_dinner": null,
+	"next_breakfast": null,
+	"the_week_ahead_url": "https://ykpaoschool-my.sharepoint.com/:p:/g/personal/cora_chen_ykpaoschool_cn/ES8-D2AEochFhwvz7-fL5GEBcfo7d_WIrNBgAdHDlG6BGA",
+	"today_snack": {
+		"Morning": "Roasted Bread With Bacon And Egg\n培根鸡蛋三明治",
+		"Afternoon": null,
+		"Evening": null
+	},
+	"inspiration_type": null,
+	"inspiration_shared_by": null,
+	"inspiration_origin": null,
+	"inspiration_text": null,
+	"inspiration_image_data": null,
+	"inspiration_image_mime": null,
+	"on_this_day_html_en": null,
+	"on_this_day_html_zh": null,
+	"in_the_news_html_en": null,
+	"in_the_news_html_zh": null
+}
